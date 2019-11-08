@@ -1,7 +1,6 @@
 title: David Sierra Porta
 email: sierraporta@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Bienvenidos a mi página web personal.
+description: Bienvenidos a mi página web personal.
 text-align: justified
 margin: 20px auto
 max-width: 800px
