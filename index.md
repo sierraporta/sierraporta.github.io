@@ -5,3 +5,5 @@
 - Doctor en Física Fundamental (ULA-VE).
 - Posición actual: Profesor en Universidad Industrial de Santander. Bucaramanga-Colombia.
 - Áreas de Interés: Física de altas energías, Gravitación y Cosmología, Rayos cósmicos, Clima espacial.
+
+![stack Overflow](http://lmsotfy.com/so.png)
