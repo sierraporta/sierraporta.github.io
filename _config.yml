@@ -4,4 +4,4 @@ description: Bienvenidos a mi página web personal.
 text-align: justified
 margin: 20px auto
 max-width: 800px
-theme: jekyll-theme-modernist
+theme: jekyll-theme-dinky
