@@ -1,2 +1,5 @@
 theme: jekyll-theme-modernist
 default_layout: layout-full-width
+.page {
+  width: calc(100% - #{$right-sidebar-width-narrow});
+}
