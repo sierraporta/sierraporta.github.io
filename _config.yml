@@ -2,5 +2,6 @@ title: David Sierra Porta
 email: sierraporta@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Bienvenidos a mi página web personal.
-
+text-align: justified
+max-width: 800px
 theme: jekyll-theme-modernist
