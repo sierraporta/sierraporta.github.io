@@ -3,3 +3,4 @@ default_layout: layout-full-width
 .page {
   width: calc(100% - #{$right-sidebar-width-narrow});
 }
+title: CS231n Convolutional Neural Networks for Visual Recognition
