@@ -4,3 +4,4 @@ default_layout: layout-full-width
   width: calc(100% - #{$right-sidebar-width-narrow});
 }
 title: CS231n Convolutional Neural Networks for Visual Recognition
+url: Lo que sea
