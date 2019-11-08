@@ -1,9 +1,7 @@
 <h1>David Sierra Porta</h1>
-```
-- Lic. en Matemáticas y Física (LUZ-VE). M.Sc. en Física Fundamental (ULA-VE). Doctor en Física Fundamental (ULA-VE).
-- Posición actual: Profesor en Universidad Industrial de Santander. Bucaramanga-Colombia.
-- Áreas de Interés: Física de altas energías, Gravitación y Cosmología, Rayos cósmicos, Clima espacial.
-```
+- [] Lic. en Matemáticas y Física (LUZ-VE). M.Sc. en Física Fundamental (ULA-VE). Doctor en Física Fundamental (ULA-VE).
+- [] Posición actual: Profesor en Universidad Industrial de Santander. Bucaramanga-Colombia.
+- [] Áreas de Interés: Física de altas energías, Gravitación y Cosmología, Rayos cósmicos, Clima espacial.
 
 <h2>Curso de Física 3: Ondas</h2>
 <img src="https://www.insidescience.org/sites/default/files/sites/default/files/images/articles/top-images/2019/Waves_topNteaser.jpg" style="float:right" width="300" hspace="20">
