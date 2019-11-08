@@ -1,8 +1,6 @@
 theme: jekyll-theme-modernist
 default_layout: layout-full-width
-.page {
-  width: calc(100% - #{$right-sidebar-width-narrow});
-}
+width: 100%
 title: CS231n Convolutional Neural Networks for Visual Recognition
 url: Lo que sea
 repository: algo
