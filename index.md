@@ -5,13 +5,13 @@
 
 <h2>Curso de Física 3: Ondas</h2>
 <img src="https://www.insidescience.org/sites/default/files/sites/default/files/images/articles/top-images/2019/Waves_topNteaser.jpg" style="float:right" width="300" hspace="20">
-1. Oscilaciones I: Movimiento Armónico Simple. [oscilaciones1.pdf] [IPython]
-2. Oscilaciones II: Péndulo simple. [oscilaciones2.pdf] [IPython]
-3. Oscilaciones III: Oscilaciones Amortiguadas. [oscilaciones3.pdf] [IPython]
-4. Oscilaciones IV: Oscilaciones Forzadas y Resonancia. [oscilaciones4.pdf] [IPython]
-  - Algunos ejercicios resueltos. [ejercicios_mas.pdf]
-5. Ondas I: Introducción a las ondas. [ondas1.pdf]
-6. Ondas II: Ondas transversales. [ondas2.pdf]
+1. Oscilaciones I: Movimiento Armónico Simple. [oscilaciones1.pdf](fisica3/oscilaciones1.pdf) [IPython]
+2. Oscilaciones II: Péndulo simple. [oscilaciones2.pdf](fisica3/oscilaciones2.pdf) [IPython]
+3. Oscilaciones III: Oscilaciones Amortiguadas. [oscilaciones3.pdf](fisica3/oscilaciones3.pdf) [IPython]
+4. Oscilaciones IV: Oscilaciones Forzadas y Resonancia. [oscilaciones4.pdf](fisica3/oscilaciones4.pdf) [IPython]
+  - Algunos ejercicios resueltos. [ejercicios_mas.pdf](fisica3/ejercicios_mas.pdf)
+5. Ondas I: Introducción a las ondas. [ondas1.pdf](fisica3/ondas1.pdf)
+6. Ondas II: Ondas transversales. [ondas2.pdf](fisica3/ondas2.pdf)
 
 <h2>Proyecto: Clima espacial y Rayos Cósmicos</h2>
 <img src="https://www.wired.com/wp-content/uploads/images_blogs/wiredscience/2012/02/solarflare.jpg" style="float:left" width="200" hspace="20"> La variación de 11 años en la intensidad de los rayos cósmicos galácticos (GCR) generalmente se asocia con una variación similar de la actividad solar (SA); existe una anticorrelación entre ellos. En una serie de trabajos clásicos que datan de 1954, Forbush estableció la existencia de una anti-correlación cíclica de 11 años entre la intensidad de rayos cósmicos galácticos y la actividad solar, medida por el número de manchas solares. En el presente documento se exponen los objetivos y metodología para la consolidación de un proyecto encaminado al estudio de las relaciones entre Intensidad de Rayos Cósmicos Galácticos y Actividad Solar desde distintos tipos de vista.
