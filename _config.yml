@@ -3,4 +3,4 @@ email: sierraporta@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Bienvenidos a mi página web personal.
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-modernist
