@@ -16,10 +16,10 @@ Proyecto y Resultados Preliminares --> Resultados_Preliminares_Proy_RC_AS.pdf (O
 <img src="https://images-na.ssl-images-amazon.com/images/I/41HgV-STn-L._SX339_BO1,204,203,200_.jpg" style="float:right" width="180" border="15"> Este libro trata de algunas primeras nociones absolutamente indispensables con las que deben encontrarse los estudiantes en el inicio de la carrera de la licenciatura en ciencias físicas, herramientas definitivamente necesarias para la continuación de las asignaturas en curso y venideras, pero que, por estar incluídos en tratados de matemáticas o ciencias (por separado), no son tratados de manera formal; o también porque son considerados aburridos o fastidiosos. Los problemas concernientes a las definiciones de unidades, medidas, dimensiones y errores pudieron haber sido tratados en el bachillerato pero seguramente de una manera muy rápida y casi con toda seguridad con matemáticas y lógicas incompletas, debido fundamentalmente a la falta de base para tratarlas. Seguro será de mucha ayuda para todos como material de referencia o como lectura complementaria para introducirse y profundizar en las nociones de las técnicas experimentales en la resolución de problemas de ciencias.
 
 <h2>Curso de Física 3: Ondas</h2>
-+ Oscilaciones I: Movimiento Armónico Simple. [oscilaciones1.pdf] [IPython]
-+ Oscilaciones II: Péndulo simple. [oscilaciones2.pdf] [IPython]
-+ Oscilaciones III: Oscilaciones Amortiguadas. [oscilaciones3.pdf] [IPython]
-+ Oscilaciones IV: Oscilaciones Forzadas y Resonancia. [oscilaciones4.pdf] [IPython]
+* Oscilaciones I: Movimiento Armónico Simple. [oscilaciones1.pdf] [IPython]
+* Oscilaciones II: Péndulo simple. [oscilaciones2.pdf] [IPython]
+* Oscilaciones III: Oscilaciones Amortiguadas. [oscilaciones3.pdf] [IPython]
+* Oscilaciones IV: Oscilaciones Forzadas y Resonancia. [oscilaciones4.pdf] [IPython]
   - Algunos ejercicios resueltos. [ejercicios_mas.pdf]
-+ Ondas I: Introducción a las ondas. [ondas1.pdf]
-+ Ondas II: Ondas transversales. [ondas2.pdf]
+* Ondas I: Introducción a las ondas. [ondas1.pdf]
+* Ondas II: Ondas transversales. [ondas2.pdf]
