@@ -8,8 +8,8 @@ _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprend
 
 <h2>Curso de Física 3: Ondas</h2>
 <img src="https://www.insidescience.org/sites/default/files/sites/default/files/images/articles/top-images/2019/Waves_topNteaser.jpg" style="float:right" width="300" hspace="20">
-1. Oscilaciones I: Movimiento Armónico Simple. [oscilaciones1.pdf](fisica3/oscilaciones1.pdf) [IPython]
-2. Oscilaciones II: Péndulo simple. [oscilaciones2.pdf](fisica3/oscilaciones2.pdf) [IPython]
+1. Oscilaciones I: Movimiento Armónico Simple. > [oscilaciones1.pdf](fisica3/oscilaciones1.pdf) [IPython]
+2. Oscilaciones II: Péndulo simple. > [oscilaciones2.pdf](fisica3/oscilaciones2.pdf) [IPython]
 3. Oscilaciones III: Oscilaciones Amortiguadas. [oscilaciones3.pdf](fisica3/oscilaciones3.pdf) [IPython]
 4. Oscilaciones IV: Oscilaciones Forzadas y Resonancia. [oscilaciones4.pdf](fisica3/oscilaciones4.pdf) [IPython]
   - Algunos ejercicios resueltos. [ejercicios_mas.pdf](fisica3/ejercicios_mas.pdf)
