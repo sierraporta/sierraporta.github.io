@@ -1,0 +1,21 @@
+html {
+  background:#6C7989;
+  @include background(#6C7989 linear_gradient(#6C7989, #434B55) fixed);
+}
+
+body {
+  padding:100px 0;
+  margin:0;
+  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#555;
+  font-weight:300;
+  background:inline-image('checker.png') fixed;
+}
+
+.wrapper {
+  width:640px;
+  margin:0 auto;
+  background:#DEDEDE;
+  @include border-radius(8px);
+  @include box-shadow(rgba(#000, 0.2) 0 0 0 1px, rgba(#000, 0.45) 0 3px 10px);
+}
