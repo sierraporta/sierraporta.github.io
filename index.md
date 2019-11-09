@@ -1,10 +1,10 @@
-```
 _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprender cosas todos los días y progresar. Realmente disfruto mi trabajo, ya que interactuo constantemente con investigadores colegas. Otro aspecto del trabajo que realmente me gusta es la necesidad de explicar nuestro trabajo en términos simples a los no expertos. Me encanta abordar problemas complicados y tratar de encontrar soluciones originales para abordarlos. Y no hay nada rutinario al respecto, aprendemos cosas nuevas todo el tiempo y los problemas en los que trabajamos son muy variados. No todos hacemos lo mismo. Pero eso no significa que trabajemos solos._
-```
 
 - Lic. en Matemáticas y Física (LUZ-VE). M.Sc. en Física Fundamental (ULA-VE). Doctor en Física Fundamental (ULA-VE).
 - Posición actual: Profesor en Universidad Industrial de Santander. Bucaramanga-Colombia.
 - Áreas de Interés: Física de altas energías, Gravitación y Cosmología, Rayos cósmicos, Clima espacial.
+
+<HR>
 
 <h2>Curso de Física 3: Ondas</h2>
 <img src="https://www.insidescience.org/sites/default/files/sites/default/files/images/articles/top-images/2019/Waves_topNteaser.jpg" style="float:right" width="300" hspace="20">
