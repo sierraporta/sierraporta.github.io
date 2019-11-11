@@ -7,7 +7,7 @@ _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprend
 <HR>
 
 <h2>Curso de Física 3: Ondas</h2>
-<img src="http://www.biofisioterapia.org/wp-content/uploads/Ondas1-e1393283803831.png" style="float:right" width="300" hspace="20">
+<img src="https://media-cdn.tripadvisor.com/media/photo-s/11/45/73/c5/the-nauseating-tile-pattern.jpg" style="float:right" width="300" hspace="20">
 1. Oscilaciones I: Movimiento Armónico Simple. [[oscilaciones1.pdf](fisica3/oscilaciones1.pdf)] [IPython]
 2. Oscilaciones II: Péndulo simple. [[oscilaciones2.pdf](fisica3/oscilaciones2.pdf)] [IPython]
 3. Oscilaciones III: Oscilaciones Amortiguadas. [[oscilaciones3.pdf](fisica3/oscilaciones3.pdf)] [IPython]
