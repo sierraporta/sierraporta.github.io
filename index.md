@@ -15,6 +15,7 @@ _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprend
   - Algunos ejercicios resueltos. [[ejercicios_mas.pdf](fisica3/ejercicios_mas.pdf)]
 5. Ondas I: Introducción a las ondas. [[ondas1.pdf](fisica3/ondas1.pdf)]
 6. Ondas II: Ondas transversales. [[ondas2.pdf](fisica3/ondas2.pdf)]
+7. Ondas III: Reflexión, transmisión y energía. [[ondas3.pdf](fisica3/ondas3.pdf)]
 
 <h2>Proyecto: Clima espacial y Rayos Cósmicos</h2>
 <img src="https://live.staticflickr.com/8314/7931831962_7652860bae_b.jpg" style="float:left" width="300" hspace="20"> La variación de 11 años en la intensidad de los rayos cósmicos galácticos (GCR) generalmente se asocia con una variación similar de la actividad solar (SA); existe una anticorrelación entre ellos. En una serie de trabajos clásicos que datan de 1954, Forbush estableció la existencia de una anti-correlación cíclica de 11 años entre la intensidad de rayos cósmicos galácticos y la actividad solar, medida por el número de manchas solares. En el presente documento se exponen los objetivos y metodología para la consolidación de un proyecto encaminado al estudio de las relaciones entre Intensidad de Rayos Cósmicos Galácticos y Actividad Solar desde distintos tipos de vista.
