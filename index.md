@@ -21,5 +21,7 @@ _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprend
 - **Proyecto y Resultados Preliminares:** [Resultados_Preliminares_Proy_RC_AS.pdf (Octubre19)](rayos_cosmicos/Resultados_Preliminares_Proy_RC_AS.pdf)
 - **Nuevos resultados:** [resultados_Proy_RC_AS.pdf (Noviembre19)]
 
+<HR>
+  
 <h3>Mi libro: tecnicas experimentales para fisicos</h3>
 <img src="https://images-na.ssl-images-amazon.com/images/I/41HgV-STn-L._SX339_BO1,204,203,200_.jpg" style="float:right" width="180" hspace="20"> Este libro trata de algunas primeras nociones absolutamente indispensables con las que deben encontrarse los estudiantes en el inicio de la carrera de la licenciatura en ciencias físicas, herramientas definitivamente necesarias para la continuación de las asignaturas en curso y venideras, pero que, por estar incluídos en tratados de matemáticas o ciencias (por separado), no son tratados de manera formal; o también porque son considerados aburridos o fastidiosos. Los problemas concernientes a las definiciones de unidades, medidas, dimensiones y errores pudieron haber sido tratados en el bachillerato pero seguramente de una manera muy rápida y casi con toda seguridad con matemáticas y lógicas incompletas, debido fundamentalmente a la falta de base para tratarlas. Seguro será de mucha ayuda para todos como material de referencia o como lectura complementaria para introducirse y profundizar en las nociones de las técnicas experimentales en la resolución de problemas de ciencias.
