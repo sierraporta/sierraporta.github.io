@@ -10,7 +10,7 @@ _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprend
 2. Oscilaciones II: Péndulo simple. [[oscilaciones2.pdf](fisica3/oscilaciones2.pdf)] [IPython]
 3. Oscilaciones III: Oscilaciones Amortiguadas. [[oscilaciones3.pdf](fisica3/oscilaciones3.pdf)] [IPython]
 4. Oscilaciones IV: Oscilaciones Forzadas y Resonancia. [[oscilaciones4.pdf](fisica3/oscilaciones4.pdf)] [IPython]
-  - Algunos ejercicios resueltos. [[ejercicios_mas.pdf](fisica3/ejercicios_mas.pdf)]
+  - Algunos ejercicios resueltos. [[ejercicios_mas.pdf](fisica3/ejerciciosMAS.pdf)]
 5. Ondas I: Introducción a las ondas. [[ondas1.pdf](fisica3/ondas1.pdf)]
 6. Ondas II: Ondas transversales. [[ondas2.pdf](fisica3/ondas2.pdf)]
 7. Ondas III: Reflexión, transmisión y energía en ondas transversales. [[ondas3.pdf](fisica3/ondas3.pdf)]
