@@ -1,15 +1,6 @@
-<html>
-<head>
-    <title>My test page</title>
-    <link rel="shortcut icon" href="favicon.ico">
-    <link rel="stylesheet" href="css/style.css" type="text/css" media="screen"/>
-</head>
-<body>
-   <div id="header"></div>
-   Under Construction
-   <div id="dots"></div>
-</body>
-</html>
+<div style="background-image:url(//www.html.am/images/image-codes/milford_sound_t.jpg);width:300px;height:200px;color:black;font-size:18px;">
+</div>
+
  
 _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprender cosas todos los días y progresar. Realmente disfruto mi trabajo. Otro aspecto del trabajo que realmente me gusta es la necesidad de explicar nuestro trabajo en términos simples a los no expertos. Me encanta abordar problemas complicados y tratar de encontrar soluciones originales para abordarlos. Y no hay nada rutinario al respecto, aprendemos cosas nuevas todo el tiempo y los problemas en los que trabajamos son muy variados._
 
