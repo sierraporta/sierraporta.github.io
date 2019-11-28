@@ -1,5 +1,7 @@
-<div style="background-image:url(//www.html.am/images/image-codes/milford_sound_t.jpg)">
-</div>
+body {
+  background-image: url("paper.gif");
+  background-repeat: repeat;
+}
 
  
 _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprender cosas todos los días y progresar. Realmente disfruto mi trabajo. Otro aspecto del trabajo que realmente me gusta es la necesidad de explicar nuestro trabajo en términos simples a los no expertos. Me encanta abordar problemas complicados y tratar de encontrar soluciones originales para abordarlos. Y no hay nada rutinario al respecto, aprendemos cosas nuevas todo el tiempo y los problemas en los que trabajamos son muy variados._
