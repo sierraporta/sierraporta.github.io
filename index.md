@@ -1,8 +1,5 @@
 <html>
-<head>
-<title>Example</title>
-</head>
-<body style="background:funky-lines.png">
+<body style="background-image:funky-lines.png">
 </body>
 </html>
 
