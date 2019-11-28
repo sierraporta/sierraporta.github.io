@@ -1,5 +1,5 @@
 <html>
-   <body style="background-color:cornsilk;">
+   <body style="background-color:palegoldenrod;">
    </body>
 </html>
 
