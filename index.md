@@ -1,4 +1,4 @@
-<div style="background-image:url(//www.html.am/images/image-codes/milford_sound_t.jpg);width:300px;height:200px;color:black;font-size:18px;">
+<div style="background-image:url(//www.html.am/images/image-codes/milford_sound_t.jpg)">
 </div>
 
  
