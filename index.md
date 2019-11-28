@@ -1,5 +1,5 @@
 <html>
-   <body style="background-color:palegoldenrod;">
+   <body style="background-color:antiquewhite;">
    </body>
 </html>
 
