@@ -1,11 +1,6 @@
 <html>
-<head>
-<style>
-body {
-background-color: #d24dff
-}
-</style>
-</head>
+   <body style="background-image:funky-lines.png;">
+   </body>
 </html>
 
 #<html>
