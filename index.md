@@ -1,7 +1,4 @@
 <html>
-   <head>
-      <title>HTML Backgorund Color</title>
-   </head>
    <body style="background-color:wheat;">
    </body>
 </html>
