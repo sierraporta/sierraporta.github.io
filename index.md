@@ -1,8 +1,6 @@
 <html>
 body {
-  background-image: funky-lines.png;
-  background-position: 50% 50%;
-  background-repeat: repeat;
+    background: url("funky-lines.png");
 }
 </html>
 
