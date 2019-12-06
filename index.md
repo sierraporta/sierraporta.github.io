@@ -7,10 +7,10 @@ _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprend
 <h2>Curso de Física 3: Ondas</h2>
 ![ondas](patterns-stone.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;":height="35%" width="35%"}
 
-1. Oscilaciones I: Movimiento Armónico Simple. [[oscilaciones1.pdf](fisica3/oscilaciones1.pdf)] [IPython]
-2. Oscilaciones II: Péndulo simple. [[oscilaciones2.pdf](fisica3/oscilaciones2.pdf)] [IPython]
-3. Oscilaciones III: Oscilaciones Amortiguadas. [[oscilaciones3.pdf](fisica3/oscilaciones3.pdf)] [IPython]
-4. Oscilaciones IV: Oscilaciones Forzadas y Resonancia. [[oscilaciones4.pdf](fisica3/oscilaciones4.pdf)] [IPython]
+1. Oscilaciones I: Movimiento Armónico Simple. [[oscilaciones1.pdf](fisica3/oscilaciones1.pdf)]
+2. Oscilaciones II: Péndulo simple. [[oscilaciones2.pdf](fisica3/oscilaciones2.pdf)]
+3. Oscilaciones III: Oscilaciones Amortiguadas. [[oscilaciones3.pdf](fisica3/oscilaciones3.pdf)]
+4. Oscilaciones IV: Oscilaciones Forzadas y Resonancia. [[oscilaciones4.pdf](fisica3/oscilaciones4.pdf)]
   - Algunos ejercicios resueltos. [[ejercicios_MAS.pdf](fisica3/ejerciciosMAS.pdf)]
 5. Ondas I: Introducción a las ondas. [[ondas1.pdf](fisica3/ondas1.pdf)]
 6. Ondas II: Ondas transversales. [[ondas2.pdf](fisica3/ondas2.pdf)]
