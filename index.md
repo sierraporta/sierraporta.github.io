@@ -5,9 +5,9 @@ _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprend
 - Áreas de Interés: Física de altas energías, Gravitación y Cosmología, Rayos cósmicos, Clima espacial.
 
 <h2>Curso de Física 3: Ondas</h2>
-![Screenshot](https://thumbs.dreamstime.com/b/cascais-pavement-portuga-wave-patterns-stone-paved-city-square-152400280.jpg){:height="50%" width="50%;:style="float: right;margin-right: 7px;margin-top: 7px;"}
+![Screenshot](https://thumbs.dreamstime.com/b/cascais-pavement-portuga-wave-patterns-stone-paved-city-square-152400280.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
-<img src="https://thumbs.dreamstime.com/b/cascais-pavement-portuga-wave-patterns-stone-paved-city-square-152400280.jpg" style="float:right" width="300" hspace="20">
+#<img src="https://thumbs.dreamstime.com/b/cascais-pavement-portuga-wave-patterns-stone-paved-city-square-#152400280.jpg" style="float:right" width="300" hspace="20">
 1. Oscilaciones I: Movimiento Armónico Simple. [[oscilaciones1.pdf](fisica3/oscilaciones1.pdf)] [IPython]
 2. Oscilaciones II: Péndulo simple. [[oscilaciones2.pdf](fisica3/oscilaciones2.pdf)] [IPython]
 3. Oscilaciones III: Oscilaciones Amortiguadas. [[oscilaciones3.pdf](fisica3/oscilaciones3.pdf)] [IPython]
