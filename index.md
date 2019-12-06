@@ -15,6 +15,7 @@ _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprend
 5. Ondas I: Introducción a las ondas. [[ondas1.pdf](fisica3/ondas1.pdf)]
 6. Ondas II: Ondas transversales. [[ondas2.pdf](fisica3/ondas2.pdf)]
 7. Ondas III: Reflexión, transmisión y energía en ondas transversales. [[ondas3.pdf](fisica3/ondas3.pdf)]
+8. Ondas IV: Ondas longitudinales. [[ondas4.pdf](fisica3/ondas4.pdf)]
 
 <h2>Proyecto: Clima espacial y Rayos Cósmicos</h2>
 ![solar](cycle22cycle23cycle24big.gif){:style="float: left;margin-right: 7px;margin-top: 7px;":height="30%" width="30%"}
