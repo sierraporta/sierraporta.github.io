@@ -5,7 +5,7 @@ _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprend
 - Áreas de Interés: Física de altas energías, Gravitación y Cosmología, Rayos cósmicos, Clima espacial.
 
 <h2>Curso de Física 3: Ondas</h2>
-![ondas](patterns-stone.jpg){:style="float: right;margin-right: 5px;margin-top: 5px;":height="55%" width="15%"}
+![ondas](patterns-stone.jpg){:style="float: left;margin-right: 5px;margin-top: 5px;":height="30%" width="30%"}
 
 1. Oscilaciones I: Movimiento Armónico Simple. [[oscilaciones1.pdf](fisica3/oscilaciones1.pdf)]
 2. Oscilaciones II: Péndulo simple. [[oscilaciones2.pdf](fisica3/oscilaciones2.pdf)]
@@ -19,7 +19,7 @@ _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprend
 9. Ondas Electromagnéticas I: Ondas Electromagnéticas. [[ondasEM1.pdf](fisica3/ondasEM1.pdf)]
 
 <h2>Proyecto: Clima espacial y Rayos Cósmicos</h2>
-![solar](cycle22cycle23cycle24big.gif){:style="float: left;margin-right: 5px;margin-top: 5px;":height="35%" width="35%"}
+![solar](cycle22cycle23cycle24big.gif){:style="float: left;margin-right: 5px;margin-top: 5px;":height="30%" width="30%"}
 
 La variación de 11 años en la intensidad de los rayos cósmicos galácticos (GCR) generalmente se asocia con una variación similar de la actividad solar (SA); existe una anticorrelación entre ellos. En una serie de trabajos clásicos que datan de 1954, Forbush estableció la existencia de una anti-correlación cíclica de 11 años entre la intensidad de rayos cósmicos galácticos y la actividad solar, medida por el número de manchas solares. En el presente documento se exponen los objetivos y metodología para la consolidación de un proyecto encaminado al estudio de las relaciones entre Intensidad de Rayos Cósmicos Galácticos y Actividad Solar desde distintos tipos de vista.
 
@@ -29,6 +29,6 @@ La variación de 11 años en la intensidad de los rayos cósmicos galácticos (G
 <HR>
   
 <h3>Mi libro: tecnicas experimentales para fisicos</h3>
-![libro](DSP_libro.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;":height="20%" width="20%"}
+![libro](DSP_libro.jpg){:style="float: left;margin-right: 7px;margin-top: 7px;":height="20%" width="20%"}
 
 Este libro trata de algunas primeras nociones absolutamente indispensables con las que deben encontrarse los estudiantes en el inicio de la carrera de la licenciatura en ciencias físicas, herramientas definitivamente necesarias para la continuación de las asignaturas en curso y venideras, pero que, por estar incluídos en tratados de matemáticas o ciencias (por separado), no son tratados de manera formal; o también porque son considerados aburridos o fastidiosos. Los problemas concernientes a las definiciones de unidades, medidas, dimensiones y errores pudieron haber sido tratados en el bachillerato pero seguramente de una manera muy rápida y casi con toda seguridad con matemáticas y lógicas incompletas, debido fundamentalmente a la falta de base para tratarlas. Seguro será de mucha ayuda para todos como material de referencia o como lectura complementaria para introducirse y profundizar en las nociones de las técnicas experimentales en la resolución de problemas de ciencias.
