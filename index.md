@@ -5,7 +5,7 @@ _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprend
 - Áreas de Interés: Física de altas energías, Gravitación y Cosmología, Rayos cósmicos, Clima espacial.
 
 <h2>Curso de Física 3: Ondas</h2>
-![ondas](patterns-stone.jpg){:style="float: right;margin-right: 5px;margin-top: 5px;":height="35%" width="35%"}
+![ondas](patterns-stone.jpg){:style="float: right;margin-right: 5px;margin-top: 5px;":height="55%" width="15%"}
 
 1. Oscilaciones I: Movimiento Armónico Simple. [[oscilaciones1.pdf](fisica3/oscilaciones1.pdf)]
 2. Oscilaciones II: Péndulo simple. [[oscilaciones2.pdf](fisica3/oscilaciones2.pdf)]
