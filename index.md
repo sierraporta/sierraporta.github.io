@@ -5,7 +5,6 @@ _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprend
 - Áreas de Interés: Física de altas energías, Gravitación y Cosmología, Rayos cósmicos, Clima espacial.
 
 <h2>Curso de Física 3: Ondas</h2>
-%![ondas](patterns-stone.jpg){:style="float: left;margin-right: 10px;margin-top: 5px;":height="30%" width="25%"}
 
 1. Oscilaciones I: Movimiento Armónico Simple. [[oscilaciones1.pdf](fisica3/oscilaciones1.pdf)]
 2. Oscilaciones II: Péndulo simple. [[oscilaciones2.pdf](fisica3/oscilaciones2.pdf)]
@@ -19,7 +18,6 @@ _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprend
 9. Ondas Electromagnéticas I: Ondas Electromagnéticas. [[ondasEM1.pdf](fisica3/ondasEM1.pdf)]
 
 <h2>Proyecto: Clima espacial y Rayos Cósmicos</h2>
-%![solar](cycle22cycle23cycle24big.gif){:style="float: left;margin-right: 5px;margin-top: 5px;":height="30%" width="30%"}
 
 La variación de 11 años en la intensidad de los rayos cósmicos galácticos (GCR) generalmente se asocia con una variación similar de la actividad solar (SA); existe una anticorrelación entre ellos. En una serie de trabajos clásicos que datan de 1954, Forbush estableció la existencia de una anti-correlación cíclica de 11 años entre la intensidad de rayos cósmicos galácticos y la actividad solar, medida por el número de manchas solares. En el presente documento se exponen los objetivos y metodología para la consolidación de un proyecto encaminado al estudio de las relaciones entre Intensidad de Rayos Cósmicos Galácticos y Actividad Solar desde distintos tipos de vista.
 
