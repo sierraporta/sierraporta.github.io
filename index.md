@@ -9,10 +9,10 @@ _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprend
 
 <h1>Notas de Clases</h1>
 <h2>Termodinámica</h2>
-1. Problemas propuestos. Parte I. [[Problemas propuestos](termodinamica/problemasI_fisicaII.pdf)]
+1. Problemas propuestos. Parte I. [[Problemas propuestos](termodinamica/problemasI_fisicaII_uniandes.pdf)]
 
 <h2>Electromagnetismo</h2>
-1. Carga eléctrica y distribuciones de carga. [[cargaelectrica.pdf](electromagnetismo/cargaelectrica.pdf)]
+1. Carga eléctrica y distribuciones de carga. [[carga_electrica.pdf](electromagnetismo/carga_electrica.pdf)]
 2. Campo eléctrico en distribuciones continuas de carga. [[campo_electrico_DC.pdf](electromagnetismo/campo_electrico_DC.pdf)]
 3. Ley de Gauss. [[leyGauss.pdf](electromagnetismo/leyGauss.pdf)]
 
