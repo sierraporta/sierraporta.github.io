@@ -8,10 +8,12 @@ _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprend
 <HR>
 
 <h1>Notas de Clases</h1>
+<h2>Termodinámica</h2>
+1. C
 
 <h2>Electromagnetismo</h2>
 1. Carga eléctrica y distribuciones de carga. [[cargaelectrica.pdf](electromagnetismo/cargaelectrica.pdf)]
-2. Cálculos de campo eléctrico en distribuciones continuas de carga. [[campo_electrico_DC.pdf](electromagnetismo/campo_electrico_DC.pdf)]
+2. Campo eléctrico en distribuciones continuas de carga. [[campo_electrico_DC.pdf](electromagnetismo/campo_electrico_DC.pdf)]
 3. Ley de Gauss. [[leyGauss.pdf](electromagnetismo/leyGauss.pdf)]
 
 <h2>Oscilaciones y Ondas</h2>
