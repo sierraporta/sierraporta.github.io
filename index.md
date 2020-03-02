@@ -9,7 +9,7 @@ _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprend
 
 <h1>Notas de Clases</h1>
 <h2>Termodinámica</h2>
-1. C
+1. Problemas propuestos. Parte I. [[Problemas propuestos](termodinamica/problemasI_fisicaII.pdf)]
 
 <h2>Electromagnetismo</h2>
 1. Carga eléctrica y distribuciones de carga. [[cargaelectrica.pdf](electromagnetismo/cargaelectrica.pdf)]
