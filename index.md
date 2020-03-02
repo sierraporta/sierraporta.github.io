@@ -8,7 +8,7 @@ _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprend
 - Lic. en Matemáticas y Física (LUZ-VE). M.Sc. en Física Fundamental (ULA-VE). Doctor en Física Fundamental (ULA-VE).
 - Posición actual: Investigador Posdoctoral y Profesor en Universidad de los Andes. Departamento de Física. Bogotá-Colombia.
 - Áreas de Interés: Gravitación y Cosmología, Rayos cósmicos, Clima espacial.
-- Mi perfil en GoogleScholar: [[D.Sierra-Porta](https://scholar.google.com.co/citations?hl=en&user=-OInFfYAAAAJ&view_op=list_works&gmla=AJsN-F7XuqTMYbq3zhhnTvkctjh0m8aA-HAWT2JE20Rk-y7YgE79tUsEMI9zUJNv_7eufdW6A4BcXODNOXgGz-4WUL4yePdvZaYexF-GJeZ_fZXGEJQ9J3o)]
+- Mi perfil en GoogleScholar: [D.Sierra-Porta](https://scholar.google.com.co/citations?hl=en&user=-OInFfYAAAAJ&view_op=list_works&gmla=AJsN-F7XuqTMYbq3zhhnTvkctjh0m8aA-HAWT2JE20Rk-y7YgE79tUsEMI9zUJNv_7eufdW6A4BcXODNOXgGz-4WUL4yePdvZaYexF-GJeZ_fZXGEJQ9J3o)
 
 <HR>
 
