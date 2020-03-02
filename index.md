@@ -1,4 +1,4 @@
-![einstein](einstein-1.jpg){:style="float: left;margin-right: 7px;margin-top: 7px;":height="60%" width="46%"}**Mi persona favorita en el mundo...** 
+![einstein](einstein-1.jpg){:style="float: left;margin-right: 7px;margin-top: 7px;":height="60%" width="45.5%"}**Mi persona favorita en el mundo...** 
 - _"Look deep into nature, and then you will understand everything better."_
 - _"Although I am a typical loner in daily life, my consciousness of belonging to the invisible community of those who strive for truth, beauty, and justice has preserved me from feeling isolated."_
 
