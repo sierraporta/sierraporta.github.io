@@ -6,7 +6,7 @@
 _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprender cosas todos los días y progresar. Realmente disfruto mi trabajo. Otro aspecto del trabajo que realmente me gusta es la necesidad de explicar nuestro trabajo en términos simples a los no expertos. Me encanta abordar problemas complicados y tratar de encontrar soluciones originales para abordarlos. Y no hay nada rutinario al respecto, aprendemos cosas nuevas todo el tiempo y los problemas en los que trabajamos son muy variados._
 
 - Lic. en Matemáticas y Física (LUZ-VE). M.Sc. en Física Fundamental (ULA-VE). Doctor en Física Fundamental (ULA-VE).
-- Posición actual: Investigador Posdoctoral y Profesor en Universidad de los Andes. Bogotá-Colombia.
+- Posición actual: Investigador Posdoctoral y Profesor en Universidad de los Andes. Departamento de Física. Bogotá-Colombia.
 - Áreas de Interés: Gravitación y Cosmología, Rayos cósmicos, Clima espacial.
 - Mi perfil en GoogleScholar: [[D.Sierra-Porta](https://scholar.google.com.co/citations?hl=en&user=-OInFfYAAAAJ&view_op=list_works&gmla=AJsN-F7XuqTMYbq3zhhnTvkctjh0m8aA-HAWT2JE20Rk-y7YgE79tUsEMI9zUJNv_7eufdW6A4BcXODNOXgGz-4WUL4yePdvZaYexF-GJeZ_fZXGEJQ9J3o)]
 
