@@ -1,5 +1,5 @@
 **Mi persona favorita en el mundo...** 
-![einstein](albert_einstein-1741596.jpg){:style="float: left;margin-right: 7px;margin-top: 7px;":height="60%" width="45.5%"}
+![einstein](albert_einstein-1741596.jpg){:style="float: left;margin-right: 7px;margin-top: 7px;":height="100%" width="100%"}
 #- _"Look deep into nature, and then you will understand everything better."_
 #- _"Although I am a typical loner in daily life, my consciousness of belonging to the invisible community of those who strive for truth, beauty, and justice has preserved me from feeling isolated."_
 
