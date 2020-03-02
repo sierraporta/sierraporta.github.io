@@ -1,5 +1,5 @@
 **Mi persona favorita en el mundo...** 
-![einstein](albert_einstein-1741596.jpg){:style="float: left;margin-right: 7px;margin-top: 7px;":height="100%" width="100%"}
+![einstein](albert_einstein-1741596.jpg)
 
 <HR>
 
