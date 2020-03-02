@@ -1,4 +1,7 @@
-![einstein](Carta-Einstein-768x472.jpg){:style="float: left;margin-right: 7px;margin-top: 7px;":height="50%" width="50%"} **Mi persona favorita en el mundo...** _"Look deep into nature, and then you will understand everything better."_
+![einstein](Carta-Einstein-768x472.jpg){:style="float: left;margin-right: 7px;margin-top: 7px;":height="50%" width="50%"} **Mi persona favorita en el mundo...** 
+- _"Look deep into nature, and then you will understand everything better."_
+- _"Although I am a typical loner in daily life, my consciousness of belonging to the invisible community of those who strive for truth, beauty, and justice has preserved me from feeling isolated."_
+
 <HR>
 
 _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprender cosas todos los días y progresar. Realmente disfruto mi trabajo. Otro aspecto del trabajo que realmente me gusta es la necesidad de explicar nuestro trabajo en términos simples a los no expertos. Me encanta abordar problemas complicados y tratar de encontrar soluciones originales para abordarlos. Y no hay nada rutinario al respecto, aprendemos cosas nuevas todo el tiempo y los problemas en los que trabajamos son muy variados._
