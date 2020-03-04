@@ -33,6 +33,9 @@ _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprend
 8. Ondas IV: Ondas longitudinales. [[ondas4.pdf](ondas/ondas4.pdf)]
 9. Ondas Electromagnéticas I: Ondas Electromagnéticas. [[ondasEM1.pdf](ondas/ondasEM1.pdf)]
 
+## Algunos parciales
+1. [parcial_1_FII_1_2020_uniandes.pdf](parciales/parcial_1_FII_1_2020_uniandes.pdf)
+
 <HR>
 
 ## Proyecto: Clima espacial y Rayos Cósmicos
