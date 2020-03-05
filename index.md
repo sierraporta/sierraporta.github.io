@@ -34,7 +34,7 @@ _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprend
 9. Ondas Electromagnéticas I: Ondas Electromagnéticas. [[ondasEM1.pdf](ondas/ondasEM1.pdf)]
 
 ## Algunos parciales
-1. [Parcial_1_FII_1_2020_uniandes.pdf](parciales/parcial_1_FII_1_2020_uniandes.pdf)
+1. Termodinámica y Electricidad: [parcial_1_FII_1_2020_uniandes.pdf](parciales/parcial_1_FII_1_2020_uniandes.pdf)
 
 <HR>
 
