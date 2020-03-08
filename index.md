@@ -18,8 +18,9 @@ _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprend
 
 ## Electromagnetismo
 1. Carga eléctrica y distribuciones de carga. [[carga_electrica.pdf](electromagnetismo/carga_electrica.pdf)]
-2. Campo eléctrico en distribuciones continuas de carga. [[campo_electrico_DC.pdf](electromagnetismo/campo_electrico_DC.pdf)]
-3. Ley de Gauss. [[leyGauss.pdf](electromagnetismo/leyGauss.pdf)]
+2. Ley de Coulomb. [[leyCoulomb.pdf](electromagnetismo/leyCoulomb.pdf)]
+3. Campo eléctrico en distribuciones continuas de carga. [[campo_electrico_DC.pdf](electromagnetismo/campo_electrico_DC.pdf)]
+4. Ley de Gauss. [[leyGauss.pdf](electromagnetismo/leyGauss.pdf)]
 
 ## Oscilaciones y Ondas
 1. Oscilaciones I: Movimiento Armónico Simple. [[oscilaciones1.pdf](ondas/oscilaciones1.pdf)]
