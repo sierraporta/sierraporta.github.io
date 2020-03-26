@@ -2,8 +2,8 @@ title: David Sierra Porta
 description: Mi página personal...
 container: large
 logo: 29123331.jpeg
-show_downloads: true
-google_analytics:
+#show_downloads: true
+#google_analytics:
 #theme: jekyll-theme-modernist
 #theme: jekyll-theme-architect
 theme: jekyll-theme-leap-day
