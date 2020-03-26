@@ -13,7 +13,7 @@ _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprend
 
 <HR>
 
-## Notas parciales para el curso Física 2 Uandes 2020-1
+## Notas parciales Física 2 Uandes 2020-1
 - Notas 30%. [[notas_fisica2_uandes_DSP.pdf](varios/notas_fisica2_uandes_DSP.pdf)]
 
 # Notas de Clases
