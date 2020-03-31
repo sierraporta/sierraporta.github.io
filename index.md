@@ -28,8 +28,8 @@ _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprend
 5. Ley de Gauss. [[leyGauss.pdf](electromagnetismo/leyGauss.pdf)]
 6. Potencial eléctrico. [[potencial_electrico.pdf](electromagnetismo/potencial_electrico.pdf)]
 7. Capacitancia y capacitadores. [[capacitancia.pdf](electromagnetismo/capacitancia.pdf)]
-6. Resistencia y Ley de Ohm. [[resistencia.pdf](electromagnetismo/resistencia.pdf)]
-7. Asociación de resistencias. [[resistencia_combinacion.pdf](electromagnetismo/resistencia_combinacion.pdf)]
+8. Resistencia y Ley de Ohm. [[resistencia.pdf](electromagnetismo/resistencia.pdf)]
+9. Asociación de resistencias. [[resistencia_combinacion.pdf](electromagnetismo/resistencia_combinacion.pdf)]
 
 
 ## Oscilaciones y Ondas
