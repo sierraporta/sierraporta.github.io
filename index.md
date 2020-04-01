@@ -30,6 +30,7 @@ _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprend
 7. Capacitancia y capacitadores. [[capacitancia.pdf](electromagnetismo/capacitancia.pdf)]
 8. Resistencia y Ley de Ohm. [[resistencia.pdf](electromagnetismo/resistencia.pdf)]
 9. Asociación de resistencias. [[resistencia_combinacion.pdf](electromagnetismo/resistencia_combinacion.pdf)]
+10. Ley de Kirchhoff. [[kirchhoff.pdf](electromagnetismo/kirchhoff.pdf)]
 
 
 ## Oscilaciones y Ondas
