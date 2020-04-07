@@ -33,7 +33,6 @@ _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprend
 10. Ley de Kirchhoff. [[kirchhoff.pdf](electromagnetismo/kirchhoff.pdf)]
   - Algunos ejercicios resueltos. [[Ejercicios+Kirchhoff.pdf](ondas/Ejercicios+Kirchhoff.pdf)]
 
-
 ## Oscilaciones y Ondas
 1. Oscilaciones I: Movimiento Armónico Simple. [[oscilaciones1.pdf](ondas/oscilaciones1.pdf)]
 2. Oscilaciones II: Péndulo simple. [[oscilaciones2.pdf](ondas/oscilaciones2.pdf)]
