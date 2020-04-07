@@ -31,7 +31,7 @@ _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprend
 8. Resistencia y Ley de Ohm. [[resistencia.pdf](electromagnetismo/resistencia.pdf)]
 9. Asociación de resistencias. [[resistencia_combinacion.pdf](electromagnetismo/resistencia_combinacion.pdf)]
 10. Ley de Kirchhoff. [[kirchhoff.pdf](electromagnetismo/kirchhoff.pdf)]
-  - Algunos ejercicios resueltos. [[Ejercicios+Kirchhoff.pdf](ondas/Ejercicios+Kirchhoff.pdf)]
+  - Algunos ejercicios resueltos. [[EjerciciosKirchhoff.pdf](electromagnetismo/EjerciciosKirchhoff.pdf)]
 
 ## Oscilaciones y Ondas
 1. Oscilaciones I: Movimiento Armónico Simple. [[oscilaciones1.pdf](ondas/oscilaciones1.pdf)]
