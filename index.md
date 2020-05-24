@@ -13,12 +13,7 @@ _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprend
 
 <HR>
 
-## Notas parciales Física 2 Uandes 2020-1
-- Notas 30%. [[notas_fisica2_uandes_DSP.pdf](varios/notas_fisica2_uandes_DSP.pdf)]
-
 # Notas de Clases
-## Termodinámica
-1. Problemas propuestos. Parte I. [[Problemas propuestos](termodinamica/problemasI_fisicaII_uniandes.pdf)]
 
 ## Electromagnetismo
 1. Carga eléctrica y distribuciones de carga. [[carga_electrica.pdf](electromagnetismo/carga_electrica.pdf)]
@@ -44,9 +39,6 @@ _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprend
 7. Ondas III: Reflexión, transmisión y energía en ondas transversales. [[ondas3.pdf](ondas/ondas3.pdf)]
 8. Ondas IV: Ondas longitudinales. [[ondas4.pdf](ondas/ondas4.pdf)]
 9. Ondas Electromagnéticas I: Ondas Electromagnéticas. [[ondasEM1.pdf](ondas/ondasEM1.pdf)]
-
-## Algunos parciales
-1. Termodinámica y Electricidad: [parcial_1_FII_1_2020_uniandes.pdf](parciales/parcial_1_FII_1_2020_uniandes.pdf)
 
 <HR>
 
