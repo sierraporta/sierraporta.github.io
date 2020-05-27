@@ -8,7 +8,7 @@ logo: 29123331.jpeg
 #theme: jekyll-theme-architect
 #theme: jekyll-theme-leap-day
 #theme: jekyll-theme-tactile
-#theme: jekyll-theme-minimal
-theme: minima
+theme: jekyll-theme-minimal
+#theme: minima
 
 
