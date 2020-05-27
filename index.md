@@ -13,7 +13,7 @@ _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprend
 
 <HR>
 
-# Notas de Clases
+[## Notas de Clases](./notas_de_clase.md)
 [Link to another page](./notas_de_clase.md).
 
 <HR>
