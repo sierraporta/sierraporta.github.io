@@ -14,7 +14,7 @@ _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprend
 <HR>
 
 ## Notas de Clases
-[Una sección de algunas notas de clases disponibles.](./notas_de_clase.md)
+Una sección de algunas notas de clases disponibles [Notas de Clase](./notas_de_clase.md)
 
 <HR>
 
