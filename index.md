@@ -1,6 +1,6 @@
 **Mi persona favorita en el mundo...** 
 
-![einstein](albert_einstein-1741596.jpg){:style="float: left;margin-right: 70px;margin-top: 7px;":height="150%" width="50%"}
+![einstein](albert_einstein-1741596.jpg)
 
 <HR>
 
@@ -29,7 +29,7 @@ La variación de 11 años en la intensidad de los rayos cósmicos galácticos (G
 <HR>
   
 ## Mi libro: tecnicas experimentales para fisicos
-![libro](DSP_libro.jpg){:style="float: left;margin-right: 7px;margin-top: 7px;":height="10%" width="10%"}
+![libro](DSP_libro.jpg){:style="float: left;margin-right: 7px;margin-top: 7px;":height="50%" width="50%"}
 
 Este libro trata de algunas primeras nociones absolutamente indispensables con las que deben encontrarse los estudiantes en el inicio de la carrera de la licenciatura en ciencias físicas, herramientas definitivamente necesarias para la continuación de las asignaturas en curso y venideras, pero que, por estar incluídos en tratados de matemáticas o ciencias (por separado), no son tratados de manera formal; o también porque son considerados aburridos o fastidiosos. Los problemas concernientes a las definiciones de unidades, medidas, dimensiones y errores pudieron haber sido tratados en el bachillerato pero seguramente de una manera muy rápida y casi con toda seguridad con matemáticas y lógicas incompletas, debido fundamentalmente a la falta de base para tratarlas. Seguro será de mucha ayuda para todos como material de referencia o como lectura complementaria para introducirse y profundizar en las nociones de las técnicas experimentales en la resolución de problemas de ciencias.
 
