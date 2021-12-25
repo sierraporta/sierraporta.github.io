@@ -1,6 +1,6 @@
 **Mi persona favorita en el mundo...** 
 
-![einstein](albert_einstein-1741596.jpg)
+![einstein](i_Albert-Einstein-Quote-LinkedIn-Header_full.jpg)
 
 <HR>
 
