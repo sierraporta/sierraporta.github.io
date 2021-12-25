@@ -1,5 +1,3 @@
-**Mi persona favorita en el mundo...** 
-
 ![einstein](i_Albert-Einstein-Quote-LinkedIn-Header_full.jpg)
 
 <HR>
