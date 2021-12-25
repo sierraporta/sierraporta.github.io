@@ -502,7 +502,7 @@ footer {
   }
 }
 
-@media print, screen and (max-height: 980px) {
+@media print, screen and (max-height: 680px) {
 
   footer {
     text-align: center;
@@ -514,7 +514,7 @@ footer {
   }
 }
 
-@media print, screen and (max-height: 780px) {
+@media print, screen and (max-height: 480px) {
   nav {
     display: none;
   }
