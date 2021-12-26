@@ -17,15 +17,6 @@ En esta sección podrás encontrar algunas notas de clase que he ido acumulando 
 
 <HR>
 
-## Proyecto: Clima espacial y Rayos Cósmicos
-
-La variación de 11 años en la intensidad de los rayos cósmicos galácticos (GCR) generalmente se asocia con una variación similar de la actividad solar (SA); existe una anticorrelación entre ellos. En una serie de trabajos clásicos que datan de 1954, Forbush estableció la existencia de una anti-correlación cíclica de 11 años entre la intensidad de rayos cósmicos galácticos y la actividad solar, medida por el número de manchas solares. En el presente documento se exponen los objetivos y metodología para la consolidación de un proyecto encaminado al estudio de las relaciones entre Intensidad de Rayos Cósmicos Galácticos y Actividad Solar desde distintos tipos de vista.
-
-- **Proyecto y Resultados Preliminares:** [Resultados_Preliminares_Proy_RC_AS.pdf (Octubre19)](rayos_cosmicos/Resultados_Preliminares_Proy_RC_AS.pdf)
-- **Nuevos resultados:** [Resultados_Proy_RC_AS.pdf (Noviembre19)]
-
-<HR>
-  
 ## Mi libro: tecnicas experimentales para fisicos
 <img src="DSP_libro.jpg" align="left" width="150px" margin-right="7px"/>
 
