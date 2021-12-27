@@ -13,7 +13,9 @@ _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprend
 <HR>
 
 # Notas de Clases
-En esta sección podrás encontrar algunas notas de clase que he ido acumulando en el tiempo para varios cursos y temas y que he usado en mis propos cursos. Visite, lea y comparte (si te parecen buenas) estas notas de clases en el sigueinte link: [Notas de Clase](./notas_de_clase.md)
+En esta sección podrás encontrar algunas notas de clase que he ido acumulando en el tiempo para varios cursos y temas y que he usado en mis propos cursos. Visite, lea y comparte (si te parecen buenas) estas notas de clases en los siguientes enlaces
+- [Notas de Clase de Electromagnetismo](./notas_de_clase_Electromagnetismo.md)
+- [Notas de Clase de Oscilaciones y Ondas](./notas_de_clase_Ondas.md)
 
 <HR>
 
