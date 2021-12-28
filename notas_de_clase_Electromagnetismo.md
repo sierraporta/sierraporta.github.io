@@ -1,6 +1,6 @@
-## Electromagnetismo
+# Electromagnetismo
 
-1. Parte 1: Electrostática
+## Parte 1: Electrostática
 
 | N | Contenido | Enlace |
 | --- | --- | --- |
@@ -17,4 +17,4 @@ Asociación de resistencias. [[resistencia_combinacion.pdf](Files/electromagneti
 Ley de Kirchhoff. [[kirchhoff.pdf](Files/electromagnetismo/kirchhoff.pdf)]
 Algunos ejercicios resueltos. [[EjerciciosKirchhoff.pdf](Files/electromagnetismo/EjerciciosKirchhoff.pdf)]
 
-2. Parte 2: Magnetismo
+## Parte 2: Magnetismo
