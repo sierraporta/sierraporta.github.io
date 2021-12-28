@@ -9,11 +9,11 @@
 | 3 | Campo eléctrico. | [campo_electrico.pdf](Files/electromagnetismo/campo_electrico.pdf) | Dic2021 |
 | 4 | Campo eléctrico en distribuciones continuas de carga. | [campo_electrico_DC.pdf](Files/electromagnetismo/campo_electrico_DC.pdf) | Dic2021 |
 | 5 | Ley de Gauss. | [leyGauss.pdf](Files/electromagnetismo/leyGauss.pdf) | Dic2021 |
-| Potencial eléctrico. | [potencial_electrico.pdf](Files/electromagnetismo/potencial_electrico.pdf) | --- |
-| Capacitancia y capacitadores. | [capacitancia.pdf](Files/electromagnetismo/capacitancia.pdf) | --- |
-| Resistencia y Ley de Ohm. | [resistencia.pdf](Files/electromagnetismo/resistencia.pdf) | --- |
-| Asociación de resistencias. | [resistencia_combinacion.pdf](Files/electromagnetismo/resistencia_combinacion.pdf) | --- |
-| Ley de Kirchhoff. | [kirchhoff.pdf](Files/electromagnetismo/kirchhoff.pdf) | --- |
-| Algunos ejercicios resueltos. | [EjerciciosKirchhoff.pdf](Files/electromagnetismo/EjerciciosKirchhoff.pdf) | --- |
+| 6 | Potencial eléctrico. | [potencial_electrico.pdf](Files/electromagnetismo/potencial_electrico.pdf) | --- |
+| 7 | Capacitancia y capacitadores. | [capacitancia.pdf](Files/electromagnetismo/capacitancia.pdf) | --- |
+| 8 | Resistencia y Ley de Ohm. | [resistencia.pdf](Files/electromagnetismo/resistencia.pdf) | --- |
+| 9 | Asociación de resistencias. | [resistencia_combinacion.pdf](Files/electromagnetismo/resistencia_combinacion.pdf) | --- |
+| 10 | Ley de Kirchhoff. | [kirchhoff.pdf](Files/electromagnetismo/kirchhoff.pdf) | --- |
+| 11 | Algunos ejercicios resueltos. | [EjerciciosKirchhoff.pdf](Files/electromagnetismo/EjerciciosKirchhoff.pdf) | --- |
 
 ### Parte 2: Magnetismo
