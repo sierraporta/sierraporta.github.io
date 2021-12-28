@@ -1,6 +1,7 @@
 ## Electromagnetismo
 
-| N | Título | Enlace |
+1. Parte 1: Electrostática
+| N | Contenido | Enlace |
 | --- | --- | --- |
 | 1 | Carga eléctrica y distribuciones de carga. | [carga_electrica.pdf](Files/electromagnetismo/carga_electrica.pdf) |
 | 2 | Ley de Coulomb. | [leyCoulomb.pdf](Files/electromagnetismo/leyCoulomb.pdf) |
@@ -14,3 +15,5 @@
 9. Asociación de resistencias. [[resistencia_combinacion.pdf](Files/electromagnetismo/resistencia_combinacion.pdf)]
 10. Ley de Kirchhoff. [[kirchhoff.pdf](Files/electromagnetismo/kirchhoff.pdf)]
   - Algunos ejercicios resueltos. [[EjerciciosKirchhoff.pdf](Files/electromagnetismo/EjerciciosKirchhoff.pdf)]
+
+2. Parte 2: Magnetismo
