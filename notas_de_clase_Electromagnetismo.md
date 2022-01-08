@@ -3,7 +3,7 @@
 ### Parte 1: Electrostática
 
 | N | Contenido | Enlace | Actualizado |
-| --- | --- | --- | -- |
+| --- | --- | --- | --- |
 | 1 | Carga eléctrica y distribuciones de carga. | [carga_electrica.pdf](Files/electromagnetismo/carga_electrica.pdf) | Dic-2021 |
 | 2 | Ley de Coulomb. | [leyCoulomb.pdf](Files/electromagnetismo/leyCoulomb.pdf) | Dic-2021 |
 | 3 | Campo eléctrico. | [campo_electrico.pdf](Files/electromagnetismo/campo_electrico.pdf) | Dic-2021 |

@@ -12,10 +12,10 @@ _Bienvenidos a mi página personal. Para mí, lo más importante es poder aprend
 En esta sección podrás encontrar algunas notas de clase que he ido acumulando en el tiempo para varios cursos y temas y que he usado en mis propios cursos. Por ahora están siempre en constante modificación y actualización y representan (creo) un buen punto de partida para ir iniciando y luego profundizando en cada uno de los temas. Visita, lee y comparte (si te parecen buenas) estas notas de clases en los siguientes enlaces:
 | Notas | Enlace 1 | Enlace 2 |
 | --- | --- | --- |
-Notas de Clase de Electromagnetismo | [Notas](./notas_de_clase_Electromagnetismo.md) |  |
-Notas de Clase de Oscilaciones y Ondas | [Notas](./notas_de_clase_Ondas.md) |  |
-Curso de Modelado matemático: | [Github](https://github.com/sierraporta/ModeladoMatematico) |  |
-Curso de Introducción a la estadística y Ciencia de datos: | [Github](https://github.com/sierraporta/Data_Science_Introduction) | [Version Web](https://sierraporta.github.io/Data_Science_Introduction/)
+| Notas de Clase de Electromagnetismo | [Notas](./notas_de_clase_Electromagnetismo.md) |  |
+| Notas de Clase de Oscilaciones y Ondas | [Notas](./notas_de_clase_Ondas.md) |  |
+| Curso de Modelado matemático: | [Github](https://github.com/sierraporta/ModeladoMatematico) |  |
+| Curso de Introducción a la estadística y Ciencia de datos: | [Github](https://github.com/sierraporta/Data_Science_Introduction) | [Version Web](https://sierraporta.github.io/Data_Science_Introduction/) |
 
 ## Mi libro: tecnicas experimentales para fisicos
 
