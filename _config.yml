@@ -4,11 +4,11 @@ description: Como lo veo. Algunos pasamos la vida concentrados en algo que nos e
 logo: Figures/33108113860_c247cf2e65_b.jpg
 show_downloads: true
 #google_analytics:
-theme: jekyll-theme-modernist
+#theme: jekyll-theme-modernist
 #theme: jekyll-theme-architect
 #theme: jekyll-theme-leap-day
 #theme: jekyll-theme-tactile
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 #theme: minima
 
 
