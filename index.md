@@ -9,7 +9,7 @@ _Welcome to my personal page. For me, the most important thing is to be able to 
 - __My resume (in spanish):__ [Resume - cvitae (D.Sierra-Porta)](Files/cvdavid_resumen_es.pdf) [Updated october 2022]
 - __My resume (in english):__ [Resume - cvitae (D.Sierra-Porta)](Files/cvdavid_resumen_en.pdf) [Updated october 2022]
 
-# Class Notes
+# Lecture Notes
 In this section you will find some lecture notes that I have accumulated over time for various courses and topics and that I have used in my own courses. By now they are always in constant modification and updating and represent (I think) a good starting point to start and then deepen in each of the topics. Visit, read and share (if you think they are good) these lecture notes in the following links:
 
 | Lectures | Link 1 | Link 2 |
