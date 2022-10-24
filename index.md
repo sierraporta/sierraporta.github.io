@@ -1,25 +1,26 @@
 ![einstein](Figures/i_Albert-Einstein-Quote-LinkedIn-Header_full.jpg)
 
-_Bienvenidos a mi página personal. Para mí, lo más importante es poder aprender cosas todos los días y progresar. Realmente disfruto mi trabajo. Otro aspecto del trabajo que realmente me gusta es la necesidad de explicar nuestro trabajo en términos simples a los no expertos. Me encanta abordar problemas complicados y tratar de encontrar soluciones originales para abordarlos. Y no hay nada rutinario al respecto, aprendemos cosas nuevas todo el tiempo y los problemas en los que trabajamos son muy variados._
+_Welcome to my personal page. For me, the most important thing is to be able to learn things every day and to progress. I really enjoy my work. Another aspect of the job that I really like is the need to explain our work in simple terms to non-experts. I love tackling complicated problems and trying to find original solutions to address them. And there is nothing routine about it, we learn new things all the time and the problems we work on are very varied._
 
-- Lic. en Matemáticas y Física (LUZ-VE). M.Sc. en Física Fundamental (ULA-VE). Doctor en Física Fundamental (ULA-VE).
-- Posición actual: Investigador y Profesor en [Universidad Tecnológica de Bolivar](https://www.utb.edu.co/). Departamento de Ciencias Básicas. Cartagena de Indias - Colombia.
-- Áreas de Interés: Astrofísica, Gravitación y Cosmología, Rayos cósmicos, Clima espacial, Ciencia de Datos, Física Ambiental.
-- __Mi perfil en GoogleScholar:__ [Scholar Google (D.Sierra-Porta)](https://scholar.google.com.co/citations?hl=en&user=-OInFfYAAAAJ&view_op=list_works&gmla=AJsN-F7XuqTMYbq3zhhnTvkctjh0m8aA-HAWT2JE20Rk-y7YgE79tUsEMI9zUJNv_7eufdW6A4BcXODNOXgGz-4WUL4yePdvZaYexF-GJeZ_fZXGEJQ9J3o)
-- __Mi resumen (en español):__ [Resume - cvitae (D.Sierra-Porta)](Files/cvdavid_resumen_es.pdf) [Actualizado octubre 2022]
+- Mathematics and Physics (LUZ-VE). Fundamental Physics, MsC. (ULA-VE). Fundamental Physics, PhD. (ULA-VE).
+- Current Position: Full Time Research and Professor [Universidad Tecnológica de Bolivar](https://www.utb.edu.co/). Basics Science Faculty. Cartagena de Indias - Colombia.
+- Interest: Astrophysics, Gravitation and Cosmology, Cosmics Rays, Space Weather, Data Science, Environmental Physics.
+- __GoogleScholar profile:__ [Scholar Google (D.Sierra-Porta)](https://scholar.google.com.co/citations?hl=en&user=-OInFfYAAAAJ&view_op=list_works&gmla=AJsN-F7XuqTMYbq3zhhnTvkctjh0m8aA-HAWT2JE20Rk-y7YgE79tUsEMI9zUJNv_7eufdW6A4BcXODNOXgGz-4WUL4yePdvZaYexF-GJeZ_fZXGEJQ9J3o)
+- __My resume (in spanish):__ [Resume - cvitae (D.Sierra-Porta)](Files/cvdavid_resumen_es.pdf) [Updated october 2022]
+- __My resume (in english):__ [Resume - cvitae (D.Sierra-Porta)](Files/cvdavid_resumen_en.pdf) [Updated october 2022]
 
-# Notas de Clases
-En esta sección podrás encontrar algunas notas de clase que he ido acumulando en el tiempo para varios cursos y temas y que he usado en mis propios cursos. Por ahora están siempre en constante modificación y actualización y representan (creo) un buen punto de partida para ir iniciando y luego profundizando en cada uno de los temas. Visita, lee y comparte (si te parecen buenas) estas notas de clases en los siguientes enlaces:
+# Class Notes
+In this section you will find some lecture notes that I have accumulated over time for various courses and topics and that I have used in my own courses. By now they are always in constant modification and updating and represent (I think) a good starting point to start and then deepen in each of the topics. Visit, read and share (if you think they are good) these lecture notes in the following links:
 
-| Notas | Enlace 1 | Enlace 2 |
+| Lectures | Link 1 | Link 2 |
 | --- | --- | --- |
 | Notas de Clase de Electromagnetismo | [Notas](./notas_de_clase_Electromagnetismo.md) |  |
 | Notas de Clase de Oscilaciones y Ondas | [Notas](./notas_de_clase_Ondas.md) |  |
 | Curso de Modelado matemático: | [Github](https://github.com/sierraporta/ModeladoMatematico) |  |
 | Curso de Introducción a la estadística y Ciencia de datos: | [Github](https://github.com/sierraporta/Data_Science_Introduction) | [Version Web](https://sierraporta.github.io/Data_Science_Introduction/) |
 
-## Mi libro: tecnicas experimentales para fisicos
+## My Book: tecnicas experimentales para fisicos
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/41vip41T9cS._SX331_BO1,204,203,200_.jpg" align="right" width="150px"/>
 
-Este libro trata de algunas primeras nociones absolutamente indispensables con las que deben encontrarse los estudiantes en el inicio de la carrera de la licenciatura en ciencias físicas, herramientas definitivamente necesarias para la continuación de las asignaturas en curso y venideras, pero que, por estar incluídos en tratados de matemáticas o ciencias (por separado), no son tratados de manera formal; o también porque son considerados aburridos o fastidiosos. Los problemas concernientes a las definiciones de unidades, medidas, dimensiones y errores pudieron haber sido tratados en el bachillerato pero seguramente de una manera muy rápida y casi con toda seguridad con matemáticas y lógicas incompletas, debido fundamentalmente a la falta de base para tratarlas. Seguro será de mucha ayuda para todos como material de referencia o como lectura complementaria para introducirse y profundizar en las nociones de las técnicas experimentales en la resolución de problemas de ciencias.
+This book deals with some absolutely indispensable first notions with which students must encounter at the beginning of the bachelor's degree course in physical sciences, tools definitely necessary for the continuation of ongoing and upcoming subjects, but which, because they are included in mathematics or science treatises (separately), are not treated in a formal way; or also because they are considered boring or tiresome. Problems concerning definitions of units, measures, dimensions and errors could have been dealt with in high school but certainly in a very fast way and almost certainly with incomplete mathematics and logic, mainly due to the lack of a basis for dealing with them. It will surely be of much help to all as reference material or as complementary reading to introduce and deepen the notions of experimental techniques in the resolution of science problems.
