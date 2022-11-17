@@ -6,8 +6,8 @@ _Welcome to my personal page. For me, the most important thing is to be able to 
 - __Current Position:__ Full Time Research and Professor [Universidad Tecnológica de Bolivar](https://www.utb.edu.co/). Basics Science Faculty. Cartagena de Indias - Colombia.
 - __Interest:__ Astrophysics, Gravitation and Cosmology, Cosmics Rays, Space Weather, Data Science, Environmental Physics.
 - __GoogleScholar profile:__ [Scholar Google (D.Sierra-Porta)](https://scholar.google.com.co/citations?hl=en&user=-OInFfYAAAAJ&view_op=list_works&gmla=AJsN-F7XuqTMYbq3zhhnTvkctjh0m8aA-HAWT2JE20Rk-y7YgE79tUsEMI9zUJNv_7eufdW6A4BcXODNOXgGz-4WUL4yePdvZaYexF-GJeZ_fZXGEJQ9J3o)
-- __My resume (in spanish):__ [Resume - cvitae (D.Sierra-Porta)](Files/cvdavid_resumen_es.pdf) [Updated october 2022]
-- __My resume (in english):__ [Resume - cvitae (D.Sierra-Porta)](Files/cvdavid_resumen_en.pdf) [Updated october 2022]
+- __My resume (in spanish):__ [Resume - cvitae (D.Sierra-Porta)](Files/cvdavid_resumen_es.pdf) [Updated nobember 2022]
+- __My resume (in english):__ [Resume - cvitae (D.Sierra-Porta)](Files/cvdavid_resumen_en.pdf) [Updated november 2022]
 
 # Lecture Notes
 In this section you will find some lecture notes that I have accumulated over time for various courses and topics and that I have used in my own courses. By now they are always in constant modification and updating and represent (I think) a good starting point to start and then deepen in each of the topics. Visit, read and share (if you think they are good) these lecture notes in the following links:
