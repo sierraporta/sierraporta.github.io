@@ -2,11 +2,12 @@
 
 _Welcome to my personal page. For me, the most important thing is to be able to learn things every day and to progress. I really enjoy my work. Another aspect of the job that I really like is the need to explain our work in simple terms to non-experts. I love tackling complicated problems and trying to find original solutions to address them. And there is nothing routine about it, we learn new things all the time and the problems we work on are very varied._
 
-_I am Dr. David Sierra-Porta, a dedicated researcher in astrophysics, environmental science, and data analysis. My research focuses on applying advanced methodologies such as machine learning and multifractal analysis to unravel complex phenomena, including cosmic rays, solar activity, and air quality dynamics. I have published extensively in prestigious journals, contributing to our understanding of these areas.
-
+[!TIP]
+I am Dr. David Sierra-Porta, a dedicated researcher in astrophysics, environmental science, and data analysis. My research focuses on applying advanced methodologies such as machine learning and multifractal analysis to unravel complex phenomena, including cosmic rays, solar activity, and air quality dynamics. I have published extensively in prestigious journals, contributing to our understanding of these areas.
+[!TIP]
 My work is characterized by an interdisciplinary approach, combining insights from physics, statistics, and environmental science. I collaborate with experts across fields to address pressing scientific questions and develop innovative solutions to real-world challenges. I am passionate about bridging the gap between scientific research and practical applications, aiming to improve technologies related to space weather forecasting and environmental monitoring.
-
-In addition to my research activities, I am actively involved in mentoring and teaching, helping to train the next generation of scientists. My commitment to science extends to public engagement, where I strive to make complex scientific concepts accessible to a broader audience. Through my work, I aim to advance knowledge, foster innovation, and contribute to the scientific community's efforts to address global challenges._
+[!TIP]
+In addition to my research activities, I am actively involved in mentoring and teaching, helping to train the next generation of scientists. My commitment to science extends to public engagement, where I strive to make complex scientific concepts accessible to a broader audience. Through my work, I aim to advance knowledge, foster innovation, and contribute to the scientific community's efforts to address global challenges.
 
 - Mathematics and Physics (LUZ-VE). Fundamental Physics, MsC. (ULA-VE). Fundamental Physics, PhD. (ULA-VE).
 - __Current Position:__ Full Time Research and Professor [Universidad Tecnológica de Bolivar](https://www.utb.edu.co/). Basics Science Faculty. Cartagena de Indias - Colombia.
