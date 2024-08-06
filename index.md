@@ -1,4 +1,4 @@
-![einstein](Figures/i_Albert-Einstein-Quote-LinkedIn-Header_full.jpg)
+![einstein](Figures/amazing-dreamy-3d-road-sunset-website-header-image.png)
 
 __Welcome to my personal page__. For me, the most important thing is to be able to learn things every day and to progress. I really enjoy my work. Another aspect of the job that I really like is the need to explain our work in simple terms to non-experts. I love tackling complicated problems and trying to find original solutions to address them. And there is nothing routine about it, we learn new things all the time and the problems we work on are very varied.
 
