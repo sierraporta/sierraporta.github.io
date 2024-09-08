@@ -1,4 +1,4 @@
-## Oscilaciones y Ondas
+# Oscilaciones y Ondas
 
 | N | Contenido | Enlace | Actualizado | Pags. |
 | --- | --- | --- | --- | --- |
