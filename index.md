@@ -7,7 +7,9 @@ __Welcome to my personal page__. For me, the most important thing is to be able 
 - Mathematics and Physics (LUZ-VE). Fundamental Physics, MsC. (ULA-VE). Fundamental Physics, PhD. (ULA-VE).
 - __Current Position:__ Full Time Research and Professor [Universidad Tecnológica de Bolivar](https://www.utb.edu.co/). Basics Science Faculty. Cartagena de Indias - Colombia.
 - __Interest:__ Astrophysics, Gravitation and Cosmology, Cosmics Rays, Space Weather, Data Science, Environmental Physics.
-- __GoogleScholar profile:__ [Scholar Google (D.Sierra-Porta)](https://scholar.google.com.co/citations?hl=en&user=-OInFfYAAAAJ&view_op=list_works&gmla=AJsN-F7XuqTMYbq3zhhnTvkctjh0m8aA-HAWT2JE20Rk-y7YgE79tUsEMI9zUJNv_7eufdW6A4BcXODNOXgGz-4WUL4yePdvZaYexF-GJeZ_fZXGEJQ9J3o)
+- __GoogleScholar profile:__ [Scholar Google (D.Sierra-Porta)](https://scholar.google.com.co/citations?hl=en&user=-OInFfYAAAAJ&view_op=list_works&sortby=pubdate)
+- __CVLac profile:__ [CVLac (D.Sierra-Porta)](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000125474)
+- __Scopus profile:__ [(D.Sierra-Porta) - 57191333650](https://www.scopus.com/authid/detail.uri?authorId=57191333650)
 - __My resume (in spanish):__ [Resume - cvitae (D.Sierra-Porta)](Files/cvdavid_resumen_es.pdf) [Updated september 2024]
 - __My resume (in english):__ [Resume - cvitae (D.Sierra-Porta)](Files/cvdavid_resumen_en.pdf) [Updated september 2024]
 
