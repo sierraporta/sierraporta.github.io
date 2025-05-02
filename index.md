@@ -15,9 +15,11 @@ __Welcome to my personal page__. For me, the most important thing is to be able 
 - __My resume (in english):__ [Resume - cvitae (D.Sierra-Porta)](Files/cvdavid_resumen_en.pdf) [Updated september 2024]
 
 # A little blog
-<img src="Figures/pub-prancing-pony-2-373x500.jpg" align="right" width="50px"/>
+<img src="Figures/pub-prancing-pony-2-373x500.jpg" align="right" width="110px"/>
 
-Here you can find some (divulgatives) articles and comments from my experience. Go there: [Go to Prancing Pony blog entries...](https://sierraporta.github.io/prancing-pony.github.io/)
+- _Here you can find some (divulgatives) articles and comments from my experience._
+- This blog is a space dedicated to sharing my experiences and reflections in the fields of data science, physics, mathematics, and other related areas. Through stories, commentary, and analysis, I will explore complex concepts, recent discoveries, practical applications, and personal challenges I have encountered throughout my professional and academic journey. My goal is to inspire other science and technology enthusiasts, share useful knowledge, and foster collaborative learning in such exciting subjects as statistics, mathematical modeling, and data analysis. Welcome, and I hope you enjoy the journey!
+- Go there: [Go to Prancing Pony blog entries...](https://sierraporta.github.io/prancing-pony.github.io/)
 
 
 
