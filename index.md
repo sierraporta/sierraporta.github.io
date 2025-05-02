@@ -15,7 +15,7 @@ __Welcome to my personal page__. For me, the most important thing is to be able 
 - __My resume (in english):__ [Resume - cvitae (D.Sierra-Porta)](Files/cvdavid_resumen_en.pdf) [Updated september 2024]
 
 # A little blog
-Here you can find some (divulgatives) articles and comments from my experience.
+Here you can find some (divulgatives) articles and comments from my experience. Go there: [Blog](./_posts/readme.md)
 
 # Lecture Notes
 In this section you will find some lecture notes that I have accumulated over time for various courses and topics and that I have used in my own courses. By now they are always in constant modification and updating and represent (I think) a good starting point to start and then deepen in each of the topics. Visit, read and share (if you think they are good) these lecture notes in the following links:
