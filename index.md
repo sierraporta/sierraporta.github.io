@@ -15,6 +15,8 @@ __Welcome to my personal page__. For me, the most important thing is to be able 
 - __My resume (in english):__ [Resume - cvitae (D.Sierra-Porta)](Files/cvdavid_resumen_en.pdf) [Updated september 2024]
 
 # A little blog
+<img src="pub-prancing-pony-2-373x500.jpg" align="left" width="100px"/>
+
 Here you can find some (divulgatives) articles and comments from my experience. Go there: [Go to Prancing Pony blog entries...](https://sierraporta.github.io/prancing-pony.github.io/)
 
 # Lecture Notes
