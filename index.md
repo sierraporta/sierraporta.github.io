@@ -14,6 +14,9 @@ __Welcome to my personal page__. For me, the most important thing is to be able 
 - __My resume (in spanish):__ [Resume - cvitae (D.Sierra-Porta)](Files/cvdavid_resumen_es.pdf) [Updated september 2024]
 - __My resume (in english):__ [Resume - cvitae (D.Sierra-Porta)](Files/cvdavid_resumen_en.pdf) [Updated september 2024]
 
+# A little blog
+Here you can find some (divulgatives) articles and comments from my experience.
+
 # Lecture Notes
 In this section you will find some lecture notes that I have accumulated over time for various courses and topics and that I have used in my own courses. By now they are always in constant modification and updating and represent (I think) a good starting point to start and then deepen in each of the topics. Visit, read and share (if you think they are good) these lecture notes in the following links:
 
@@ -29,6 +32,3 @@ In this section you will find some lecture notes that I have accumulated over ti
 <img src="https://images-na.ssl-images-amazon.com/images/I/41vip41T9cS._SX331_BO1,204,203,200_.jpg" align="right" width="150px"/>
 
 This book deals with some absolutely indispensable first notions with which students must encounter at the beginning of the bachelor's degree course in physical sciences, tools definitely necessary for the continuation of ongoing and upcoming subjects, but which, because they are included in mathematics or science treatises (separately), are not treated in a formal way; or also because they are considered boring or tiresome. Problems concerning definitions of units, measures, dimensions and errors could have been dealt with in high school but certainly in a very fast way and almost certainly with incomplete mathematics and logic, mainly due to the lack of a basis for dealing with them. It will surely be of much help to all as reference material or as complementary reading to introduce and deepen the notions of experimental techniques in the resolution of science problems.
-
-# A little blog
-Here you can find some (divulgatives) articles and comments from my experience.
