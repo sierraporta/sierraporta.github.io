@@ -30,7 +30,6 @@ In this section you will find some lecture notes that I have accumulated over ti
 | --- | --- | --- |
 | Notas de Clase de Electromagnetismo | [Notas](./notas_de_clase_Electromagnetismo.md) |  |
 | Notas de Clase de Oscilaciones y Ondas | [Notas](./notas_de_clase_Ondas.md) |  |
-[| Curso de Modelado matemático | [Github](https://github.com/sierraporta/ModeladoMatematico) |  |]
 | Curso de Introducción a la estadística y Ciencia de datos: | [Github](https://github.com/sierraporta/Data_Science_Introduction) | [Version Web](https://sierraporta.github.io/Data_Science_Introduction/) |
 
 ## My Book: tecnicas experimentales para fisicos
