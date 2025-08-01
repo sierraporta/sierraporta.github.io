@@ -28,7 +28,7 @@ In this section you will find some lecture notes that I have accumulated over ti
 
 | Lectures | Link 1 | Link 2 |
 | --- | --- | --- |
-| Electricity and magnetism course: **Lecture notes** | [Notes](./Subpages/electromagnetism.md) |  |
+| Electricity and magnetism course: **Lecture notes** | [Notes](./notas_de_clase_Electromagnetismo.md) |  |
 | Oscilations and waves course: : **Lecture notes** | [Notes](./notas_de_clase_Ondas.md) |  |
 | Curso de Introducción a la estadística y Ciencia de datos: | [Github](https://github.com/sierraporta/Data_Science_Introduction) | [Version Web](https://sierraporta.github.io/Data_Science_Introduction/) |
 
