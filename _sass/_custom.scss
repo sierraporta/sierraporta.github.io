@@ -28,7 +28,7 @@
 /* 1) Limitar ancho de lectura dentro del wrapper amplio */
 .page-content .post,
 .page-content .home {
-  max-width: 72ch;          /* ~72 caracteres por línea */
+  max-width: 78ch;          /* ~72 caracteres por línea */
   margin: 0 auto;
 }
 
