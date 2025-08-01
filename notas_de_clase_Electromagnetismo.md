@@ -1,4 +1,4 @@
-# Electromagnetismo
+## Electromagnetismo
 
 ### Parte 1: Electrostática
 
