@@ -1,0 +1,26 @@
+/* Aumenta el ancho máximo del contenido */
+.wrapper {
+  /* Minima suele usar ~800px; súbelo a tu gusto */
+  max-width: 1100px;         /* 1000–1200px suele verse bien en desktop */
+}
+
+/* Reduce el padding lateral en pantallas grandes */
+@media screen and (min-width: 800px) {
+  .wrapper {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
+
+/* Ajusta márgenes verticales (menos espacio “en blanco”) */
+.page-content {               /* zona donde viven posts/páginas */
+  padding: 24px 0;           /* bajar de ~48–64px a ~24px */
+}
+
+.post-list > li {             /* separaciones entre posts en la home/listas */
+  margin-bottom: 24px;
+}
+
+.post-content {               /* margen superior del contenido del post */
+  margin-top: 16px;
+}
