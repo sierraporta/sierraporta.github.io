@@ -68,11 +68,16 @@
   margin-top: 16px;
 }
 
-/* 1) Limitar ancho de lectura dentro del wrapper amplio */
+/* Ancho de lectura más amplio global */
 .page-content .post,
 .page-content .home {
-  max-width: 78ch;          /* ~72 caracteres por línea */
+  max-width: 96ch;   /* 90–100ch suele verse bien */
   margin: 0 auto;
+}
+
+@media (min-width: 1400px) {
+  .page-content .post,
+  .page-content .home { max-width: 105ch; }  /* opcional */
 }
 
 /* 2) Cita/blockquote más elegante y corta */
