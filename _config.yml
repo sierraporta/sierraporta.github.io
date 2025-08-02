@@ -17,4 +17,5 @@ show_downloads: true
 #google_analytics:
 theme: minima
 
-
+header_pages:
+  - index.md        # solo el Home en el menú
