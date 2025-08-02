@@ -10,7 +10,7 @@ Una carga eléctrica en movimiento genera un campo magnético. Un campo magnéti
 Algunos materiales y guías para el curso las pueden encontrar en las siguientes secciones.
 <div class="clearfix"></div>
 
-### Parte 1: Electrostática
+## Parte 1: Electrostática
 
 | N | Contenido | Enlace |
 | --- | --- | --- |
@@ -26,4 +26,5 @@ Algunos materiales y guías para el curso las pueden encontrar en las siguientes
 | 10 | Ley de Kirchhoff. | [kirchhoff.pdf](Files/electromagnetismo/kirchhoff.pdf) |
 | 11 | Algunos ejercicios resueltos. | [EjerciciosKirchhoff.pdf](Files/electromagnetismo/EjerciciosKirchhoff.pdf) |
 
-### Parte 2: Magnetismo
+## Parte 2: Magnetismo
+En construcción....
