@@ -21,15 +21,16 @@ __Welcome to my personal page__. For me, the most important thing is to be able 
 - This blog is a space dedicated to sharing my experiences and reflections in the fields of data science, physics, mathematics, and other related areas. Through stories, commentary, and analysis, I will explore complex concepts, recent discoveries, practical applications, and personal challenges I have encountered throughout my professional and academic journey. My goal is to inspire other science and technology enthusiasts, share useful knowledge, and foster collaborative learning in such exciting subjects as statistics, mathematical modeling, and data analysis. Welcome, and I hope you enjoy the journey!
 - Go there: [https://sierraporta.github.io/prancing-pony/](https://sierraporta.github.io/prancing-pony/)
 
-
-
 # Lecture Notes
 In this section you will find some lecture notes that I have accumulated over time for various courses and topics and that I have used in my own courses. By now they are always in constant modification and updating and represent (I think) a good starting point to start and then deepen in each of the topics. Visit, read and share (if you think they are good) these lecture notes in the following links:
 
 | Lectures | Link |
-| --- | --- | --- |
-| Electricity and magnetism course: **Lecture notes** | [Notes](./notas_de_clase_Electromagnetismo.md) |
-| Oscilations and waves course: : **Lecture notes** | [Notes](./notas_de_clase_Ondas.md) |
+| --- | --- |
+| Introducción a la Ciencia de datos | [Notes](./introCDAT.md) |
+| Programación para Ciencia de datos | [Notes](./programacionCDAT.md) |
+| Sensado y Modelado de Sistemas Físicos | [Notes](./sensado.md) |
+| Electricity and magnetism course | [Notes](./notas_de_clase_Electromagnetismo.md) |
+| Oscilations and waves course | [Notes](./notas_de_clase_Ondas.md) |
 | Curso de Introducción a la estadística y Ciencia de datos: | [Github](https://github.com/sierraporta/Data_Science_Introduction), [Version Web](https://sierraporta.github.io/Data_Science_Introduction/) |
 
 ## My Book: tecnicas experimentales para fisicos
