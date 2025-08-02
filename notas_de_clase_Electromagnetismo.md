@@ -1,7 +1,6 @@
 ---
 layout: page-no-title
 title: Electromagnetismo
-permalink: /electromagnetismo/
 ---
 # Electromagnetismo
 <img class="float-left float--sm"
