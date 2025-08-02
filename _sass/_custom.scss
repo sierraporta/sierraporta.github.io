@@ -138,3 +138,6 @@ ul > li { margin: 0.2rem 0; }
   padding: .9rem;
 }
 .card h3 { margin: 0 0 .4rem; font-size: 1.05rem; }
+
+.btn--primary { background:#2f3b52; color:#fff; border-color:#2f3b52; }
+.btn--primary:hover { filter: brightness(1.05); }
