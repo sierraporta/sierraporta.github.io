@@ -2,7 +2,8 @@
 <img class="float-left float--sm"
      src="/Figures/close-up-of-cropped-hands-during-an-experiment.jpg.webp"
      alt="Experimento simple con pila, cable y brújula"
-     width="420" height="280"   <!-- relación 3:2 -->
+     width="420" 
+     height="280"   <!-- relación 3:2 -->
      decoding="async">
           
 La electricidad y el magnetismo son fenómenos separados pero interconectados, asociados a la fuerza electromagnética. Juntos forman la base del electromagnetismo, una disciplina física clave. La electricidad y el magnetismo son dos fenómenos relacionados producidos por la fuerza electromagnética. Juntos forman el electromagnetismo.
