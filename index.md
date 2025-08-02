@@ -19,7 +19,6 @@ I am David Sierra-Porta, a researcher at the intersection of astrophysics, envir
 - __My resume (in english):__ [Resume - cvitae (D.Sierra-Porta)](Files/cvdavid_resumen_en.pdf) [Updated september 2024]
 
 # A little blog: **Prancing Pony blog**
-# Electromagnetismo
 <img class="float-left float--sm"
      src="Figures/pub-prancing-pony-2-373x500.jpg"
      alt="A little blog: Prancing Pony blog"
