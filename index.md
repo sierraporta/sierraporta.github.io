@@ -28,14 +28,14 @@ I am David Sierra-Porta, a researcher at the intersection of astrophysics, envir
 # Lecture Notes
 In this section you will find some lecture notes that I have accumulated over time for various courses and topics and that I have used in my own courses. By now they are always in constant modification and updating and represent (I think) a good starting point to start and then deepen in each of the topics. Visit, read and share (if you think they are good) these lecture notes in the following links:
 
-| Lectures | Link |
-| --- | --- |
-| Introducción a la Ciencia de datos | [Notes](./introCDAT.md) |
-| Programación para Ciencia de datos | [Notes](./programacionCDAT.md) |
-| Sensado y Modelado de Sistemas Físicos | [Notes](./sensado.md) |
-| Electricity and magnetism course | [Notes](./notas_de_clase_Electromagnetismo.md) |
-| Oscilations and waves course | [Notes](./notas_de_clase_Ondas.md) |
-| Curso de Introducción a la estadística y Ciencia de datos: | [Github](https://github.com/sierraporta/Data_Science_Introduction), [Version Web](https://sierraporta.github.io/Data_Science_Introduction/) |
+| Lectures | Link | Updated |
+| --- | --- | --- |
+| Introducción a la Ciencia de datos | [Notes](./introCDAT.md) | Aug. 2025 |
+| Programación para Ciencia de datos | [Notes](./programacionCDAT.md) | Aug. 2025 |
+| Sensado y Modelado de Sistemas Físicos | [Notes](./sensado.md) | Aug. 2025 |
+| Electricity and magnetism course | [Notes](./notas_de_clase_Electromagnetismo.md) | July 2025 |
+| Oscilations and waves course | [Notes](./notas_de_clase_Ondas.md) | Aug. 2023 |
+| Curso de Introducción a la estadística y Ciencia de datos: | [Github](https://github.com/sierraporta/Data_Science_Introduction), [Version Web](https://sierraporta.github.io/Data_Science_Introduction/) | --- |
 
 ## My Book: tecnicas experimentales para fisicos
 
