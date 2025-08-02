@@ -1,7 +1,8 @@
 .footer-about {
   display: grid;
-  grid-template-columns: clamp(360px, 40vw, 560px) 1fr;
-  gap: 16px;
+  /* ~2×: de 140px → mínimo 280px; responsivo hasta ~420px */
+  grid-template-columns: clamp(280px, 32vw, 420px) 1fr;
+  gap: 12px;
   align-items: start;
 }
 .footer-about img {
@@ -13,6 +14,7 @@
 @media (max-width: 800px) {
   .footer-about { grid-template-columns: 1fr; }
 }
+
 
 
 /* Aumenta el ancho máximo del contenido */
