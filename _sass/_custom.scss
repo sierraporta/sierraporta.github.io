@@ -1,3 +1,19 @@
+/* ===== Intro/bio destacado ===== */
+:root {
+  --intro-blue: #2f3b52; /* azul grisáceo sobrio */
+  --intro-gray: #555555; /* gris neutro */
+}
+
+.intro {
+  color: var(--intro-blue);        /* cambia a var(--intro-gray) si prefieres */
+  font-style: italic;              /* quítalo si la quieres en roman */
+  font-size: clamp(1.05rem, 1.8vw, 1.2rem);
+  line-height: 1.75;
+  max-width: 68ch;                 /* lectura cómoda */
+  margin: 0.75rem auto 1.25rem;
+}
+
+
 /* ==== Imágenes flotantes con texto alrededor ==== */
 
 /* base */
