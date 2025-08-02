@@ -1,3 +1,11 @@
+.footer-about {
+  display: grid;
+  grid-template-columns: 140px 1fr;
+  gap: 12px;
+  align-items: start;
+}
+.footer-about img { border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,.15); }
+
 /* Aumenta el ancho máximo del contenido */
 .wrapper {
   /* Minima suele usar ~800px; súbelo a tu gusto */
