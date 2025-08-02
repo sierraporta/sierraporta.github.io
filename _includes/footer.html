@@ -1,17 +1,28 @@
 <footer class="site-footer h-card">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
   <div class="wrapper">
     <div class="footer-col-wrapper">
+      <!-- Columna izquierda: datos de contacto + redes -->
       <div class="footer-col">
         <p class="contact-list">
           <span class="p-name">{{ site.title | escape }}</span><br>
-          {{ site.author }}<br>
-          <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+          {% if site.author %}{{ site.author }}<br>{% endif %}
+          {% if site.email %}<a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>{% endif %}
         </p>
+        {% include social.html %}
       </div>
+
+      <!-- Columna derecha: imagen grande + descripción -->
       <div class="footer-col footer-about">
-        <img src="{{ '/Figures/33108113860_c247cf2e65_b.jpg' | relative_url }}" alt="Road quote image" width="400" loading="lazy">
-        <p>{{ site.description }}</p>
+        <img
+          src="{{ '/Figures/33108113860_c247cf2e65_b.jpg' | relative_url }}"
+          alt="Road quote image"
+          loading="lazy"
+        >
+        {% if site.description %}
+          <p>{{ site.description }}</p>
+        {% endif %}
       </div>
     </div>
   </div>
