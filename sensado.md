@@ -2,7 +2,7 @@
 <img class="float-left float--sm"
      src="/Figures/smsf.png"
      alt="Sensado y Modelado de Sistemas Físicos"
-     width="495" height="330" decoding="async">
+     decoding="async">
           
 ## Presentación del curso y motivación
 En un mundo donde los datos gobiernan las decisiones en ciencia, industria y tecnología, la capacidad de recolectar, analizar e interpretar información del entorno físico se ha vuelto esencial. El curso "Sensado y Modelado de Sistemas Físicos" nace como una propuesta innovadora dentro del programa de Ciencia de Datos, con el objetivo de conectar el mundo físico con la analítica de datos a través de experiencias prácticas y computacionales que vinculan sensores, fenómenos reales y modelado numérico. Este curso no es un curso tradicional de física, ni tampoco uno centrado exclusivamente en electrónica o experimentación. Se sitúa en un terreno interdisciplinario que permite al estudiante vivir el ciclo completo del dato: desde su captura en entornos físicos mediante cámaras, sensores o dispositivos digitales, hasta su análisis y modelado computacional usando herramientas propias de la ciencia de datos. El laboratorio se convierte así en un espacio de exploración cuantitativa donde fenómenos cotidianos –como el rebote de una pelota, el sonido de una cuerda vibrante o la disipación de calor– son oportunidades para aplicar estadística, procesamiento de señales, visualización y modelos predictivos.
