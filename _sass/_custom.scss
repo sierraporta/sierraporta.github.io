@@ -1,3 +1,39 @@
+/* ==== Imágenes flotantes con texto alrededor ==== */
+
+/* Base */
+.float-left, .float-right {
+  display: block;
+  height: auto;
+  border-radius: 12px;
+  /* Hace que el flujo de texto respete las esquinas redondeadas */
+  shape-outside: inset(0 round 12px);
+  -webkit-shape-outside: inset(0 round 12px);
+  shape-margin: 8px;
+  -webkit-shape-margin: 8px;
+}
+
+.float-left  { float: left;  margin: 0 18px 10px 0; }
+.float-right { float: right; margin: 0 0 10px 18px; }
+
+/* Tamaños (elige UNO por imagen) */
+.float--sm { max-width: min(300px, 35%); }
+.float--md { max-width: min(420px, 40%); }   /* “por defecto” recomendado */
+.float--lg { max-width: min(560px, 50%); }
+.float--xl { max-width: min(720px, 55%); }
+
+/* Utilidad para limpiar el float cuando termina la sección */
+.clearfix::after { content: ""; display: block; clear: both; }
+
+/* Responsive: en móvil se apila arriba y ocupa todo el ancho */
+@media (max-width: 700px) {
+  .float-left, .float-right {
+    float: none;
+    max-width: 100%;
+    margin: 0 0 12px 0;
+  }
+}
+
+
 .footer-about {
   display: grid;
   /* ~2×: de 140px → mínimo 280px; responsivo hasta ~420px */
