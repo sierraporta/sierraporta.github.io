@@ -23,7 +23,7 @@ I am David Sierra-Porta, a researcher at the intersection of astrophysics, envir
 <img class="float-left float--sm"
      src="Figures/pub-prancing-pony-2-373x500.jpg"
      alt="A little blog: Prancing Pony blog"
-     width="180" height="270" decoding="async">
+     width="180" height="250" decoding="async">
 
 - _Here you can find some (divulgatives) articles and comments from my experience._
 - This blog is a space dedicated to sharing my experiences and reflections in the fields of data science, physics, mathematics, and other related areas. Through stories, commentary, and analysis, I will explore complex concepts, recent discoveries, practical applications, and personal challenges I have encountered throughout my professional and academic journey. My goal is to inspire other science and technology enthusiasts, share useful knowledge, and foster collaborative learning in such exciting subjects as statistics, mathematical modeling, and data analysis. Welcome, and I hope you enjoy the journey!
@@ -42,8 +42,8 @@ In this section you will find some lecture notes that I have accumulated over ti
 | Curso de Introducción a la estadística y Ciencia de datos: | [Github](https://github.com/sierraporta/Data_Science_Introduction), [Version Web](https://sierraporta.github.io/Data_Science_Introduction/) | --- |
 
 ## My Book: tecnicas experimentales para fisicos
-<img class="float-left float--sm"
-     src="[Figures/pub-prancing-pony-2-373x500.jpg](https://images-na.ssl-images-amazon.com/images/I/41vip41T9cS._SX331_BO1,204,203,200_.jpg)"
+<img class="float-right float--sm"
+     src="https://m.media-amazon.com/images/I/61wYLesglqL._SY522_.jpg"
      alt="TECNICAS EXPERIMENTALES"
      width="180" height="270" decoding="async">
 
