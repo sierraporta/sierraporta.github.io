@@ -29,7 +29,7 @@ In this section you will find some lecture notes that I have accumulated over ti
 | Introducción a la Ciencia de datos | [Notes](./introCDAT.md) |
 | Programación para Ciencia de datos | [Notes](./programacionCDAT.md) |
 | Sensado y Modelado de Sistemas Físicos | [Notes](./sensado.md) |
-| Electricity and magnetism course | [Notes](./notas_de_clase_Electromagnetismo.md) |
+| Electricity and magnetism course | [Electromagnetismo]({{ '/electromagnetismo/' | relative_url }}) |
 | Oscilations and waves course | [Notes](./notas_de_clase_Ondas.md) |
 | Curso de Introducción a la estadística y Ciencia de datos: | [Github](https://github.com/sierraporta/Data_Science_Introduction), [Version Web](https://sierraporta.github.io/Data_Science_Introduction/) |
 
