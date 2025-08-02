@@ -19,7 +19,11 @@ I am David Sierra-Porta, a researcher at the intersection of astrophysics, envir
 - __My resume (in english):__ [Resume - cvitae (D.Sierra-Porta)](Files/cvdavid_resumen_en.pdf) [Updated september 2024]
 
 # A little blog: **Prancing Pony blog**
-<img src="Figures/pub-prancing-pony-2-373x500.jpg" align="right" width="150px"/>
+# Electromagnetismo
+<img class="float-left float--sm"
+     src="Figures/pub-prancing-pony-2-373x500.jpg"
+     alt="A little blog: Prancing Pony blog"
+     width="180" height="270" decoding="async">
 
 - _Here you can find some (divulgatives) articles and comments from my experience._
 - This blog is a space dedicated to sharing my experiences and reflections in the fields of data science, physics, mathematics, and other related areas. Through stories, commentary, and analysis, I will explore complex concepts, recent discoveries, practical applications, and personal challenges I have encountered throughout my professional and academic journey. My goal is to inspire other science and technology enthusiasts, share useful knowledge, and foster collaborative learning in such exciting subjects as statistics, mathematical modeling, and data analysis. Welcome, and I hope you enjoy the journey!
@@ -38,7 +42,9 @@ In this section you will find some lecture notes that I have accumulated over ti
 | Curso de Introducción a la estadística y Ciencia de datos: | [Github](https://github.com/sierraporta/Data_Science_Introduction), [Version Web](https://sierraporta.github.io/Data_Science_Introduction/) | --- |
 
 ## My Book: tecnicas experimentales para fisicos
-
-<img src="https://images-na.ssl-images-amazon.com/images/I/41vip41T9cS._SX331_BO1,204,203,200_.jpg" align="right" width="150px"/>
+<img class="float-left float--sm"
+     src="[Figures/pub-prancing-pony-2-373x500.jpg](https://images-na.ssl-images-amazon.com/images/I/41vip41T9cS._SX331_BO1,204,203,200_.jpg)"
+     alt="TECNICAS EXPERIMENTALES"
+     width="180" height="270" decoding="async">
 
 This book deals with some absolutely indispensable first notions with which students must encounter at the beginning of the bachelor's degree course in physical sciences, tools definitely necessary for the continuation of ongoing and upcoming subjects, but which, because they are included in mathematics or science treatises (separately), are not treated in a formal way; or also because they are considered boring or tiresome. Problems concerning definitions of units, measures, dimensions and errors could have been dealt with in high school but certainly in a very fast way and almost certainly with incomplete mathematics and logic, mainly due to the lack of a basis for dealing with them. It will surely be of much help to all as reference material or as complementary reading to introduce and deepen the notions of experimental techniques in the resolution of science problems.
