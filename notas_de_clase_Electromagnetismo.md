@@ -2,7 +2,8 @@
 layout: page-no-title
 title: Electromagnetismo
 ---
-# Electromagnetismo
+
+# Electricidad y Magnetismo
 <img class="float-left float--sm"
      src="/Figures/close-up-of-cropped-hands-during-an-experiment.jpg.webp"
      alt="Experimento simple con pila, cable y brújula"
