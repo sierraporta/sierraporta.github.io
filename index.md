@@ -6,11 +6,13 @@ __Welcome to my personal page__. For me, the most important thing is to be able 
 I am David Sierra-Porta, a researcher at the intersection of astrophysics, environmental science, and data science. I study complex systems—cosmic rays, solar activity, and air-quality dynamics—using machine learning, statistical modeling, and multifractal methods. My work combines physics, statistics, and environmental analytics to build interpretable models and practical tools, from space-weather forecasting to environmental monitoring. I collaborate widely and translate research into solutions with societal value. I am committed to mentoring students and communicating science clearly to broader audiences. Through this work I aim to advance understanding, foster innovation, and support evidence-based decisions. In addition to my research activities, I am actively involved in mentoring and teaching, helping to train the next generation of scientists. My commitment to science extends to public engagement, where I strive to make complex scientific concepts accessible to a broader audience. Through my work, I aim to advance knowledge, foster innovation, and contribute to the scientific community's efforts to address global challenges.
 </p>
 
+## Background:
 - Mathematics and Physics (LUZ-VE). Fundamental Physics, MsC. (ULA-VE). Fundamental Physics, PhD. (ULA-VE).
 - __Current Position:__ Full Time Research and Professor [Universidad Tecnológica de Bolivar](https://www.utb.edu.co/). Digital Transformation Faculty and Basics Science Faculty. Cartagena de Indias - Colombia.
 - __Interest:__ Astrophysics, Gravitation and Cosmology, Cosmics Rays, Space Weather, Data Science, Environmental Physics.
 - __GoogleScholar profile:__ [Scholar Google (D.Sierra-Porta)](https://scholar.google.com.co/citations?hl=en&user=-OInFfYAAAAJ&view_op=list_works&sortby=pubdate)
 - __CVLac profile:__ [CVLac (D.Sierra-Porta)](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000125474)
+- __ORCID profile:__ [(D.Sierra-Porta, 0000-0003-3461-1347)](https://orcid.org/0000-0003-3461-1347)
 - __Scopus profile:__ [(D.Sierra-Porta) - 57191333650](https://www.scopus.com/authid/detail.uri?authorId=57191333650)
 - __Github profile:__ [(sierraporta)](https://github.com/sierraporta)
 - __My resume (in spanish):__ [Resume - cvitae (D.Sierra-Porta)](Files/cvdavid_resumen_es.pdf) [Updated september 2024]
