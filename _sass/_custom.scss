@@ -5,17 +5,15 @@
 }
 
 .intro {
-  color: var(--intro-blue);        /* cambia a var(--intro-gray) si prefieres */
-  font-style: italic;              /* quítalo si la quieres en roman */
+  color: var(--intro-blue);
+  font-style: italic;
   font-size: clamp(1.05rem, 1.8vw, 1.2rem);
-  line-height: 1.75;
-  max-width: 75ch;                 /* lectura cómoda */
+  line-height: 1.05;
+  max-width: 75ch;
   margin: 0.75rem auto 1.25rem;
 }
 
-
 /* ==== Imágenes flotantes con texto alrededor ==== */
-
 /* base */
 .float-left, .float-right { border-radius: 12px; height: auto; }
 .float-left  { float: left;  margin: 0 18px 10px 0; }
@@ -36,8 +34,6 @@
   .float-left, .float-right { float: none; max-width: 100%; margin: 0 0 12px 0; }
 }
 
-
-
 .footer-about {
   display: grid;
   /* ~2×: de 140px → mínimo 280px; responsivo hasta ~420px */
@@ -55,8 +51,6 @@
   .footer-about { grid-template-columns: 1fr; }
 }
 
-
-
 /* Aumenta el ancho máximo del contenido */
 .wrapper {
   /* Minima suele usar ~800px; súbelo a tu gusto */
@@ -73,7 +67,7 @@
 
 /* Ajusta márgenes verticales (menos espacio “en blanco”) */
 .page-content {               /* zona donde viven posts/páginas */
-  padding: 24px 0;           /* bajar de ~48–64px a ~24px */
+  padding: 24px 0;
 }
 
 .post-list > li {             /* separaciones entre posts en la home/listas */
