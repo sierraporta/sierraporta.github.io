@@ -1,7 +1,7 @@
 # Curso **Introducción a la Ciencia de Datos**
 <img class="float-left float--sm"
-     src="/Figures/introcdat.png"
-     alt="Sensado y Modelado de Sistemas Físicos"
+     src="/Figures/datascience.png"
+     alt="Introduccion a la ciencia de datos"
      width="420" height="280" decoding="async">
           
 ## Presentación del curso y motivación
