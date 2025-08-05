@@ -31,12 +31,11 @@ Como culminación del proceso formativo, al final del curso los estudiantes desa
 ## Materiales y prácticas
 Algunos materiales y guías para el curso las pueden encontrar en las siguientes secciones.
 
-### 1. Caída libre – gravedad
+#### 1. Caída libre – gravedad
 Una esfera metálica se libera frente a un fondo blanco y se graba en slow-motion (≥ 60 fps). Con una regla adherida al fondo conviertes píxeles en metros y, fotograma a fotograma, ajustas la trayectoria \(y(t)=y_0+v_0 t+\frac{1}{2} g t^2\), obteniendo tu valor experimental de $$g$$ con precisión de centésimas. El ejercicio demuestra cómo un sencillo algoritmo de tracking traduce imágenes en datos físicos y abre la puerta al análisis de incertidumbre. **Materiales**: cámara digital o teléfono, trípode, cartulina blanca, regla, esfera pequeña, PC con Python + OpenCV. **Prepárate leyendo**: cinemática unidimensional, mínimos cuadrados y propagación de errores.
 
-
-### 2. Caída libre – conservación de la energía (pelota rebotando)
-Graba una pelota que rebota sucesivamente sobre una superficie rígida: cada salto revela cuánta energía se disipa y el coeficiente de restitución del material. Con un análisis rápido de alturas máximas o tiempos de vuelo observarás cómo la mecánica clásica y la termodinámica chocan — literalmente — en cada impacto.
+#### 2. Caída libre – conservación de la energía (pelota rebotando)
+Filma una pelota elástica que rebota sobre una superficie rígida; cada salto revela cuánta energía se disipa. De las alturas máximas sucesivas $$h_0$$, $$h_1$$, ... obtendrás el coeficiente de restitución $$e=\sqrt{\frac{h_{n+1}}{h_n}}$$ y la fracción de energía perdida $$1-e^2$$. Observarás cómo mecánica clásica y termodinámica “chocan” –literalmente– en cada impacto. **Materiales**: pelota de goma oscura, superficie lisa, cámara y regla del experimento 1. **Consulta antes**: conservación de la energía, colisiones inelásticas y definición de $$e$$.
 
 ### 3. Oscilación de un péndulo – período y gravedad
 Suspende una masa de hilo delgado, registra su oscilación y extrae el período a partir de los cruces por el punto de equilibrio. Relaciónalo con la fórmula \(T = 2\pi\sqrt{L/g}\) para re-estimar \(g\) y, si te atreves, investiga las correcciones para grandes amplitudes o el efecto del rozamiento en el aire.
