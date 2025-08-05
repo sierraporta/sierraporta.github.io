@@ -38,6 +38,14 @@ Esta metodología permite un aprendizaje vivencial, interdisciplinario y altamen
 ### Proyecto final y feria de ciencia de datos
 Como culminación del proceso formativo, al final del curso los estudiantes desarrollarán un proyecto grupal integrador, en el que deberán diseñar, ejecutar y analizar un experimento original que combine sensado físico, recolección rigurosa de datos y técnicas avanzadas de análisis y modelado. Este proyecto representa una oportunidad para aplicar de forma creativa e independiente los conocimientos adquiridos a lo largo del semestre, enfrentándose a un problema abierto que requiere pensamiento crítico, autonomía y colaboración efectiva. Los proyectos serán presentados públicamente en la Feria de Proyectos de Ciencia de Datos, un espacio institucional de socialización académica donde los estudiantes podrán compartir sus resultados con sus compañeros, docentes e invitados. Algunos proyectos también podrán ser seleccionados para participar en la Feria de Ciencias de la Universidad, ampliando el alcance del trabajo y fomentando la apropiación social del conocimiento generado. Este cierre busca reforzar las competencias de comunicación científica, el trabajo interdisciplinario y el compromiso con la calidad en todas las etapas del ciclo de análisis de datos.
 
+## La Comunicación de la Ciencia
+La comunicación de la ciencia es tan clave como la obtención de resultados. De poco sirven los resultados si los pares y, peor, la comunidad no logra captar su importancia. Durante este curso haremos ejercicios de cómo expresarnos en tres géneros de la comunicación científica: 
+- Propuestas y reportes de investigación
+- Presentaciones de las ideas o proyectos científicos
+- Poster o carteles para presentar resultados científicos.
+
+Una referencia que recomiendo ampliamente para entender que las ideas no bastan es el escrito de Deconinck, K. (2015). _Trust me, I'm a doctor: a PhD survival guide_. Journal of Economic Education, 46(4), 360-375. [Deconinck, K. (2015)](https://lirias.kuleuven.be/retrieve/316851). Una maravilla para entender que las ideas no bastan.
+
 ## Materiales y prácticas
 Algunos materiales y guías para el curso las pueden encontrar en las siguientes secciones.
 
@@ -140,5 +148,13 @@ A veces, cuando colocamos un vaso boca abajo sobre una mesa plana mojada, empiez
 
 #### Reto 10 *Pelotas danzantes* 
 Cuando una pelota sobre una superficie dura y plana,  golpeada por un chorro de agua que cae perpendicular a la superficie, [puede empezar a oscilar](https://youtu.be/yq_qSWZDHHk). Investiga cómo dependen las oscilaciones de los parámetros pertinentes.
+
+
+## Algunas referencias
+- Kaps, A., Splith, T. & Stallmach, F. Implementation of smartphone-based experimental exercises for physics courses at universities. Phys. Educ. 56, 035004 (2021). [Kaps, A., Splith, T. & Stallmach, F. (2021)](https://iopscience.iop.org/article/10.1088/1361-6552/abdee2/pdf)
+- Monteiro, M. & Martí, A. C. Resource Letter MDS-1: Mobile devices and sensors for physics teaching. Am. J. Phys. 90, 328–343 (2022). [Monteiro, M. & Martí, A. C. (2022)](https://www.academia.edu/download/91485433/2206.12062.pdf)
+- Poultney, S. K. Measurement and Its Reliability: An Introductory Laboratory Experiment. Am. J. Phys. 39, 176–182 (1971). [Poultney, S. K. (1971)](https://pubs.aip.org/ajp/article/39/2/176/1048766)
+- Schectman, R. M. The Use of Computer Generated Data in Experiment Design—A Student Exercise. Am. J. Phys. 40, 1742–1747 (1972). [Schectman, R. M. (1972)](https://ui.adsabs.harvard.edu/abs/1972AmJPh..40.1742S/abstract)
+- Vieyra, R., Vieyra, C., Jeanjacquot, P., Marti, A. & Monteiro, M. Turn your smartphone into lab. Sci Teach 82, 32–40 (2015). ()
 
 
