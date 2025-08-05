@@ -32,7 +32,8 @@ Como culminación del proceso formativo, al final del curso los estudiantes desa
 Algunos materiales y guías para el curso las pueden encontrar en las siguientes secciones.
 
 ### 1. Caída libre – gravedad
-Deja caer una pequeña esfera frente a una cámara de alta velocidad, extrae la trayectoria fotograma a fotograma y ajusta la curva \(y(t) = y_0 + v_0t + \tfrac12gt^2\). En menos de un minuto obtienes tu propio valor de \(g\), compruebas la universalidad de la aceleración terrestre y descubres cómo un sencillo algoritmo de *tracking* convierte píxeles y tiempo en física de precisión.
+Una esfera metálica se libera frente a un fondo blanco y se graba en slow-motion (≥ 60 fps). Con una regla adherida al fondo conviertes píxeles en metros y, fotograma a fotograma, ajustas la trayectoria $y(t)=y0+v_0t+\frac{1}{2}gt^2$, obteniendo tu valor experimental de $g$ con precisión de centésimas. El ejercicio demuestra cómo un sencillo algoritmo de tracking traduce imágenes en datos físicos y abre la puerta al análisis de incertidumbre. **Materiales**: cámara digital o teléfono, trípode, cartulina blanca, regla, esfera pequeña, PC con Python + OpenCV. **Prepárate leyendo**: cinemática unidimensional, mínimos cuadrados y propagación de errores.
+
 
 ### 2. Caída libre – conservación de la energía (pelota rebotando)
 Graba una pelota que rebota sucesivamente sobre una superficie rígida: cada salto revela cuánta energía se disipa y el coeficiente de restitución del material. Con un análisis rápido de alturas máximas o tiempos de vuelo observarás cómo la mecánica clásica y la termodinámica chocan — literalmente — en cada impacto.
