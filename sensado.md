@@ -32,7 +32,7 @@ Como culminación del proceso formativo, al final del curso los estudiantes desa
 Algunos materiales y guías para el curso las pueden encontrar en las siguientes secciones.
 
 ### 1. Caída libre – gravedad
-Una esfera metálica se libera frente a un fondo blanco y se graba en slow-motion (≥ 60 fps). Con una regla adherida al fondo conviertes píxeles en metros y, fotograma a fotograma, ajustas la trayectoria $y(t)=y0+v_0t+\frac{1}{2}gt^2$, obteniendo tu valor experimental de $g$ con precisión de centésimas. El ejercicio demuestra cómo un sencillo algoritmo de tracking traduce imágenes en datos físicos y abre la puerta al análisis de incertidumbre. **Materiales**: cámara digital o teléfono, trípode, cartulina blanca, regla, esfera pequeña, PC con Python + OpenCV. **Prepárate leyendo**: cinemática unidimensional, mínimos cuadrados y propagación de errores.
+Una esfera metálica se libera frente a un fondo blanco y se graba en slow-motion (≥ 60 fps). Con una regla adherida al fondo conviertes píxeles en metros y, fotograma a fotograma, ajustas la trayectoria \(y(t)=y_0+v_0 t+\frac{1}{2} g t^2\), obteniendo tu valor experimental de \(g\) con precisión de centésimas. El ejercicio demuestra cómo un sencillo algoritmo de tracking traduce imágenes en datos físicos y abre la puerta al análisis de incertidumbre. **Materiales**: cámara digital o teléfono, trípode, cartulina blanca, regla, esfera pequeña, PC con Python + OpenCV. **Prepárate leyendo**: cinemática unidimensional, mínimos cuadrados y propagación de errores.
 
 
 ### 2. Caída libre – conservación de la energía (pelota rebotando)
