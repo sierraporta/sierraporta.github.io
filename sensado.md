@@ -30,8 +30,36 @@ Como culminación del proceso formativo, al final del curso los estudiantes desa
 
 ## Materiales y prácticas
 Algunos materiales y guías para el curso las pueden encontrar en las siguientes secciones.
-<div class="clearfix"></div>
 
+### 1. Caída libre – gravedad
+Deja caer una pequeña esfera frente a una cámara de alta velocidad, extrae la trayectoria fotograma a fotograma y ajusta la curva \(y(t) = y_0 + v_0t + \tfrac12gt^2\). En menos de un minuto obtienes tu propio valor de \(g\), compruebas la universalidad de la aceleración terrestre y descubres cómo un sencillo algoritmo de *tracking* convierte píxeles y tiempo en física de precisión.
+
+### 2. Caída libre – conservación de la energía (pelota rebotando)
+Graba una pelota que rebota sucesivamente sobre una superficie rígida: cada salto revela cuánta energía se disipa y el coeficiente de restitución del material. Con un análisis rápido de alturas máximas o tiempos de vuelo observarás cómo la mecánica clásica y la termodinámica chocan — literalmente — en cada impacto.
+
+### 3. Oscilación de un péndulo – período y gravedad
+Suspende una masa de hilo delgado, registra su oscilación y extrae el período a partir de los cruces por el punto de equilibrio. Relaciónalo con la fórmula \(T = 2\pi\sqrt{L/g}\) para re-estimar \(g\) y, si te atreves, investiga las correcciones para grandes amplitudes o el efecto del rozamiento en el aire.
+
+### 4. Falling-Sphere Viscometer
+Deja caer una micro-esfera en un cilindro lleno de glicerina o aceite y mide la velocidad terminal. Con una simple ecuación de Stokes (\(F_D = 6\pi\mu r v\)) podrás calcular la viscosidad del fluido y el número de Reynolds, descubriendo en el proceso por qué la miel es tan pegajosa y cómo la física gobierna cada gota.
+
+### 5. Caoticidad – péndulo doble
+Construye un péndulo doble y filma su danza impredecible. Al reconstruir los ángulos \(\theta_1(t), \theta_2(t)\) explorarás espacios de fase, sensibilidades al estado inicial y exponentes de Lyapunov, adentrándote en el fascinante territorio donde pequeñas causas producen efectos gigantescos.
+
+### 6. Sistema masa-resorte
+Sobre un riel de aire o una guía de baja fricción, une una masa a un resorte y registra su movimiento amortiguado. Con un ajuste no lineal extraerás constante elástica \(k\) y coeficiente de amortiguamiento \(b\); descubrirás cómo los mismos algoritmos que usan los ingenieros para suspensiones de autos caben en un *notebook* de Python.
+
+### 7. Conducción de calor en una barra metálica
+Inserta varias termocuplas a lo largo de una barra de aluminio y calienta un extremo. Mientras la temperatura se propaga, tu dataset \(T(x,t)\) se convierte en un laboratorio viviente para la ecuación de calor 1-D: estimarás la difusividad térmica \(\alpha\) y practicarás técnicas de ajuste de PDEs y modelos basados en datos.
+
+### 8. Serie de Fourier de formas de onda periódicas
+Genera señales cuadradas, triangulares y de diente de sierra, captúralas con el osciloscopio y descompónelas con la FFT. Verás emerger los armónicos con la ley \(1/n\) o \(1/n^2\), experimentarás el fenómeno de Gibbs y entenderás por qué cualquier sonido complejo no es más que la suma de muchas sencillas senoidales.
+
+### 9. Respuesta de un circuito RLC – tiempo ↔ frecuencia
+Excita un circuito RLC con un barrido de frecuencia y registra entrada y salida simultáneamente. El pico de resonancia y el ancho a \(-3\text{ dB}\) se convierten en tu puerta de entrada al dominio de Bode y a la noción de calidad \(Q\); comprobarás que la FFT de la respuesta temporal coincide con la función de transferencia teórica.
+
+### 10. Modulación AM y “anatomía” de un espectro
+Modula una portadora de 100 kHz con un tono de 5 kHz, captura la señal y observa en el espectro la portadora y sus dos bandas laterales. Luego demodúlala digitalmente con la envolvente de Hilbert y juega con diferentes índices de modulación para descubrir cómo viaja la música por el aire… y cómo los ingenieros la recuperan intacta.
 
 
 
