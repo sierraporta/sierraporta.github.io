@@ -19,3 +19,9 @@ theme: minima
 
 header_pages:
   - index.md        # solo el Home en el menú
+
+markdown: kramdown
+kramdown:
+  math_engine: mathjax      # habilita LaTeX
+  math_engine_opts:
+    preview: false
