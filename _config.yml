@@ -24,9 +24,6 @@ markdown: kramdown
 kramdown:
   math_engine: mathjax
 
-# si usas un tema oficial:
-remote_theme: pages-themes/minimal@v0.2.0
-
 # hook para inyectar <head>
 plugins:
   - jekyll-include-cache
