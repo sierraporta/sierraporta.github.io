@@ -72,5 +72,73 @@ Excita un circuito RLC con un barrido de frecuencia y registra entrada y salida 
 #### 10. Modulación AM y “anatomía” de un espectro
 Modula una portadora de 100 kHz con un tono de 5 kHz, captura la señal y observa en el espectro la portadora y sus dos bandas laterales. Luego demodúlala digitalmente con la envolvente de Hilbert y juega con diferentes índices de modulación para descubrir cómo viaja la música por el aire… y cómo los ingenieros la recuperan intacta. Configura el generador para una portadora de 100 kHz modulada por un tono de 5 kHz y captura la señal con el osciloscopio a 1 MS/s. La FFT mostrará la portadora y las bandas laterales; con la transformada de Hilbert demodularás la envolvente y analizarás cómo el índice de modulación $$m$$ redistribuye la potencia entre picos espectrales. Es la puerta de entrada al procesamiento de señales de RF y telecomunicaciones digitales. **Materiales**: generador con modo AM, osciloscopio rápido, cables coaxiales, Python (*scipy.signal.hilbert*). **Para prepararte**: conceptos de modulación en amplitud, filtros paso-bajo y demodulación envolvente.
 
+## Retos “Fuera de la Caja” – Introducción
+
+En el **último corte del curso** pondremos a prueba tu creatividad, tu intuición física y la capacidad de traducir fenómenos cotidianos en *datasets* significativos. Cada equipo elegirá **un único reto** de la lista y lo desarrollará a lo largo de cuatro semanas, documentando el proceso con las mismas herramientas de sensado y modelado que hemos practicado en clase.
+
+### Objetivos generales
+
+1. **Diseñar un montaje experimental original** con materiales de bajo costo y, cuando sea posible, elementos reciclados o de uso doméstico.  
+2. **Instrumentar el fenómeno**: elegir sensores, cámaras o técnicas de adquisición para convertir observaciones cualitativas en series de datos cuantitativos.  
+3. **Modelar y validar**: construir un modelo teórico (analítico, numérico o basado en *machine learning*) que explique al menos una relación funcional \(f(\mathbf{x})\) entre variables relevantes.  
+4. **Comunicar** resultados de forma atractiva: informe en Jupyter/Quarto, video–demo de ≤ 3 min y repositorio en GitHub con código reproducible.
+
+### Criterios de evaluación
+
+| Peso | Criterio | Descripción |
+|------|----------|-------------|
+| 25 % | Diseño experimental | Claridad del planteamiento, ingenio, control de variables externas. |
+| 25 % | Adquisición y limpieza de datos | Calidad del *dataset*, tratamiento de ruido, manejo de incertidumbre. |
+| 25 % | Modelado y análisis | Pertinencia del modelo, rigor matemático, validación cuantitativa (p-ej. \(R^{2}\), MAE, o comparación con teoría). |
+| 15 % | Comunicación | Estructura del informe, visualizaciones, reproducibilidad del código. |
+| 10 % | Factor *wow* | Originalidad, creatividad y profundidad de la reflexión científica. |
+
+> **Tip:** antes de comprometerse con un reto, cada equipo debe presentar un “**one-pager**” con hipótesis, variables a medir, sensores/cámaras planeadas y una estimación del rango de valores esperados (―la pregunta clásica: *¿de cuántas órdenes de magnitud estamos hablando?*).
+
+### Recursos a tu alcance
+
+* **Laboratorio**: cámaras de alta velocidad (240 fps), cronómetros digitales, sensores Hall, Arduino + shields de adquisición y el osciloscopio digital con exportación CSV.  
+* **Software**: Python 3.11 con `numpy`, `pandas`, `matplotlib`, `scipy`, `scikit-image`, `scikit-learn` y `sympy`; licencias educativas de Tracker Video Analysis y Algodoo.  
+* **Biblioteca digital**: acceso a *Nature Physics Insight*, *American Journal of Physics* y la colección completa de demostraciones del Prof. Tadashi Tokieda.
+
+Al aceptar uno de los retos, te comprometes a **navegar la frontera difusa entre lo lúdico y lo científico**, a preguntar *«¿qué pasaría si…?»* y a respaldar cada conjetura con evidencia cuantitativa. Prepárate para iterar, fallar rápido y aprender aún más rápido. ¡Nos vemos en el laboratorio!
+
+---
+
+A continuación encontrarás la lista de retos disponibles.  
+*Recuerda: solo podrás seleccionar uno, así que elige sabiamente.*
+
+### Retos para seleccionar
+Los equipos deberán seleccionar uno de estos retos para resolverlos durante el semestre, siguiendo el calendario arriba expuesto.
+
+#### Reto 1 *Dinámica de chapoteo*
+La dinámica de chapoteo ([*Slosh dynamics*](https://en.wikipedia.org/wiki/Slosh_dynamics)) se refiere al movimiento de líquidos dentro de un recipiente sometido a fuerzas externas. Este fenómeno es relevante en ingeniería, física y diversas industrias en las que es necesario comprender la estabilidad y el rendimiento de los sistemas que contienen líquidos. La dinámica del chapoteo depende de factores como la forma del recipiente, sus dimensiones, el nivel de llenado, las propiedades del líquido (densidad, viscosidad, tensión superficial), las fuerzas externas (aceleración, desaceleración, vibración) y la presencia de estructuras/mecanismos internos diseñadas para mitigarlo. El emprendimiento científico [*The Spill not*](https://thespillnot.com/) comercializa un dispositivo que evita el los líquidos contenidos en tazas o vasos se derramen. Utilizando su celular, parametrice el fenómeno del derrame de líquidos utilizando este dispositivo.
+
+#### Reto 2 *El problema inverso y las tazas* **(Equipo 4)**
+Si golpea la parte superior de una taza de café con una cuchara, notará que el sonido depende en gran medida de dónde se golpee. Conociendo la geometría de la taza, se puede predecir el espectro de frecuencia del sonido emitido al tocar en diferentes puntos. Considere ahora el problema inverso y encuentre una técnica experimental para reconstruir la geometría de un recipiente a partir del sonido emitido. ¿Cuál es el conocimiento mínimo sobre la geometría de la copa que se necesita para resolver el problema?  Una interesante discusión de este problema inverso lo pueden ver en el canal youtube del prof [Tadashi Tokieda](https://en.wikipedia.org/wiki/Tadashi_Tokieda): https://youtu.be/MfzNJE4CK_s
+
+#### Reto 3 *Perplejidades de clips y ligas*
+Hay un monton de trucos bonitos que se hacen con una [cinta de papel, clips y ligas](https://youtu.be/wGkvyN6s9cY) (bandas de goma) que también pueden ver en el canal youtube del prof [Tadashi Tokieda](https://en.wikipedia.org/wiki/Tadashi_Tokieda). La pregunta que les hacemos es ¿Pueden extenderlo para mas de dos vueltas de la cinta de papel? Describa los casos y plantee posibles generalizaciones ¿cuáles serían las limitaciones de los materiales?
+
+#### Reto 4  *Variedades de Péndulos*
+Inspirado en el [video de Bruce Yeany](https://youtu.be/615GTw4TNxI) construya y estudie la dinámica de alguno de los péndulos dobles que allí proponen. Compare dos ellos, los que sean más similares. Construya un modelo teórico, simúlelo y compárelo con medidas experimentales.
+
+#### Reto 5  *Cilindros danzantes* **(Equipo 2)**
+Otra vez el Prof [Tadashi Tokieda](https://en.wikipedia.org/wiki/Tadashi_Tokieda) nos presenta otro caso curioso de oscilaciones con [cilindros danzantes](https://youtu.be/JuuYFt8bahE) y también [extra de cilindros](https://youtu.be/5dJsOF7_GfY). Parametrice y intente generalizar ese fenómeno.
+
+#### Reto 6  *Estabilidad e inestabilidad conica*
+Y seguimos con los ejemplos del Prof [Tadashi Tokieda](https://en.wikipedia.org/wiki/Tadashi_Tokieda), ahora nos presenta [un plano inclinado y dos estrucuras cónicas](https://youtu.be/Ku8BOBwD4hc), unas que ruedan cuesta abajo de forma estable y otras que nó. Analice ambos casos.
+
+#### Reto 7  *Botellas oscilantes, medio vacías o medio llenas*
+Si empujas horizontalmente una botella medio llena de agua, rodará hacia delante con una velocidad oscilante. ¿De qué y cómo depende la magnitud de las oscilaciones de la velocidad? ¿de la cantidad o viscosidad de líquido?
+
+#### Reto 8 *Orden en la pea*
+A veces, cuando colocamos un vaso boca abajo sobre una mesa plana mojada, empieza a moverse. Investiga su velocidad en función de los parámetros pertinentes e intenta maximizarla. Algo de [información al respecto](https://www.quora.com/Why-does-a-simple-drinking-glass-which-is-just-washed-and-kept-upside-down-start-to-move)
+
+#### Reto 9 *Hidro Cañon* 
+¿A qué altura puede saltar una pelota de ping-pong utilizando el [montaje del vídeo](https://youtu.be/mPOcFSHyd9o?t=478 )? ¿Cuál es la fracción máxima de la energía cinética total que puede transferirse a la pelota?
+
+#### Reto 10 *Pelotas danzantes* 
+Cuando una pelota sobre una superficie dura y plana,  golpeada por un chorro de agua que cae perpendicular a la superficie, [puede empezar a oscilar](https://youtu.be/yq_qSWZDHHk). Investiga cómo dependen las oscilaciones de los parámetros pertinentes.
 
 
