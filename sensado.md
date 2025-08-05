@@ -1,3 +1,13 @@
+<!-- MathJax v3 (pégalo al inicio del .md) -->
+<script>
+  window.MathJax = {
+    tex: {inlineMath: [['\\(','\\)']], displayMath: [['$$','$$']]}
+  };
+</script>
+<script async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
 # Curso introductorio de **Sensado y Modelado de Sistemas Físicos**
 <img class="float-left float--sm"
      src="/Figures/smsf.png"
