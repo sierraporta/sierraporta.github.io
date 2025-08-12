@@ -47,7 +47,7 @@ La comunicación de la ciencia es tan clave como la obtención de resultados. De
 Una referencia que recomiendo ampliamente para entender que las ideas no bastan es el escrito de Deconinck, K. (2015). _Trust me, I'm a doctor: a PhD survival guide_. Journal of Economic Education, 46(4), 360-375. [Deconinck, K. (2015)](https://lirias.kuleuven.be/retrieve/316851). Una maravilla para entender que las ideas no bastan.
 
 ## Materiales y prácticas
-Algunos materiales y guías para el curso las pueden encontrar en las siguientes secciones.
+Algunos materiales y guías para el curso las pueden encontrar en las siguientes secciones. Además códigos útiles para realizar prácticas pueden encontrarse en el repositorio: ["Sensado y Modelado de Sistemas Físicos (GITHUB)"](https://github.com/sierraporta/Sensado-y-Modelado-de-Sistemas-Fisicos)
 
 | No | Descripción |
 |------|----------------------|
