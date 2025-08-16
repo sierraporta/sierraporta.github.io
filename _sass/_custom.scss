@@ -4,6 +4,9 @@
   --intro-gray: #555555; /* gris neutro */
 }
 
+.btn--primary { background: #2f3b52; color:#fff; border-color:#2f3b52; }
+.btn--primary:hover { filter: brightness(1.05); }
+
 .intro {
   color: var(--intro-blue);
   font-style: italic;
