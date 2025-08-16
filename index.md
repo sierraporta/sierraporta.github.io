@@ -10,17 +10,15 @@ I am David Sierra-Porta, a researcher at the intersection of astrophysics, envir
 - Mathematics and Physics (LUZ-VE). Fundamental Physics, MsC. (ULA-VE). Fundamental Physics, PhD. (ULA-VE).
 - __Current Position:__ Full Time Research and Professor [Universidad Tecnológica de Bolivar](https://www.utb.edu.co/). Digital Transformation Faculty and Basics Science Faculty. Cartagena de Indias - Colombia.
 - __Interest:__ Astrophysics, Gravitation and Cosmology, Cosmics Rays, Space Weather, Data Science, Environmental Physics.
-- __GoogleScholar profile:__ [Scholar Google (D.Sierra-Porta)](https://scholar.google.com.co/citations?hl=en&user=-OInFfYAAAAJ&view_op=list_works&sortby=pubdate)
-- __CVLac profile:__ [CVLac (D.Sierra-Porta)](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000125474)
-- __ORCID profile:__ [(D.Sierra-Porta, 0000-0003-3461-1347)](https://orcid.org/0000-0003-3461-1347)
-- __Scopus profile:__ [(D.Sierra-Porta) - 57191333650](https://www.scopus.com/authid/detail.uri?authorId=57191333650)
-- __Github profile:__ [(sierraporta)](https://github.com/sierraporta)
-- __My resume (in spanish):__ [Resume - cvitae (D.Sierra-Porta)](Files/cvdavid_resumen_es.pdf) [Updated september 2024]
-- __My resume (in english):__ [Resume - cvitae (D.Sierra-Porta)](Files/cvdavid_resumen_en.pdf) [Updated september 2024]
-- <p>
-  <a class="btn" href="/Files/CV_DavidSierra.pdf">Descargar CV</a>
-  <a class="btn" href="https://scholar.google.com/..." rel="noopener">Google Scholar</a>
-  <a class="btn" href="mailto:sierraporta@gmail.com">Contacto</a>
+<p>
+  <a class="btn" href="/Files/cvdavid_resumen_es.pdf">My resume (in spanish)</a>
+  <a class="btn" href="/Files/cvdavid_resumen_en.pdf">My resume (in english)</a>
+  <a class="btn" href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000125474">CVLac profile</a>
+  <a class="btn" href="https://scholar.google.com.co/citations?hl=en&user=-OInFfYAAAAJ&view_op=list_works&sortby=pubdate">GoogleScholar profile</a>
+  <a class="btn" href="https://orcid.org/0000-0003-3461-1347">Orcid profile (D. Sierra-Porta, 0000-0003-3461-1347</a>
+  <a class="btn" href="https://www.scopus.com/authid/detail.uri?authorId=57191333650">Scopus profile (D. Sierra-Porta, 57191333650)</a>
+  <a class="btn" href="https://github.com/sierraporta">Github profile (sierraporta)</a>
+  <a class="btn" href="mailto:sierraporta@gmail.com">Contact me</a>
 </p>
 
 # A little blog: **Prancing Pony blog**
