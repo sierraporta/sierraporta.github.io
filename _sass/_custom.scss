@@ -121,10 +121,7 @@ ul > li { margin: 0.2rem 0; }
   border: 1px solid #bbb;
   border-radius: 6px;
   text-decoration: none;
-  font-weight: 600;
-  background: #2f3b52; 
-  color:#fff; 
-  border-color:#2f3b52;
+  font-weight: 400;
 }
 .btn:hover { border-color: #888; filter: brightness(1.05);}
 
@@ -142,5 +139,5 @@ ul > li { margin: 0.2rem 0; }
 }
 .card h3 { margin: 0 0 .4rem; font-size: 1.05rem; }
 
-.btn--primary { background:#2f3b52; color:#fff; border-color:#2f3b52; }
+.btn--primary { background:#D2E0FA; color:#fff; border-color:#2f3b52; padding: .15rem .4rem; font-weight: 400;}
 .btn--primary:hover { filter: brightness(1.05); }
