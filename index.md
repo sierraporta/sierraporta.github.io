@@ -17,6 +17,11 @@ I am David Sierra-Porta, a researcher at the intersection of astrophysics, envir
 - __Github profile:__ [(sierraporta)](https://github.com/sierraporta)
 - __My resume (in spanish):__ [Resume - cvitae (D.Sierra-Porta)](Files/cvdavid_resumen_es.pdf) [Updated september 2024]
 - __My resume (in english):__ [Resume - cvitae (D.Sierra-Porta)](Files/cvdavid_resumen_en.pdf) [Updated september 2024]
+- <p>
+  <a class="btn" href="/Files/CV_DavidSierra.pdf">Descargar CV</a>
+  <a class="btn" href="https://scholar.google.com/..." rel="noopener">Google Scholar</a>
+  <a class="btn" href="mailto:sierraporta@gmail.com">Contacto</a>
+</p>
 
 # A little blog: **Prancing Pony blog**
 <img class="float-left float--sm"
