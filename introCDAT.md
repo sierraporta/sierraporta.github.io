@@ -42,8 +42,6 @@ Como culminación del proceso formativo, al final del curso los estudiantes desa
 - **Entregable.** `index.html` (más imágenes si usas).  
 - **Evaluación (100 pts).** 30 datos correctos · 30 diseño/legibilidad · 25 narrativa · 15 limpieza del código.
 
----
-
 ## Corte 2 · Reel tipo Instagram: “Si la UTB tuviera 100 estudiantes…”
 - **Objetivo.** Crear un video corto (30–60 s) que comunique datos de una **encuesta propia** como si la población total fueran **100 estudiantes**. Aquí hay un ejemplo de lo que queremos: [Video de Instagram - https://www.instagram.com/reel/DN4A3Z9gOkp/?igsh=djhjNWdlMm1pd3kx](https://www.instagram.com/reel/DN4A3Z9gOkp/?igsh=djhjNWdlMm1pd3kx)
 - **Ejemplos de variables.** Programa, semestre, jornada, becas, acceso a internet/dispositivo, tiempo de estudio, empleo, transporte, bienestar (sueño, actividad física, apoyo).
@@ -55,8 +53,6 @@ Como culminación del proceso formativo, al final del curso los estudiantes desa
 - **Entregables.** `guion.pdf`, `storyboard` (PDF/PNG), `datos.csv`, `reel.mp4` (1080×1920 vertical).  
 - **Evaluación (100 pts).** 35 rigor de datos · 35 claridad visual/ritmo · 20 creatividad/insight · 10 ética y créditos.
 
----
-
 ## Corte 3 · Mini-proyecto final (elige 1)
 - **Objetivo.** Integrar el ciclo **pregunta → datos → análisis → visualización → comunicación** en un entregable breve y reproducible.
 - **Opciones.**  
@@ -66,9 +62,7 @@ Como culminación del proceso formativo, al final del curso los estudiantes desa
 - **Entregables.** `README.md` (pregunta, datos, pasos), datos (`.csv`) o script, `notebook.ipynb`, 1 visual final (`.png`/`.svg`).  
 - **Evaluación (100 pts).** 30 reproducibilidad · 30 calidad del análisis · 25 comunicación del insight · 15 orden del repo.
 
----
-
-### Criterios transversales
+## Criterios transversales
 - **Versionado y orden:** carpetas claras, nombres consistentes, `README.md`.  
 - **Ética y citas:** anonimización cuando aplique, enlaces a fuentes y fecha de acceso.  
 - **Presentación breve:** cada proyecto abre con una **pregunta** y cierra con una **frase-insight**.
