@@ -47,7 +47,7 @@ Como culminación del proceso formativo, al final del curso los estudiantes desa
 ## Corte 2 · Reel tipo Instagram: “Si la UTB tuviera 100 estudiantes…”
 - **Objetivo.** Crear un video corto (30–60 s) que comunique datos de una **encuesta propia** como si la población total fueran **100 estudiantes**. Aquí hay un ejemplo de lo que queremos: [Video de Instagram - https://www.instagram.com/reel/DN4A3Z9gOkp/?igsh=djhjNWdlMm1pd3kx](https://www.instagram.com/reel/DN4A3Z9gOkp/?igsh=djhjNWdlMm1pd3kx)
 - **Ejemplos de variables.** Programa, semestre, jornada, becas, acceso a internet/dispositivo, tiempo de estudio, empleo, transporte, bienestar (sueño, actividad física, apoyo).
-     - **Requisitos mínimos.**  
+- **Requisitos mínimos.**  
      - **Guion + storyboard** (5–8 cuadros).  
      - Normalización a “100 personas” (proporciones claras).  
      - Gráficos/íconos consistentes (barras, pictogramas, mosaico 10×10).  
