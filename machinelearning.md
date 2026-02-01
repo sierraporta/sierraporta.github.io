@@ -8,7 +8,7 @@
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
-# Curso de **Machine Learning** (Doctorado)
+# Curso de **Machine Learning**
 <img class="float-left float--sm"
      src="/Figures/ml.png"
      alt="Machine Learning"
