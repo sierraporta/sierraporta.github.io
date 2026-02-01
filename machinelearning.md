@@ -47,6 +47,7 @@ El curso se organiza en **16 semanas**, con un máximo de **1 notebook por seman
 Se espera trabajo continuo y acumulativo: los notebooks alimentan el **proyecto final**, que integra todas las etapas del ciclo de vida del modelo.
 
 ## Evaluación (sugerencia)
+
 | Componente | Peso | Descripción |
 |---|---:|---|
 | Quizzes / controles cortos | 15% | Conceptos y lectura crítica (métricas, validación, supuestos) |
