@@ -85,6 +85,8 @@ La comunicación de la ciencia es tan clave como la obtención de resultados. De
 - Presentaciones de ideas o proyectos científicos
 - Poster o carteles para presentar resultados científicos
 
+Una referencia que recomiendo ampliamente para entender que las ideas no bastan es el escrito de Deconinck, K. (2015). _Trust me, I'm a doctor: a PhD survival guide_. Journal of Economic Education, 46(4), 360-375. [Deconinck, K. (2015)](https://lirias.kuleuven.be/retrieve/316851). Una maravilla para entender que las ideas no bastan.
+
 ## Proyecto final (Unidad 7)
 El proyecto integra todo el ciclo de vida del modelo: datos → preprocesamiento → modelado → evaluación → (opcional) despliegue.
 
