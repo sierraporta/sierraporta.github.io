@@ -1,3 +1,16 @@
+/* Reduce tipografía global */
+html { font-size: 88%; }   /* prueba 90%, 88%, 85% */
+body { font-size: 1rem; }
+
+/* Opcional: compactar un poco títulos */
+h1 { font-size: 1.9rem; }
+h2 { font-size: 1.5rem; }
+h3 { font-size: 1.2rem; }
+
+/* Opcional: si quieres más aire/legibilidad aunque sea más pequeño */
+p, li { line-height: 1.6; }
+
+
 /* ===== Intro/bio destacado ===== */
 :root {
   --intro-blue: #3A5285; /* azul grisáceo sobrio */
