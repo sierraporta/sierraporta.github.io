@@ -58,6 +58,8 @@ Se espera trabajo continuo y acumulativo: los notebooks alimentan el **proyecto 
 ## Cronograma y notebooks (16 semanas)
 > Regla: **1 notebook por semana**. Solo se usan 2 cuando el laboratorio es largo (marcado como “Opcional B”).
 
+Todos los notebooks estarán en: [https://github.com/sierraporta/Intro-Machine-Learning-UnderGraduated](https://github.com/sierraporta/Intro-Machine-Learning-UnderGraduated).
+
 | Semana | Notebook | Tema central | Descripción (temas de la semana) |
 |---:|---|---|---|
 | 1 | `Notebooks/ML_01_workflow`: [ML_00_philosophy_splitting_generalization.ipynb](https://github.com/sierraporta/Intro-Machine-Learning-UnderGraduated/blob/main/Notebooks/ML_00_philosophy_splitting_generalization.ipynb), [ML_01_workflow_splits_leakage.ipynb](https://github.com/sierraporta/Intro-Machine-Learning-UnderGraduated/blob/main/Notebooks/ML_01_workflow_splits_leakage.ipynb) | Introducción + workflow | Qué es ML; tipos (sup/no sup/refuerzo); flujo de trabajo; splits; *leakage*; baseline. |
