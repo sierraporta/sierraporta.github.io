@@ -60,7 +60,7 @@ Se espera trabajo continuo y acumulativo: los notebooks alimentan el **proyecto 
 
 | Semana | Notebook | Tema central | Descripción (temas de la semana) |
 |---:|---|---|---|
-| 1 | `Notebooks/ML_01_workflow`: [ML_00](https://github.com/sierraporta/Intro-Machine-Learning-UnderGraduated/blob/main/Notebooks/ML_00_philosophy_splitting_generalization.ipynb), [ML_01](https://github.com/sierraporta/Intro-Machine-Learning-UnderGraduated/blob/main/Notebooks/ML_01_workflow_splits_leakage.ipynb) | Introducción + workflow | Qué es ML; tipos (sup/no sup/refuerzo); flujo de trabajo; splits; *leakage*; baseline. |
+| 1 | `Notebooks/ML_01_workflow`: [ML_00_philosophy_splitting_generalization.ipynb](https://github.com/sierraporta/Intro-Machine-Learning-UnderGraduated/blob/main/Notebooks/ML_00_philosophy_splitting_generalization.ipynb), [ML_01_workflow_splits_leakage.ipynb](https://github.com/sierraporta/Intro-Machine-Learning-UnderGraduated/blob/main/Notebooks/ML_01_workflow_splits_leakage.ipynb) | Introducción + workflow | Qué es ML; tipos (sup/no sup/refuerzo); flujo de trabajo; splits; *leakage*; baseline. |
 | 2 | `Notebooks/ML_02_preprocessing.ipynb` | Preprocesamiento | Limpieza; faltantes; escalado; one-hot; desbalance; `Pipeline` + `ColumnTransformer`. |
 | 3 | `Notebooks/ML_03_metrics_general.ipynb` | Métricas (panorama) | MAE/RMSE/R²; accuracy/precision/recall/F1; ROC/PR; calibración básica; umbrales. |
 | 4 | `Notebooks/ML_04_linear_ridge_lasso.ipynb` | Regresión lineal + regularización | OLS vs GD (visión); Ridge/Lasso; sesgo-varianza; selección de \(\lambda\). |
