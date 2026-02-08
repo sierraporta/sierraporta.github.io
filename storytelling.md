@@ -20,6 +20,11 @@ En ciencia, empresa y gobierno, la diferencia entre “tener un resultado” y �
 Más que “hacer gráficos bonitos”, el objetivo es aprender a **tomar decisiones** (qué mostrar, qué omitir, cómo ordenar, cómo anotar, cómo reconocer límites) y defenderlas con criterio, ética y transparencia.
 
 ## Libros base (eje del curso)
+<img class="float-left float--sm"
+     src="/Figures/storytelling+with+data+books.png.webp"
+     alt="Storytelling y Narrativa de Datos"
+     width="420" height="280" decoding="async">
+     
 - **SWD**: *Storytelling with Data* — Cole Nussbaumer Knaflic
 - **SWD Practice**: *Storytelling with Data: Let’s Practice!* — Cole Nussbaumer Knaflic
 - **SWY**: *Storytelling with You* — Cole Nussbaumer Knaflic
