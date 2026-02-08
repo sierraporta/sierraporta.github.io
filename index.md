@@ -40,10 +40,11 @@ In this section you will find some lecture notes that I have accumulated over ti
 
 | Lectures | Link | Updated |
 | --- | --- | --- |
-| Introducción a la Ciencia de datos | [Notes](./introCDAT.md) | Aug. 2025 |
+| Introducción a la Ciencia de datos | [Notes](./introCDAT.md) | Feb. 2026 |
 | Programación para Ciencia de datos | [Notes](./programacionCDAT.md) | Aug. 2025 |
 | Sensado y Modelado de Sistemas Físicos | [Notes](./sensado.md) | Aug. 2025 |
 | Machine Learning | [Notes](./machinelearning.md) | Jan. 2026 |
+| Storytelling y Narrativa de Datos | [Notes](./storytelling.md) | Jan. 2026 |
 | Electricidad y Magnetismo | [Notes](./notas_de_clase_Electromagnetismo.md) | July 2025 |
 | Oscilaciones y Ondas | [Notes](./notas_de_clase_Ondas.md) | Aug. 2023 |
 | Curso de Introducción a la estadística y Ciencia de datos. (**En construcción!**) | [Github](https://github.com/sierraporta/Data_Science_Introduction), [Version Web](https://sierraporta.github.io/Data_Science_Introduction/) | --- |
