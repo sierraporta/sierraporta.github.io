@@ -1,6 +1,6 @@
 # Curso de Oscilaciones y Ondas
 <img class="float-left float--sm"
-     src="/Figures/close-up-of-cropped-hands-during-an-experiment.jpg.webp"
+     src="/Figures/solwater_Water_Vibration_sound_bowls_water_close_up_ripples_spl_88a1e9bb-791f-4547-b7d5-deeab3a90239.webp"
      alt="Experimento simple con pila, cable y brújula"
      width="420" height="280" decoding="async">
           
