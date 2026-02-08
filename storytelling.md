@@ -62,8 +62,8 @@ El trabajo es acumulativo: desde la semana 3 cada equipo avanza un **proyecto in
 ## Cronograma y notebooks (12 semanas)
 > Regla: **1 notebook por semana**. Cada semana incluye: lectura, exposición corta (estudiante), laboratorio y entregable.
 
-**Repositorio sugerido** (ajústalo a tu URL):  
-`https://github.com/sierraporta/Storytelling-Narrativa-de-Datos`
+**Repositorio sugerido** Tendremos un repositorio para ir subiendo materiales, el cual puedes encontrarlo en:  
+[StoryTelling-y-Narrativa-de-Datos](https://github.com/sierraporta/StoryTelling-y-Narrativa-de-Datos)
 
 | Semana | Notebook | Tema central | Lecturas (SWD / Practice / SWY) | En clase (exposición + taller) | Trabajo / Entregable |
 |---:|---|---|---|---|---|
