@@ -52,6 +52,11 @@ Como culminación del proceso formativo, al final del curso los estudiantes desa
 - **Entregable.** `index.html` (más imágenes si usas).  
 - **Evaluación (100 pts).** 30 datos correctos · 30 diseño/legibilidad · 25 narrativa · 15 limpieza del código.
 
+| Materiales Varios | Descripción | ¿Donde? |
+| --- | --- | --- |
+| Notebook para reproducir Figura 2.1 de WHR2025 | Una pqueña introducción que nos va a durar un par de semanas | [HappinessReport2025.ipynb](https://github.com/sierraporta/Introduction-a-la-Ciencia-de-Datos-Notas-de-Curso/blob/main/Notebooks/HappinessReport2025.ipynb) |
+| Conjunto de Datos del WHR2025 | Datos para el notebook anterior | [WHR25_Data_Figure_2.1.xlsx](https://github.com/sierraporta/Introduction-a-la-Ciencia-de-Datos-Notas-de-Curso/blob/main/Datas/WHR25_Data_Figure_2.1.xlsx)
+
 ### Corte 2 · Reel tipo Instagram: “Si la UTB tuviera 100 estudiantes…”
 - **Objetivo.** Crear un video corto (30–60 s) que comunique datos de una **encuesta propia** como si la población total fueran **100 estudiantes**. Aquí hay un ejemplo de lo que queremos: [Video de Instagram - https://www.instagram.com/reel/DN4A3Z9gOkp/?igsh=djhjNWdlMm1pd3kx](https://www.instagram.com/reel/DN4A3Z9gOkp/?igsh=djhjNWdlMm1pd3kx)
 - **Ejemplos de variables.** Programa, semestre, jornada, becas, acceso a internet/dispositivo, tiempo de estudio, empleo, transporte, bienestar (sueño, actividad física, apoyo).
