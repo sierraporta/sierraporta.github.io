@@ -1,4 +1,14 @@
-# Oscilaciones y Ondas
+# Curso de Oscilaciones y Ondas
+<img class="float-left float--sm"
+     src="/Figures/close-up-of-cropped-hands-during-an-experiment.jpg.webp"
+     alt="Experimento simple con pila, cable y brújula"
+     width="420" height="280" decoding="async">
+          
+Las oscilaciones y las ondas son fenómenos físicos fundamentales que describen cómo se mueve la energía a través del tiempo y el espacio. Mientras que una oscilación es un movimiento repetitivo de vaivén alrededor de un punto central de equilibrio (como un péndulo oscilante), una onda es una perturbación que viaja a través de un medio, transportando energía sin transporte neto de materia. Para comprender las ondas y las oscilaciones, conviene pensar en ellas como dos etapas de una misma historia: la oscilación es la "danza" local de un objeto, mientras que una onda es esa danza que se propaga entre una multitud.
+
+Algunos materiales y guías para el curso las pueden encontrar en las siguientes secciones.
+<div class="clearfix"></div>
+
 
 | N | Contenido | Enlace | Actualizado | Pags. |
 | --- | --- | --- | --- | --- |
