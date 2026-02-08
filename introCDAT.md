@@ -36,7 +36,7 @@ Como culminación del proceso formativo, al final del curso los estudiantes desa
 
 ---
 
-## Programación del curso por cortes — Introducción a la Ciencia de Datos - **Periodo 202520**
+## Programación del curso por cortes — Introducción a la Ciencia de Datos - **Periodo 202520/202610**
 
 ### **Corte 1 · Mini-dashboard (HTML + CSS) con World Happiness Report**
 - **Objetivo.** Construir una página web estática (un solo `index.html` con `<style>` embebido) que muestre la evolución de la felicidad de **Colombia** por año, sus variables asociadas y comparaciones con países mejor y peor posicionados.
