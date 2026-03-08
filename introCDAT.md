@@ -57,7 +57,21 @@ Como culminación del proceso formativo, al final del curso los estudiantes desa
 | Notebook para reproducir Figura 2.1 de WHR2025 | Una pqueña introducción que nos va a durar un par de semanas | [HappinessReport2025.ipynb](https://github.com/sierraporta/Introduction-a-la-Ciencia-de-Datos-Notas-de-Curso/blob/main/Notebooks/HappinessReport2025.ipynb) |
 | Conjunto de Datos del WHR2025 | Datos para el notebook anterior | [WHR25_Data_Figure_2.1.xlsx](https://github.com/sierraporta/Introduction-a-la-Ciencia-de-Datos-Notas-de-Curso/blob/main/Datas/WHR25_Data_Figure_2.1.xlsx)
 
-### **Corte 2 · Reel tipo Instagram: “Si la UTB tuviera 100 estudiantes…”**
+### **Corte 2 · Mini-unidad: dashboards automatizados con Power BI (4 semanas)**
+- **Objetivo.** Diseñar un dashboard interactivo y automatizable en Power BI a partir de datos reales, para explorar indicadores clave, apoyar la toma de decisiones y comunicar hallazgos de forma clara y visual.
+- **Datos.**  
+     - Página de los datos (Our World in Data): [https://www.worldhappiness.report/ed/2025/](https://ourworldindata.org/grapher/gender-gap-education-levels)
+     - Datos Originales (Our World in Data): [gender-gap-education-levels (OWiD)](https://github.com/sierraporta/Introduction-a-la-Ciencia-de-Datos-Notas-de-Curso/tree/main/Datas/gender-gap-education-levels)
+     - Notebook para transformar datos: [Notebook, Transformar datos... (powerbi_education_gender_prep.ipynb)](https://github.com/sierraporta/Introduction-a-la-Ciencia-de-Datos-Notas-de-Curso/blob/main/Notebooks/powerbi_education_gender_prep.ipynb)
+     - Excel transformado (Para PowerBI): [gender_gap_education_2020_2024_powerbi.csv](https://github.com/sierraporta/Introduction-a-la-Ciencia-de-Datos-Notas-de-Curso/blob/main/Datas/gender-gap-education-levels/gender_gap_education_2020_2024_powerbi.csv)
+- **¿Qué haremos?**  
+     - Semana 1. Qué es un dashboard, KPI, audiencia y preguntas de análisis. Cargar un CSV/Excel en Power BI Desktop. Power BI Desktop sigue disponible gratis para crear reportes, y Looker Studio sigue siendo una alternativa web sin costo.
+     - Semana 2. Limpieza básica y modelado: tipos de datos, fechas, categorías, relaciones simples y columnas calculadas básicas.
+     - Semana 3. Construcción del dashboard: tarjetas, barras, líneas, segmentadores, filtros y diseño visual.
+     - Semana 4. Automatización básica: conectar a una fuente actualizable, refrescar datos y entregar un dashboard con una historia clara.
+- **Entregable.** `index.html` (más imágenes si usas).  
+
+### **Corte 3 · Reel tipo Instagram: “Si la UTB tuviera 100 estudiantes…”**
 - **Objetivo.** Crear un video corto (30–60 s) que comunique datos de una **encuesta propia** como si la población total fueran **100 estudiantes**. Aquí hay un ejemplo de lo que queremos: [Video de Instagram - https://www.instagram.com/reel/DN4A3Z9gOkp/?igsh=djhjNWdlMm1pd3kx](https://www.instagram.com/reel/DN4A3Z9gOkp/?igsh=djhjNWdlMm1pd3kx)
 - **Ejemplos de variables.** Programa, semestre, jornada, becas, acceso a internet/dispositivo, tiempo de estudio, empleo, transporte, bienestar (sueño, actividad física, apoyo).
 - **Requisitos mínimos.**  
@@ -68,7 +82,7 @@ Como culminación del proceso formativo, al final del curso los estudiantes desa
 - **Entregables.** `guion.pdf`, `storyboard` (PDF/PNG), `datos.csv`, `reel.mp4` (1080×1920 vertical).  
 - **Evaluación (100 pts).** 35 rigor de datos · 35 claridad visual/ritmo · 20 creatividad/insight · 10 ética y créditos.
 
-### **Corte 3 · Mini-proyecto final (elige 1)**
+### **Para rematar · Mini-proyecto final (elige 1)**
 - **Objetivo.** Integrar el ciclo **pregunta → datos → análisis → visualización → comunicación** en un entregable breve y reproducible.
 - **Opciones.**  
      1) **EDA reproducible (notebook).** Limpieza básica, 2–3 gráficos con `matplotlib`, hallazgos en 8–12 líneas.  
