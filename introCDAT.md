@@ -60,9 +60,9 @@ Como culminación del proceso formativo, al final del curso los estudiantes desa
 ### **Corte 2 · Mini-unidad: dashboards automatizados con Power BI (4 semanas)**
 - **Objetivo.** Diseñar un dashboard interactivo y automatizable en Power BI a partir de datos reales, para explorar indicadores clave, apoyar la toma de decisiones y comunicar hallazgos de forma clara y visual.
 - **Datos.**  
-     - Página de los datos (Our World in Data): [https://www.worldhappiness.report/ed/2025/](https://ourworldindata.org/grapher/gender-gap-education-levels)
+     - Página de los datos (Our World in Data): [https://ourworldindata.org/grapher/gender-gap-education-levels](https://ourworldindata.org/grapher/gender-gap-education-levels)
      - Datos Originales (Our World in Data): [gender-gap-education-levels (OWiD)](https://github.com/sierraporta/Introduction-a-la-Ciencia-de-Datos-Notas-de-Curso/tree/main/Datas/gender-gap-education-levels)
-     - Notebook para transformar datos: [Notebook, Transformar datos... (powerbi_education_gender_prep.ipynb)](https://github.com/sierraporta/Introduction-a-la-Ciencia-de-Datos-Notas-de-Curso/blob/main/Notebooks/powerbi_education_gender_prep.ipynb)
+     - Notebook para transformar datos: [powerbi_education_gender_prep.ipynb](https://github.com/sierraporta/Introduction-a-la-Ciencia-de-Datos-Notas-de-Curso/blob/main/Notebooks/powerbi_education_gender_prep.ipynb)
      - Excel transformado (Para PowerBI): [gender_gap_education_2020_2024_powerbi.csv](https://github.com/sierraporta/Introduction-a-la-Ciencia-de-Datos-Notas-de-Curso/blob/main/Datas/gender-gap-education-levels/gender_gap_education_2020_2024_powerbi.csv)
 - **¿Qué haremos?**  
      - Semana 1. Qué es un dashboard, KPI, audiencia y preguntas de análisis. Cargar un CSV/Excel en Power BI Desktop. Power BI Desktop sigue disponible gratis para crear reportes, y Looker Studio sigue siendo una alternativa web sin costo.
