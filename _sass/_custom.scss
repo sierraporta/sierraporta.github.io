@@ -7,7 +7,7 @@ h1 { font-size: 1.9rem; }
 h2 { font-size: 1.5rem; }
 h3 { font-size: 1.2rem; }
 
-/* Opcional: si quieres más aire/legibilidad aunque sea más pequeño */
+/* Opcional: más aire/legibilidad aunque sea más pequeño */
 p, li { line-height: 1.6; }
 
 
@@ -37,7 +37,7 @@ p, li { line-height: 1.6; }
   shape-margin: 8px;
 }
 
-/* tamaños (elige uno por imagen) */
+/* tamaños */
 .float--sm { max-width: min(300px, 35%); }
 .float--md { max-width: min(420px, 40%); }  /* valor “por defecto” */
 .float--lg { max-width: min(560px, 50%); }
@@ -137,7 +137,7 @@ ul > li { margin: 0.2rem 0; }
   font-weight: 400;
   /* Fondo azul suave y transparente */
   background-color: rgba(0, 123, 255, 0.1); 
-  /* Color de texto (opcional, por si quieres que combine) */
+  /* Color de texto (opcional) */
   color: #0056b3;
   transition: all 0.2s ease;
 }
