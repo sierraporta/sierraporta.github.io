@@ -23,7 +23,7 @@ I am David Sierra-Porta, a researcher at the intersection of astrophysics, envir
   <a class="btn" href="mailto:sierraporta@gmail.com">Contact me</a>
 </p>
 
-# **A little blog: *Prancing Pony blog***
+## **A little blog: *Prancing Pony blog***
 <img class="float-left float--sm"
      src="Figures/pub-prancing-pony-2-373x500.jpg"
      alt="A little blog: Prancing Pony blog"
@@ -35,7 +35,7 @@ I am David Sierra-Porta, a researcher at the intersection of astrophysics, envir
 
 <div class="clearfix"></div>
 
-# **Lecture Notes**
+## **Lecture Notes**
 In this section you will find some lecture notes that I have accumulated over time for various courses and topics and that I have used in my own courses. By now they are always in constant modification and updating and represent (I think) a good starting point to start and then deepen in each of the topics. Visit, read and share (if you think they are good) these lecture notes in the following links:
 
 | Lectures | Description | Link | Updated |
