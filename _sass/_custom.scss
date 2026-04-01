@@ -135,8 +135,20 @@ ul > li { margin: 0.2rem 0; }
   border-radius: 6px;
   text-decoration: none;
   font-weight: 400;
+  /* Fondo azul suave y transparente */
+  background-color: rgba(0, 123, 255, 0.1); 
+  /* Color de texto (opcional, por si quieres que combine) */
+  color: #0056b3;
+  transition: all 0.2s ease;
 }
-.btn:hover { border-color: #888; filter: brightness(1.05);}
+
+.btn:hover {
+  border-color: #888;
+  /* Un poco más oscuro al pasar el mouse */
+  background-color: rgba(0, 123, 255, 0.2);
+  filter: brightness(1.05);
+}
+
 
 /* 7) Grid de "tarjetas" para Proyectos/Docencia */
 .cards {
