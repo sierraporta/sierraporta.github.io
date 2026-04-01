@@ -16,8 +16,6 @@ I am David Sierra-Porta, a researcher at the intersection of astrophysics, envir
   <a class="btn" href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000125474">CVLac profile</a>
   <a class="btn" href="https://scholar.google.com.co/citations?hl=en&user=-OInFfYAAAAJ&view_op=list_works&sortby=pubdate">GoogleScholar profile</a>
   <a class="btn" href="https://github.com/sierraporta">Github profile (sierraporta)</a>
-</p>
-<p>
   <a class="btn" href="https://orcid.org/0000-0003-3461-1347">Orcid profile (D. Sierra-Porta, 0000-0003-3461-1347)</a>
   <a class="btn" href="https://www.scopus.com/authid/detail.uri?authorId=57191333650">Scopus profile (D. Sierra-Porta, 57191333650)</a>
   <a class="btn" href="mailto:sierraporta@gmail.com">Contact me</a>
