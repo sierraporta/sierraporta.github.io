@@ -69,7 +69,7 @@ p, li { line-height: 1.6; }
 /* Aumenta el ancho máximo del contenido */
 .wrapper {
   /* Minima suele usar ~800px */
-  max-width: 1200px;         /* 1000–1200px suele verse bien en desktop */
+  max-width: 1400px;         /* 1000–1200px suele verse bien en desktop */
 }
 
 /* Reduce el padding lateral en pantallas grandes */
@@ -96,13 +96,13 @@ p, li { line-height: 1.6; }
 /* Ancho de lectura más amplio global */
 .page-content .post,
 .page-content .home {
-  max-width: 96ch;   /* 90–100ch suele verse bien */
+  max-width: 110ch;   /* 90–100ch suele verse bien */
   margin: 0 auto;
 }
 
 @media (min-width: 1400px) {
   .page-content .post,
-  .page-content .home { max-width: 105ch; }  /* opcional */
+  .page-content .home { max-width: 130ch; }  /* opcional */
 }
 
 /* 2) Cita/blockquote más elegante y corta */
