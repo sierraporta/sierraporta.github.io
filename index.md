@@ -25,7 +25,7 @@ I am David Sierra-Porta, a researcher at the intersection of astrophysics, envir
 
 ## **A little blog: *Prancing Pony blog***
 <img class="float-left float--sm"
-     src="Figures/pub-prancing-pony-2-373x500.jpg"
+     src="Figures/PPnew.png"
      alt="A little blog: Prancing Pony blog"
      width="140" height="200" decoding="async">
 
