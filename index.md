@@ -27,7 +27,7 @@ I am David Sierra-Porta, a researcher at the intersection of astrophysics, envir
 <img class="float-left float--sm"
      src="Figures/PPnew.png"
      alt="A little blog: Prancing Pony blog"
-     width="160" height="200" decoding="async">
+     width="190" height="220" decoding="async">
 
 - _Here you can find some (divulgatives) articles and comments from my experience._
 - This blog is a space dedicated to sharing my experiences and reflections in the fields of data science, physics, mathematics, and other related areas. Through stories, commentary, and analysis, I will explore complex concepts, recent discoveries, practical applications, and personal challenges I have encountered throughout my professional and academic journey. My goal is to inspire other science and technology enthusiasts, share useful knowledge, and foster collaborative learning in such exciting subjects as statistics, mathematical modeling, and data analysis. Welcome, and I hope you enjoy the journey!
