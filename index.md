@@ -6,7 +6,7 @@ __Welcome to my personal page__. For me, the most important thing is to be able 
 I am David Sierra-Porta, a researcher at the intersection of astrophysics, environmental science, and data science. I study complex systems—cosmic rays, solar activity, and air-quality dynamics—using machine learning, statistical modeling, and multifractal methods. My work combines physics, statistics, and environmental analytics to build interpretable models and practical tools, from space-weather forecasting to environmental monitoring. I collaborate widely and translate research into solutions with societal value. I am committed to mentoring students and communicating science clearly to broader audiences. Through this work I aim to advance understanding, foster innovation, and support evidence-based decisions. In addition to my research activities, I am actively involved in mentoring and teaching, helping to train the next generation of scientists. My commitment to science extends to public engagement, where I strive to make complex scientific concepts accessible to a broader audience. Through my work, I aim to advance knowledge, foster innovation, and contribute to the scientific community's efforts to address global challenges.
 </p>
 
-## Background:
+## **Background:**
 - Mathematics and Physics (LUZ-VE). Fundamental Physics, MsC. (ULA-VE). Fundamental Physics, PhD. (ULA-VE).
 - __Current Position:__ Full Time Research and Professor [Universidad Tecnológica de Bolivar](https://www.utb.edu.co/). Digital Transformation Faculty and Basics Science Faculty. Cartagena de Indias - Colombia.
 - __Interest:__ Astrophysics, Gravitation and Cosmology, Cosmics Rays, Space Weather, Data Science, Environmental Physics.
@@ -23,7 +23,7 @@ I am David Sierra-Porta, a researcher at the intersection of astrophysics, envir
   <a class="btn" href="mailto:sierraporta@gmail.com">Contact me</a>
 </p>
 
-# A little blog: **Prancing Pony blog**
+# **A little blog: *Prancing Pony blog***
 <img class="float-left float--sm"
      src="Figures/pub-prancing-pony-2-373x500.jpg"
      alt="A little blog: Prancing Pony blog"
@@ -35,7 +35,7 @@ I am David Sierra-Porta, a researcher at the intersection of astrophysics, envir
 
 <div class="clearfix"></div>
 
-# Lecture Notes
+# **Lecture Notes**
 In this section you will find some lecture notes that I have accumulated over time for various courses and topics and that I have used in my own courses. By now they are always in constant modification and updating and represent (I think) a good starting point to start and then deepen in each of the topics. Visit, read and share (if you think they are good) these lecture notes in the following links:
 
 | Lectures | Description | Link | Updated |
