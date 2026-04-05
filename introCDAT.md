@@ -76,6 +76,7 @@ Como culminación del proceso formativo, al final del curso los estudiantes desa
 | Notebook para transformar datos | Un notebook inicial que nos ayudará a dejar un dataset listo para PowerBI | [Notebook, Transformar datos... (powerbi_education_gender_prep.ipynb)](https://github.com/sierraporta/Introduction-a-la-Ciencia-de-Datos-Notas-de-Curso/blob/main/Notebooks/powerbi_education_gender_prep.ipynb) |
 | Conjunto de Datos: Excel transformado (Para PowerBI) | Datos exportados del notebook anterior | [gender_gap_education_2020_2024_powerbi.csv](https://github.com/sierraporta/Introduction-a-la-Ciencia-de-Datos-Notas-de-Curso/blob/main/Datas/gender-gap-education-levels/gender_gap_education_2020_2024_powerbi.csv) |
 
+---
 
 #### **Actividad: Dashboard de Importaciones de Colombia en Power BI**
 | Objetivos | El dataset | ¿Donde? |
