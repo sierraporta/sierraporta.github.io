@@ -78,18 +78,18 @@ Como culminación del proceso formativo, al final del curso los estudiantes desa
 
 ---
 
-#### **Actividad: Dashboard de Importaciones de Colombia en Power BI**
+#### **Actividad final de corte: Dashboard de Importaciones de Colombia en Power BI**
 
 | Objetivos | El dataset | ¿Donde? |
 | --- | --- | --- |
 | Construir un dashboard interactivo en Power BI que permita explorar las importaciones de Colombia desde 1980 hasta 2026, utilizando un dataset real del DANE/DIAN. La actividad busca que el estudiante practique la carga y transformación de datos, domine los principales tipos de visualización de Power BI, y desarrolle la capacidad de formular y responder preguntas analíticas a partir de datos reales. | El archivo `importaciones_colombia_unificado.csv` contiene 12,865 registros de importaciones colombianas con las siguientes columnas: `codigo_pais_m49`: Código numérico UN M49I, `codigo_iso3`: Código ISO 3166 alfa-3 (COL, USA, CHN…), `pais_origen`: Nombre del país en español, `anio`: Año (1980–2026), `capitulo`: Capítulo arancelario o Categoría de producto, `valor_dolares_cif`: Valor importado en USD, `log_valor`: log₁₀ del valor, `continente`: África, América, Asia, Europa, Oceanía, `region`: (Sudamérica, Asia Oriental…), `bloque_economico`: OCDE, BRICS, CAN, Alianza del Pacífico | [importaciones_colombia_unificado.csv](https://github.com/sierraporta/Introduction-a-la-Ciencia-de-Datos-Notas-de-Curso/blob/main/Datas/gender-gap-education-levels/importaciones_colombia_unificado.csv). Nota sobre los datos: Los datos provienen de los anexos estadísticos de importaciones publicados por el DANE y la DIAN, actualizados a enero de 2026. Los valores están expresados en dólares CIF. Los años 2025 y 2026 contienen cifras provisionales y parciales. |
 
 **¿Qué hacer?**
-- Parte 1 — Carga y preparación de datos: Al importar el CSV en Power BI, el estudiante debe verificar en el Editor de Power Query que:
+- **Parte 1 — Carga y preparación de datos.** Al importar el CSV en Power BI, el estudiante debe verificar en el Editor de Power Query que:
   - Los tipos de datos estén correctamente asignados (texto, número entero, número decimal).
   - La columna anio se reconozca como número entero, no como fecha.
   - Los valores nulos en bloque_economico se mantengan tal cual (representan países que no pertenecen a ninguno de los bloques definidos).
-- Parte 2 — Visualizaciones requeridas
+- **Parte 2 — Visualizaciones requeridas:**
   - 2.1 Mapa coroplético: ¿De dónde importa Colombia? Crear un mapa que muestre la distribución geográfica de las importaciones usando codigo_iso3 como campo de ubicación y valor_dolares_cif (o log_valor para mejor contraste visual) como métrica de color. Agregar un slicer de anio para que el mapa sea dinámico en el tiempo. Pregunta guía: ¿La concentración geográfica de proveedores ha cambiado entre 1990 y 2024?
   - 2.2 Línea de tiempo: evolución total de importaciones. Gráfico de líneas con anio en el eje X y la suma de valor_dolares_cif en el eje Y, filtrando solo los registros donde capitulo = "TOTAL". El estudiante debe poder identificar visualmente al menos tres eventos macroeconómicos en la serie: la apertura económica de los años 90, la crisis financiera de 2008–2009, y la caída por COVID-19 en 2020. Pregunta guía: ¿Cuánto tardó Colombia en recuperar el nivel de importaciones previo al COVID?
   - 2.3 Barras apiladas: composición por continente. Gráfico de barras apiladas con anio en el eje y valor_dolares_cif sumado, desglosado por continente. Esto permite observar cómo Asia ha ganado participación frente a América y Europa a lo largo de las décadas. Pregunta guía: ¿En qué año Asia superó a Europa como origen de importaciones?
@@ -97,17 +97,17 @@ Como culminación del proceso formativo, al final del curso los estudiantes desa
   - 2.5 Gráfico de líneas comparativo: China vs. Estados Unidos. Filtrar dos países y graficar su evolución en el mismo chart. En 1990, China exportaba prácticamente $0 a Colombia; en 2024 ya está casi a la par con Estados Unidos (~$16B cada uno). Esta es probablemente la historia más impactante del dataset. Pregunta guía: ¿En qué año China superó a cada uno de los socios europeos tradicionales (Alemania, Francia, España)?
   - 2.6 Tabla matricial con drill-down: capítulo × país. Crear una matriz con capitulo en filas, pais_origen en columnas y valor_dolares_cif como valor, para un año seleccionado. Esto permite responder preguntas como "¿de dónde vienen los vehículos?" o "¿quién domina el mercado farmacéutico?". Pregunta guía: ¿Hay capítulos donde un solo país concentra más del 50% de las importaciones?
   - 2.7 Gráfico de anillo o dona: participación por bloque económico. Usando la columna bloque_economico, mostrar qué proporción del valor importado proviene de países OCDE, BRICS, CAN o Alianza del Pacífico. El segmento sin bloque asignado también es informativo. Pregunta guía: ¿Qué proporción de las importaciones colombianas proviene de países con los que Colombia comparte un acuerdo comercial o bloque?
-- Parte 3 — Interactividad. El dashboard debe incluir al menos:
+- **Parte 3 — Interactividad.** El dashboard debe incluir al menos:
   - Un slicer de año (o rango de años) que filtre todas las visualizaciones.
   - Un slicer de continente para exploración geográfica.
   - Cross-filtering entre visualizaciones: al hacer clic en un país del mapa, las demás gráficas deben actualizarse.
-- Parte 4 — Análisis escrito (mínimo una página). El estudiante debe acompañar su dashboard con un texto analítico que responda al menos tres de las siguientes preguntas usando evidencia de sus propias visualizaciones:
+- **Parte 4 — Análisis escrito (mínimo una página).** El estudiante debe acompañar su dashboard con un texto analítico que responda al menos tres de las siguientes preguntas usando evidencia de sus propias visualizaciones:
   - ¿Cómo ha cambiado la dependencia comercial de Colombia respecto a Estados Unidos en las últimas cuatro décadas?
   - ¿Qué papel juega China hoy en la estructura de importaciones y cómo se compara con su papel hace 20 años?
   - ¿Qué impacto visible tuvo la pandemia de 2020 en las importaciones, y la recuperación fue uniforme por sector?
   - ¿Existe diversificación real en los proveedores de Colombia, o el comercio está concentrado en pocos países?
   - ¿Qué diferencias se observan en la composición de importaciones por tipo de producto entre los proveedores asiáticos y los americanos?
-- Entregables: Archivo .pbix con el dashboard completo y Documento con el análisis escrito (PDF o Word).
+- **Entregables:** Archivo .pbix con el dashboard completo y Documento con el análisis escrito (PDF o Word).
 
 ### **Corte 3 · Reel tipo Instagram: “Si la UTB tuviera 100 estudiantes…”**
 - **Objetivo.** Crear un video corto (30–60 s) que comunique datos de una **encuesta propia** como si la población total fueran **100 estudiantes**. Aquí hay un ejemplo de lo que queremos: [Video de Instagram - https://www.instagram.com/reel/DN4A3Z9gOkp/?igsh=djhjNWdlMm1pd3kx](https://www.instagram.com/reel/DN4A3Z9gOkp/?igsh=djhjNWdlMm1pd3kx)
