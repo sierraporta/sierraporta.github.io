@@ -93,7 +93,7 @@ Una referencia que recomiendo ampliamente para entender que las ideas no bastan 
 ## Proyecto final (Unidad 7)
 El proyecto integra todo el ciclo de vida del modelo: datos → preprocesamiento → modelado → evaluación → (opcional) despliegue.
 
-| Proyectos finales | Semestre | |
+| Proyectos finales | Semestre | Enlace |
 |---:|---|---|
 | Lista de proyectos a elegir (Pueden elegir o inventar otros) | 202610 | [ProyectosFCD202610.txt](https://github.com/sierraporta/Intro-Machine-Learning-UnderGraduated/blob/main/Notas/ProyectosFCD202610.txt) |
 
