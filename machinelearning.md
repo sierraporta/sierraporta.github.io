@@ -95,7 +95,7 @@ El proyecto integra todo el ciclo de vida del modelo: datos → preprocesamiento
 
 | Proyectos finales | Semestre | Enlace |
 |---:|---|---|
-| Lista de proyectos a elegir (Pueden elegir o inventar otros) | 202610 | [ProyectosFCD202610.txt](https://github.com/sierraporta/Intro-Machine-Learning-UnderGraduated/blob/main/Notas/ProyectosFCD202610.txt), [ProyectosFCD202610.md (marrkdown)](https://github.com/sierraporta/Intro-Machine-Learning-UnderGraduated/blob/main/Notas/ProyectosFCD202610.md) |
+| Lista de proyectos a elegir (Pueden elegir o inventar otros) | 202610 | [ProyectosFCD202610.md](https://github.com/sierraporta/Intro-Machine-Learning-UnderGraduated/blob/main/Notas/ProyectosFCD202610.md) |
 
 ### Entregables mínimos
 1. Repositorio con estructura limpia y reproducible (README + instrucciones).
