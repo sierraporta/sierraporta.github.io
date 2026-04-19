@@ -73,7 +73,7 @@ Todos los notebooks estarán en: [https://github.com/sierraporta/Intro-Machine-L
 | 8 | `Notebooks/ML_08a_random_forest_operative_intro.ipynb`: [ML_08a_random_forest_operative_intro.ipynb](https://github.com/sierraporta/Intro-Machine-Learning-UnderGraduated/blob/main/Notebooks/ML_08a_random_forest_operative_intro.ipynb), `Notebooks/ML_08_random_forest.ipynb`: [ML_08_random_forest_feature_importance.ipynb](https://github.com/sierraporta/Intro-Machine-Learning-UnderGraduated/blob/main/Notebooks/ML_08_random_forest_feature_importance.ipynb) | Random Forest | Bagging; reducción de varianza; OOB (si se usa); importancias; estabilidad. |
 | 9 | `Notebooks/ML_09_svm.ipynb`: [ML_09_svm_kernels_tuning.ipynb](https://github.com/sierraporta/Intro-Machine-Learning-UnderGraduated/blob/main/Notebooks/ML_09_svm_kernels_tuning.ipynb) | SVM | Márgenes; kernel trick (visión); \(C\), \(\gamma\); tuning mínimo; ROC/PR. |
 | 9B (opc.) | `Notebooks/ML_09B_svm_kernels.ipynb` | SVM kernels (profundización) | Comparación de kernels y frontera; sensibilidad a hiperparámetros; buenas prácticas. |
-| 10 | `Notebooks/ML_10_ann_mlp.ipynb` | Redes neuronales (ANN) | MLP; backprop (conceptual); regularización (early stopping/dropout); curvas de aprendizaje. |
+| 10 | `Notebooks/ML_10_ann_mlp.ipynb`: [ML_10_neuronal_networks_MLP_regularisation.ipynb](https://github.com/sierraporta/Intro-Machine-Learning-UnderGraduated/blob/main/Notebooks/ML_10_neuronal_networks_MLP_regularisation.ipynb) | Redes neuronales (ANN) | MLP; backprop (conceptual); regularización (early stopping/dropout); curvas de aprendizaje. |
 | 11 | `Notebooks/ML_11_kmeans.ipynb` | K-Means | Objetivo; inicialización; elección de \(k\); elbow y silhouette; interpretación de clusters. |
 | 12 | `Notebooks/ML_12_pca.ipynb` | PCA | Varianza explicada; proyección; reconstrucción; PCA como preprocesamiento para clustering. |
 | 13 | `Notebooks/ML_13_dbscan_tsne.ipynb` | DBSCAN + visual | Densidad; elección de `eps`; clusters no convexos; t-SNE como visualización (no métrica). |
@@ -92,6 +92,10 @@ Una referencia que recomiendo ampliamente para entender que las ideas no bastan 
 
 ## Proyecto final (Unidad 7)
 El proyecto integra todo el ciclo de vida del modelo: datos → preprocesamiento → modelado → evaluación → (opcional) despliegue.
+
+| Proyectos finales | Semestre | |
+|---:|---|---|
+| Lista de proyectos a elegir (Pueden elegir o inventar otros) | 202610 | [ProyectosFCD202610.txt](https://github.com/sierraporta/Intro-Machine-Learning-UnderGraduated/blob/main/Notas/ProyectosFCD202610.txt) |
 
 ### Entregables mínimos
 1. Repositorio con estructura limpia y reproducible (README + instrucciones).
