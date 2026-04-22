@@ -21,25 +21,7 @@ I am David Sierra-Porta, a researcher at the intersection of astrophysics, envir
   <a class="btn" href="mailto:sierraporta@gmail.com">Contact me</a>
 </p>
 
----
-
-## **Research Profile**
-
-<div id="research-metrics"></div>
-
-<div id="publications-by-year"></div>
-
-<div id="fingerprint"></div>
-
-<div id="sdg-section"></div>
-
----
-
-## **Publications**
-
-<div id="publications-list"></div>
-
----
+<div id="research-profile"></div>
 
 ## **A little blog: *Prancing Pony blog***
 <img class="float-left float--sm"
