@@ -8,14 +8,14 @@
     "orcid_url": "https://orcid.org/0000-0003-3461-1347",
     "h_index": 10,
     "citation_count": 528,
-    "document_count": 57,
+    "document_count": 61,
     "affiliation": "Universidad Tecnológica de Bolívar"
   },
   "publications_by_year": {
     "2003": 1,
     "2004": 0,
     "2005": 0,
-    "2006": 1,
+    "2006": 2,
     "2007": 0,
     "2008": 1,
     "2009": 0,
@@ -29,13 +29,13 @@
     "2017": 3,
     "2018": 3,
     "2019": 4,
-    "2020": 2,
+    "2020": 3,
     "2021": 4,
     "2022": 7,
     "2023": 7,
     "2024": 12,
     "2025": 7,
-    "2026": 3
+    "2026": 5
   },
   "citation_trend": {
     "2015": 4,
@@ -43,7 +43,7 @@
     "2017": 9,
     "2018": 24,
     "2019": 13,
-    "2020": 27,
+    "2020": 45,
     "2021": 27,
     "2022": 50,
     "2023": 318,
@@ -80,11 +80,11 @@
       "score": 29
     },
     {
-      "term": "mathematical analysis",
+      "term": "nuclear physics",
       "score": 29
     },
     {
-      "term": "nuclear physics",
+      "term": "mathematical analysis",
       "score": 29
     },
     {
@@ -104,11 +104,11 @@
       "score": 23
     },
     {
-      "term": "artificial intelligence",
+      "term": "learning",
       "score": 23
     },
     {
-      "term": "learning",
+      "term": "artificial intelligence",
       "score": 23
     },
     {
@@ -120,6 +120,10 @@
       "score": 23
     },
     {
+      "term": "muon",
+      "score": 23
+    },
+    {
       "term": "meteorology",
       "score": 20
     },
@@ -128,7 +132,7 @@
       "score": 20
     },
     {
-      "term": "muon",
+      "term": "telescope",
       "score": 20
     },
     {
@@ -142,10 +146,6 @@
     {
       "term": "optics",
       "score": 17
-    },
-    {
-      "term": "telescope",
-      "score": 17
     }
   ],
   "sdgs": [
@@ -153,19 +153,25 @@
       "id": 13,
       "name": "Climate Action",
       "score": 100,
-      "hits": 20
+      "hits": 21
     },
     {
       "id": 7,
       "name": "Affordable and Clean Energy",
-      "score": 30,
+      "score": 29,
       "hits": 6
     },
     {
       "id": 11,
       "name": "Sustainable Cities and Communities",
-      "score": 20,
+      "score": 19,
       "hits": 4
+    },
+    {
+      "id": 1,
+      "name": "No Poverty",
+      "score": 5,
+      "hits": 1
     }
   ],
   "publications": [
@@ -224,6 +230,46 @@
         "A priori and a posteriori"
       ],
       "abstract": "Heliophysical variability emerges from a coupled, multiscale system in which changes in the solar atmosphere and heliospheric plasma translate into measurable signatures in widely used activity indices. Operational space-weather workflows often summarize this variability through amplitudes and a small set of bulk solar-wind covariates, yet important dynamical information may also reside in the evo",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Graph-Based Light-Curve Features for Robust Transient Classification",
+      "year": 2026,
+      "journal": "The Open Journal of Astrophysics",
+      "doi": "10.33232/001c.159506",
+      "cited_by": 0,
+      "keywords": [
+        "Residual",
+        "Benchmark (surveying)",
+        "Pattern recognition (psychology)",
+        "Feature (linguistics)",
+        "Transient (computer programming)",
+        "Bespoke",
+        "Visibility",
+        "Series (stratigraphy)",
+        "Prior probability"
+      ],
+      "abstract": "We investigate graph-based representations of astronomical light curves for transient classification on a quality-controlled, class-balanced subset of the MANTRA benchmark (minimum coverage <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"> <mml:mrow> <mml:msub> <mml:mi>N</mml:mi> <mml:mo>min</mml:mo> </mml:msub> <mml:mo>=</mml:mo> <mml:mn>100</mml:mn> </mml:mrow> </mml:mat",
+      "type": "Journal Article"
+    },
+    {
+      "title": "A Global and Hemispheric Analysis of the Relationship between Environmental Sustainability and Economic Inequality",
+      "year": 2026,
+      "journal": "Ecology Economy and Society–the INSEE Journal",
+      "doi": "10.37773/ees.v9i1.1691",
+      "cited_by": 0,
+      "keywords": [
+        "Gini coefficient",
+        "Inequality",
+        "Sustainability",
+        "Greenhouse gas",
+        "Economic inequality",
+        "Northern Hemisphere",
+        "Ordinary least squares",
+        "Unit (ring theory)",
+        "Distribution (mathematics)"
+      ],
+      "abstract": "In this article, we examine how income distribution and energy use shaped per-capita CO2 emissions between 1965 and 2022 at three spatial scales—world, northern hemisphere, and southern hemisphere. After re-scaling all the variables to the unit interval, we first estimate separate ordinary least squares regressions and then re-estimate the three equations jointly with Zellner’s seemingly unrelated",
       "type": "Journal Article"
     },
     {
@@ -1105,6 +1151,25 @@
       "type": "Journal Article"
     },
     {
+      "title": "Design and construction of MuTe: a hybrid Muon Telescope to study Colombian volcanoes",
+      "year": 2020,
+      "journal": "Journal of Instrumentation",
+      "doi": "10.1088/1748-0221/15/09/p09006",
+      "cited_by": 18,
+      "keywords": [
+        "Cherenkov radiation",
+        "Detector",
+        "Scintillation",
+        "Robustness (evolution)",
+        "Tracking (education)",
+        "Muon",
+        "Telescope",
+        "Noise (video)"
+      ],
+      "abstract": "We present a hybrid Muon Telescope, MuTe, designed and built for imaging active Colombian volcanoes. The MuTe has a resolution of tens of meters, low power consumption, robustness and transportability making it suitable for use in difficult access zones where active volcanoes usually are. The main feature of MuTe is the implementation of a hybrid detection technique combining two scintillation pan",
+      "type": "Journal Article"
+    },
+    {
       "title": "Calibration and first measurements of MuTe: a hybrid Muon Telescope for geological structures",
       "year": 2019,
       "journal": "arXiv (Cornell University)",
@@ -1423,6 +1488,25 @@
         "Computer science"
       ],
       "abstract": "Resumen en: Many examples of systems presenting self-limiting behaviour exist in nature: population dynamics, structure engineering, Townsend?s electron breakdown, n...",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Variational and potential formulation for stochastic partial differential equations",
+      "year": 2006,
+      "journal": "Journal of Physics A Mathematical and General",
+      "doi": "10.1088/0305-4470/39/4/l03",
+      "cited_by": 0,
+      "keywords": [
+        "Stochastic partial differential equation",
+        "Formalism (music)",
+        "Partial differential equation",
+        "First-order partial differential equation",
+        "Lagrangian",
+        "Differential equation",
+        "Stochastic differential equation",
+        "Dynamical systems theory"
+      ],
+      "abstract": "There is recent interest in finding a potential formulation for Stochastic Partial Differential Equations (SPDEs). The rationale behind this idea lies in obtaining all the dynamical information of the system under study from one single expression. In this Letter we formally provide a general Lagrangian formalism for SPDEs using the Hojman et al. method. We show that it is possible to write the cor",
       "type": "Journal Article"
     },
     {
