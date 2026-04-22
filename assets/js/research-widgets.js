@@ -200,7 +200,7 @@
           el("span",{class:"rp-mlbl"},"Citations")),
         el("hr",{class:"rp-divider"}),
         el("div",{class:"rp-metric-row"},
-          el("span",{class:"rp-mval"},`h${author.h_index}`),
+          el("span",{class:"rp-mval"},`${author.h_index}`),
           el("span",{class:"rp-mlbl"},"h-index")),
       )
     );
