@@ -23,6 +23,22 @@ ORCID         = "0000-0003-3461-1347"
 SCOPUS_ID     = "57191333650"
 CONTACT_EMAIL = "sierraporta@utb.edu.co"   # OpenAlex pide polite pool email
 
+# DOIs que OpenAlex no vincula automáticamente a tu ORCID.
+# Agrégalos aquí manualmente cuando detectes que faltan.
+EXTRA_DOIS = [
+    "10.1109/ENO-CANCOA61307.2024.10751134","10.1016/j.jsames.2021.103248","10.1016/j.scs.2024.106076",
+    "10.1063/5.0167156","10.1016/j.physa.2022.128159","10.33232/001c.159506","10.1371/journal.pone.0327716",
+    "10.1016/j.asr.2024.10.065","10.1016/j.chaos.2024.115089","10.1088/1748-0221/15/09/P09006",
+    "10.3847/1538-4357/ac92ea","10.37773/ees.v9i1.1691","10.1016/j.asr.2024.08.031","10.1016/j.jastp.2025.106661",
+    "10.1016/j.jastp.2024.106407","10.1016/j.ascom.2024.100857","10.1016/j.asr.2023.02.044","10.1007/s10509-022-04151-5",
+    "10.1007/s10509-018-3360-8","10.1109/ENO-CANCOA61307.2024.10751088","10.1080/01431161.2024.2373338",
+    "10.1016/j.dib.2025.112076","10.1016/j.asr.2025.09.072","10.1134/S1995423918020076",
+    "10.1002/clen.202200222","10.33232/001c.159191","10.1016/j.jastp.2025.106418","10.1007/s42417-019-00170-9",
+    "10.3847/1538-3881/accff8","10.33232/001c.157585","10.1016/j.compbiomed.2025.110599","10.4401/ag-8353",
+    "10.1007/s40710-020-00426-7","10.1103/PhysRevD.91.064015","10.1088/0305-4470/39/4/L03",
+    "10.1016/j.asr.2026.02.010","10.1016/j.dib.2023.109728","10.31349/RevMexFis.20.020208","10.3847/1538-4357/aca5fa"
+]
+
 OA_BASE    = "https://api.openalex.org"
 OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "research.json")
 
@@ -259,11 +275,59 @@ def compute_sdgs(works):
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
+
+def fetch_extra_works(existing_dois: set) -> list[dict]:
+    """Fetches works by DOI that OpenAlex didn't link to the ORCID profile."""
+    if not EXTRA_DOIS:
+        return []
+    print("  → Buscando works extra por DOI…")
+    extras = []
+    for doi in EXTRA_DOIS:
+        if doi.lower() in existing_dois:
+            print(f"     ya incluido: {doi}")
+            continue
+        data = oa_get(f"works/https://doi.org/{doi}")
+        if not data or "error" in data:
+            print(f"     no encontrado en OpenAlex: {doi}")
+            continue
+        work_type = (data.get("type") or "other").lower()
+        raw_doi = (data.get("doi") or "").replace("https://doi.org/","")
+        primary = data.get("primary_location") or {}
+        source  = (primary.get("source") or {})
+        journal = source.get("display_name","") or ""
+        kw_raw  = data.get("keywords") or []
+        keywords = [k.get("display_name","") for k in kw_raw if k.get("display_name")]
+        abstract = reconstruct_abstract(data.get("abstract_inverted_index"))
+        TYPE_LABELS_LOCAL = {
+            "article":"Journal Article","journal-article":"Journal Article",
+            "proceedings-article":"Conference Paper","book-chapter":"Book Chapter",
+            "preprint":"Preprint","other":"Other",
+        }
+        extras.append({
+            "title":    (data.get("title") or "").strip(),
+            "year":     data.get("publication_year"),
+            "journal":  journal,
+            "doi":      raw_doi,
+            "cited_by": data.get("cited_by_count",0) or 0,
+            "keywords": keywords,
+            "abstract": abstract,
+            "type":     TYPE_LABELS_LOCAL.get(work_type,"Other"),
+        })
+        print(f"     añadido: {data.get('title','')[:60]}…")
+        time.sleep(0.2)
+    return extras
+
 def main():
     print("📡 Generando research.json — OpenAlex API\n")
 
     stats = fetch_author_stats()
     works = fetch_all_works()
+    existing_dois = {w["doi"].lower() for w in works if w["doi"]}
+    extras = fetch_extra_works(existing_dois)
+    if extras:
+        works.extend(extras)
+        works.sort(key=lambda w: (w["year"] or 0), reverse=True)
+        print(f"     +{len(extras)} works extra añadidos → total: {len(works)}")
 
     print("\n🔬 Calculando fingerprint, SDGs y estadísticas…")
 
