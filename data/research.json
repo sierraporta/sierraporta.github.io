@@ -1,0 +1,1454 @@
+{
+  "generated_at": "2026-04-22",
+  "author": {
+    "name": "David Sierra-Porta",
+    "scopus_id": "57191333650",
+    "orcid": "0000-0003-3461-1347",
+    "scopus_url": "https://www.scopus.com/authid/detail.uri?authorId=57191333650",
+    "orcid_url": "https://orcid.org/0000-0003-3461-1347",
+    "h_index": 10,
+    "citation_count": 528,
+    "document_count": 57,
+    "affiliation": "Universidad Tecnológica de Bolívar"
+  },
+  "publications_by_year": {
+    "2003": 1,
+    "2004": 0,
+    "2005": 0,
+    "2006": 1,
+    "2007": 0,
+    "2008": 1,
+    "2009": 0,
+    "2010": 0,
+    "2011": 0,
+    "2012": 0,
+    "2013": 0,
+    "2014": 0,
+    "2015": 1,
+    "2016": 1,
+    "2017": 3,
+    "2018": 3,
+    "2019": 4,
+    "2020": 2,
+    "2021": 4,
+    "2022": 7,
+    "2023": 7,
+    "2024": 12,
+    "2025": 7,
+    "2026": 3
+  },
+  "citation_trend": {
+    "2015": 4,
+    "2016": 1,
+    "2017": 9,
+    "2018": 24,
+    "2019": 13,
+    "2020": 27,
+    "2021": 27,
+    "2022": 50,
+    "2023": 318,
+    "2024": 66,
+    "2025": 4
+  },
+  "fingerprint": [
+    {
+      "term": "physics",
+      "score": 100
+    },
+    {
+      "term": "mathematics",
+      "score": 71
+    },
+    {
+      "term": "computer science",
+      "score": 63
+    },
+    {
+      "term": "cosmic ray",
+      "score": 37
+    },
+    {
+      "term": "astrophysics",
+      "score": 37
+    },
+    {
+      "term": "statistics",
+      "score": 37
+    },
+    {
+      "term": "geology",
+      "score": 29
+    },
+    {
+      "term": "mathematical analysis",
+      "score": 29
+    },
+    {
+      "term": "nuclear physics",
+      "score": 29
+    },
+    {
+      "term": "cosmic",
+      "score": 26
+    },
+    {
+      "term": "astronomy",
+      "score": 26
+    },
+    {
+      "term": "solar",
+      "score": 23
+    },
+    {
+      "term": "environmental science",
+      "score": 23
+    },
+    {
+      "term": "machine",
+      "score": 23
+    },
+    {
+      "term": "learning",
+      "score": 23
+    },
+    {
+      "term": "artificial intelligence",
+      "score": 23
+    },
+    {
+      "term": "statistical physics",
+      "score": 23
+    },
+    {
+      "term": "meteorology",
+      "score": 20
+    },
+    {
+      "term": "quantum mechanics",
+      "score": 20
+    },
+    {
+      "term": "muon",
+      "score": 20
+    },
+    {
+      "term": "fractal",
+      "score": 17
+    },
+    {
+      "term": "ray",
+      "score": 17
+    },
+    {
+      "term": "optics",
+      "score": 17
+    },
+    {
+      "term": "telescope",
+      "score": 17
+    }
+  ],
+  "sdgs": [
+    {
+      "id": 13,
+      "name": "Climate Action",
+      "score": 100,
+      "hits": 20
+    },
+    {
+      "id": 7,
+      "name": "Affordable and Clean Energy",
+      "score": 30,
+      "hits": 6
+    },
+    {
+      "id": 11,
+      "name": "Sustainable Cities and Communities",
+      "score": 20,
+      "hits": 4
+    }
+  ],
+  "publications": [
+    {
+      "title": "Vision-Based CNN Prediction of Sunspot Numbers from SDO/HMI Images",
+      "year": 2026,
+      "journal": "The Open Journal of Astrophysics",
+      "doi": "10.33232/001c.159191",
+      "cited_by": 0,
+      "keywords": [
+        "Sunspot",
+        "Convolutional neural network",
+        "Interpretability",
+        "Robustness (evolution)",
+        "Artificial neural network",
+        "Helioseismology",
+        "Scalar (mathematics)",
+        "Scalability"
+      ],
+      "abstract": "Sunspot numbers constitute the longest and most widely used record of solar activity, with direct implications for heliophysical research and space-weather applications. Traditional sunspot counting relies on visual inspection and algorithmic feature-detection pipelines, which can be affected by observer-dependent choices, image quality, and methodological variability across implementations. Recen",
+      "type": "Preprint"
+    },
+    {
+      "title": "Derivative-Aligned Anticipation of Forbush Decreases from Entropy and Fractal Markers",
+      "year": 2026,
+      "journal": "The Open Journal of Astrophysics",
+      "doi": "10.33232/001c.157585",
+      "cited_by": 0,
+      "keywords": [
+        "Flagging",
+        "Fractal",
+        "Entropy (arrow of time)",
+        "Novelty detection",
+        "Invariant (physics)",
+        "Sliding window protocol",
+        "Cutoff"
+      ],
+      "abstract": "We develop a feature-based framework to anticipate Forbush decreases (FDs) in one-minute neutron-monitor records by tracking sliding-window invariants from information theory, scaling, and geometry. For each station we compute marker time series—including Shannon, spectral, approximate and sample entropy; Lempel–Ziv complexity; correlation dimension; and Higuchi and Katz fractal dimensions—smooth ",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Complexity and scaling descriptors as diagnostic predictors of heliophysical indices across solar-cycle timescales",
+      "year": 2026,
+      "journal": "Advances in Space Research",
+      "doi": "10.1016/j.asr.2026.02.010",
+      "cited_by": 0,
+      "keywords": [
+        "Pattern recognition (psychology)",
+        "Scaling",
+        "Amplitude",
+        "Smoothing",
+        "Entropy (arrow of time)",
+        "Data set",
+        "Redundancy (engineering)",
+        "Set (abstract data type)",
+        "A priori and a posteriori"
+      ],
+      "abstract": "Heliophysical variability emerges from a coupled, multiscale system in which changes in the solar atmosphere and heliospheric plasma translate into measurable signatures in widely used activity indices. Operational space-weather workflows often summarize this variability through amplitudes and a small set of bulk solar-wind covariates, yet important dynamical information may also reside in the evo",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Scale-dependent coupling between galactic cosmic rays and trace gases revealed by multifractal analysis",
+      "year": 2025,
+      "journal": "Journal of Atmospheric and Solar-Terrestrial Physics",
+      "doi": "10.1016/j.jastp.2025.106661",
+      "cited_by": 1,
+      "keywords": [
+        "Cosmic ray",
+        "Multifractal system",
+        "Coupling (piping)",
+        "TRACE (psycholinguistics)",
+        "COSMIC cancer database"
+      ],
+      "abstract": "",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Graph-Based Light-Curve Features for Robust Transient Classification",
+      "year": 2025,
+      "journal": "ArXiv.org",
+      "doi": "10.48550/arxiv.2510.17721",
+      "cited_by": 0,
+      "keywords": [
+        "Residual",
+        "Feature (linguistics)",
+        "Pattern recognition (psychology)",
+        "Transient (computer programming)",
+        "Series (stratigraphy)",
+        "Bespoke",
+        "Visibility",
+        "Cluster analysis",
+        "Focus (optics)",
+        "Modular design"
+      ],
+      "abstract": "We investigate graph-based representations of astronomical light curves for transient classification on a quality-controlled, class-balanced subset of the MANTRA benchmark (minimum coverage N_min=100 epochs; N=1705 objects after filtering and Non-Tr. subsampling). Each series is mapped to three visibility-graph views -- horizontal (HVG), directed (DHVG), and weighted (W-HVG) -- from which we extra",
+      "type": "Preprint"
+    },
+    {
+      "title": "Global complexity signatures of solar cycles: A unified Entropy-Fractal survey of OMNI solar wind data (1964–2025)",
+      "year": 2025,
+      "journal": "Advances in Space Research",
+      "doi": "10.1016/j.asr.2025.09.072",
+      "cited_by": 1,
+      "keywords": [
+        "Earth's magnetic field",
+        "Amplitude",
+        "Redundancy (engineering)",
+        "Entropy (arrow of time)",
+        "Solar cycle",
+        "Nonparametric statistics",
+        "Global temperature",
+        "Computational complexity theory",
+        "Solar cycle 24"
+      ],
+      "abstract": "Traditional solar-cycle studies emphasize amplitude- and duration-based indicators, overlooking the intrinsic complexity of heliospheric fluctuations. Entropy- and fractal-based descriptors offer complementary insight, but a cycle-resolved assessment across multiple observables has been missing. Using daily OMNI-2 data (1964–2025), we segment each solar cycle (20–25) into ascending and descending ",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Urban mobility insights: A dataset for exploring network topology and city dynamics",
+      "year": 2025,
+      "journal": "Data in Brief",
+      "doi": "10.1016/j.dib.2025.112076",
+      "cited_by": 0,
+      "keywords": [
+        "Leverage (statistics)",
+        "Complex network",
+        "Graph",
+        "Urban planning",
+        "Network topology",
+        "Asset (computer security)",
+        "Node (physics)",
+        "Relation (database)"
+      ],
+      "abstract": "This article presents a comprehensive dataset capturing the urban network structures and sociodemographic variables of 65 cities worldwide for the year 2023, based on the Urban Mobility Readiness Index (UMRi) developed by the Oliver Wyman Forum. The dataset includes key metrics such as graph entropy, node degree, clustering coefficient, graph diameter, GDP per capita, and population density, among",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Geomagnetic disturbances and grid vulnerability: Correlating storm intensity with power system failures",
+      "year": 2025,
+      "journal": "PLoS ONE",
+      "doi": "10.1371/journal.pone.0327716",
+      "cited_by": 1,
+      "keywords": [
+        "Geomagnetic storm",
+        "Solar wind",
+        "Earth's magnetic field",
+        "Space weather",
+        "Storm",
+        "Environmental science",
+        "Meteorology",
+        "Interplanetary spaceflight",
+        "Atmospheric sciences",
+        "Magnetosphere",
+        "Interplanetary magnetic field",
+        "Climatology",
+        "Physics",
+        "Magnetic field",
+        "Geology"
+      ],
+      "abstract": "Geomagnetic storms represent a critical yet sometimes overlooked factor affecting the reliability of modern power systems. This study examines the relationship between geomagnetic storm activity-characterized by the Dst index and categorized into weak, moderate, strong, severe, and extreme intensities-and reported power outages of unknown or unusual origin in the United States from 2006 to 2023. O",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Optimizing treatment to control LDL cholesterol using machine learning",
+      "year": 2025,
+      "journal": "Computers in Biology and Medicine",
+      "doi": "10.1016/j.compbiomed.2025.110599",
+      "cited_by": 1,
+      "keywords": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Naive Bayes classifier",
+        "Random forest",
+        "Decision tree",
+        "Support vector machine",
+        "Logistic regression",
+        "Classifier (UML)",
+        "Computer science",
+        "Medicine",
+        "Multinomial logistic regression"
+      ],
+      "abstract": "",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Characterizing long-term cosmic ray time series with geometric network curvature metrics",
+      "year": 2025,
+      "journal": "Journal of Atmospheric and Solar-Terrestrial Physics",
+      "doi": "10.1016/j.jastp.2025.106418",
+      "cited_by": 0,
+      "keywords": [
+        "Term (time)",
+        "Curvature",
+        "Series (stratigraphy)",
+        "COSMIC cancer database",
+        "Physics",
+        "Cosmic ray",
+        "Statistical physics",
+        "Mathematics",
+        "Astrophysics",
+        "Astronomy",
+        "Geometry",
+        "Geology"
+      ],
+      "abstract": "",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Multifractal detrended cross-correlation coefficient for cosmic ray and sunspot time series",
+      "year": 2024,
+      "journal": "Journal of Atmospheric and Solar-Terrestrial Physics",
+      "doi": "10.1016/j.jastp.2024.106407",
+      "cited_by": 5,
+      "keywords": [
+        "Multifractal system",
+        "Detrended fluctuation analysis",
+        "Series (stratigraphy)",
+        "Sunspot",
+        "Statistical physics",
+        "Sunspot number",
+        "Mathematics",
+        "Cosmic ray",
+        "Statistics",
+        "Correlation coefficient",
+        "Physics",
+        "Astrophysics",
+        "Geology",
+        "Mathematical analysis",
+        "Fractal",
+        "Geometry",
+        "Nuclear physics",
+        "Solar cycle"
+      ],
+      "abstract": "",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Network structure and urban mobility sustainability: A topological analysis of cities from the urban mobility readiness index",
+      "year": 2024,
+      "journal": "Sustainable Cities and Society",
+      "doi": "10.1016/j.scs.2024.106076",
+      "cited_by": 19,
+      "keywords": [
+        "Sustainability",
+        "Index (typography)",
+        "Urban sustainability",
+        "Economic geography",
+        "Regional science",
+        "Geography",
+        "Topology (electrical circuits)",
+        "Transport engineering",
+        "Business",
+        "Urban planning",
+        "Computer science",
+        "Civil engineering",
+        "Engineering",
+        "World Wide Web",
+        "Electrical engineering"
+      ],
+      "abstract": "",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Revised cross-correlation and time-lag between cosmic ray intensity and solar activity using Chatterjee’s correlation coefficient",
+      "year": 2024,
+      "journal": "Advances in Space Research",
+      "doi": "10.1016/j.asr.2024.10.065",
+      "cited_by": 2,
+      "keywords": [
+        "Chatterjee",
+        "Cosmic ray",
+        "Lag",
+        "Intensity (physics)",
+        "Correlation coefficient",
+        "Lag time",
+        "Physics",
+        "Time lag",
+        "Cross-correlation",
+        "Correlation",
+        "Astrophysics",
+        "Environmental science",
+        "Astronomy",
+        "Optics",
+        "Statistics",
+        "Mathematics",
+        "Biological system",
+        "Geometry",
+        "Computer science",
+        "Biology"
+      ],
+      "abstract": "This study revisits the cross-correlation between cosmic ray intensity (CRI) and solar activity (SA) by comparing traditional Pearson correlation with Chatterjee’s correlation coefficient. Traditional analyses using Pearson correlation are useful for identifying linear relationships and time lags. However, they may not fully capture more complex interactions in the data. Chatterjee’s correlation c",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Machine learning models for predicting geomagnetic storms across five solar cycles using Dst index and heliospheric variables",
+      "year": 2024,
+      "journal": "Advances in Space Research",
+      "doi": "10.1016/j.asr.2024.08.031",
+      "cited_by": 9,
+      "keywords": [
+        "Geomagnetic storm",
+        "Meteorology",
+        "Earth's magnetic field",
+        "Index (typography)",
+        "Environmental science",
+        "Solar cycle 24",
+        "Storm",
+        "Solar wind",
+        "Physics",
+        "Solar cycle",
+        "Atmospheric sciences",
+        "Computer science",
+        "Magnetic field",
+        "Plasma",
+        "Nuclear physics"
+      ],
+      "abstract": "This study aims to improve the understanding of geomagnetic storms by utilizing machine learning models and analyzing several heliophysical variables, such as the interplanetary magnetic field, proton density, solar wind speed, and proton temperature. Rather than relying on traditional correlation-based methods, we employ advanced machine learning techniques to examine the complex relationships be",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Assessing and monitoring air quality in cities and urban areas with a portable, modular and low-cost sensor station: calibration challenges",
+      "year": 2024,
+      "journal": "International Journal of Remote Sensing",
+      "doi": "10.1080/01431161.2024.2373338",
+      "cited_by": 4,
+      "keywords": [
+        "Air quality index",
+        "Calibration",
+        "Air pollution",
+        "Environmental science",
+        "Modular design",
+        "Indoor air quality",
+        "Estimator",
+        "Computer science",
+        "Estimation",
+        "Meteorology",
+        "Environmental engineering",
+        "Geography",
+        "Statistics",
+        "Engineering",
+        "Mathematics"
+      ],
+      "abstract": "Air pollution affects not only the air in cities but also extends to all indoor environments (homes, offices, schools, public places, transportation, etc.), where we spend between 80% and 90% of our time. Both indoor and outdoor air quality have emerged as significant health concerns and are integral to national strategies implemented by health and environmental institutes in each country. Recentl",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Predicting sunspot number from topological features in spectral images I: Machine learning approach",
+      "year": 2024,
+      "journal": "Astronomy and Computing",
+      "doi": "10.1016/j.ascom.2024.100857",
+      "cited_by": 1,
+      "keywords": [
+        "Sunspot",
+        "Boosting (machine learning)",
+        "Gradient boosting",
+        "Computer science",
+        "Random forest",
+        "Artificial intelligence",
+        "Space weather",
+        "Machine learning",
+        "Topology (electrical circuits)",
+        "Algorithm",
+        "Physics",
+        "Mathematics",
+        "Magnetic field",
+        "Meteorology"
+      ],
+      "abstract": "This study presents an advanced machine learning approach to predict the number of sunspots using a comprehensive dataset derived from solar images provided by the Solar and Heliospheric Observatory (SOHO). The dataset encompasses various spectral bands, capturing the complex dynamics of solar activity and facilitating interdisciplinary analyses with other solar phenomena. We employed five machine",
+      "type": "Journal Article"
+    },
+    {
+      "title": "LUMA: Empowering Solar Research Through Open-Source Web Observatories and Image Analysis Tools",
+      "year": 2024,
+      "journal": "",
+      "doi": "10.1109/eno-cancoa61307.2024.10751134",
+      "cited_by": 1,
+      "keywords": [
+        "Computer science",
+        "Open source",
+        "World Wide Web",
+        "Image (mathematics)",
+        "Remote sensing",
+        "Geology",
+        "Computer vision",
+        "Software",
+        "Operating system"
+      ],
+      "abstract": "This paper introduces LUMA, an innovative open-source web application designed to facilitate the exploration and analysis of solar activity through comprehensive image datasets from the Solar and Heliospheric Observatory (SOHO). Leveraging modern web technologies, LUMA integrates images from SOHO's Extreme Ultraviolet Imaging Telescope (EIT) filters—EIT171, EIT195, EIT284, and EIT304—providing res",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Toward Solar Activity Understanding: Multifaceted Insights from SOHO Solar Images and Spectral Analysis for Machine Learning Applications",
+      "year": 2024,
+      "journal": "",
+      "doi": "10.1109/eno-cancoa61307.2024.10751088",
+      "cited_by": 0,
+      "keywords": [
+        "Spectral analysis",
+        "Computer science",
+        "Artificial intelligence",
+        "Physics",
+        "Astronomy",
+        "Spectroscopy"
+      ],
+      "abstract": "This study leverages machine learning approaches, specifically Multilayer Perceptron (MLP) and Support Vector Regression (SVR), to predict sunspot numbers using datasets derived from Solar and Heliospheric Observatory (SOHO) images. The datasets, encompassing various spectral bands and topological features, capture the complex dynamics of solar activity. By incorporating these features into machin",
+      "type": "Journal Article"
+    },
+    {
+      "title": "A multifractal approach to understanding Forbush Decrease events: Correlations with geomagnetic storms and space weather phenomena",
+      "year": 2024,
+      "journal": "Chaos Solitons & Fractals",
+      "doi": "10.1016/j.chaos.2024.115089",
+      "cited_by": 6,
+      "keywords": [
+        "Space weather",
+        "Geomagnetic storm",
+        "Multifractal system",
+        "Forbush decrease",
+        "Earth's magnetic field",
+        "Meteorology",
+        "Storm",
+        "Atmospheric sciences",
+        "Climatology",
+        "Physics",
+        "Statistical physics",
+        "Geophysics",
+        "Mathematics",
+        "Geology",
+        "Solar wind",
+        "Fractal",
+        "Coronal mass ejection",
+        "Magnetic field",
+        "Mathematical analysis"
+      ],
+      "abstract": "The Forbush decrease phenomenon has significant impacts on several environmental conditions, including interference in radio communications, satellite navigation systems, and the health of astronauts in space, among others. It is characterized by a temporary and noticeable reduction in the observed flux of galactic cosmic rays recorded at the Earth’s surface. This decrease occurs due to the modula",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Assessing the impact of missing data on water quality index estimation: a machine learning approach",
+      "year": 2024,
+      "journal": "Discover Water",
+      "doi": "10.1007/s43832-024-00068-y",
+      "cited_by": 14,
+      "keywords": [
+        "Index (typography)",
+        "Missing data",
+        "Estimation",
+        "Computer science",
+        "Quality (philosophy)",
+        "Water quality",
+        "Artificial intelligence",
+        "Machine learning",
+        "Statistics",
+        "Data mining",
+        "Econometrics",
+        "Mathematics",
+        "Engineering"
+      ],
+      "abstract": "Abstract Despite the regulations and controls implemented worldwide by governments and institutions to ensure the availability and quality of water resources, many water sources remain susceptible to contamination. This contamination poses significant risks to human health and can lead to substantial economic losses. One of the challenges in this context is the presence of missing or incomplete da",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Relationship between magnetic rigidity cutoff and chaotic behavior in cosmic ray time series using visibility graph and network analysis techniques",
+      "year": 2024,
+      "journal": "Chaos An Interdisciplinary Journal of Nonlinear Science",
+      "doi": "10.1063/5.0167156",
+      "cited_by": 5,
+      "keywords": [
+        "Rigidity (electromagnetism)",
+        "Cosmic ray",
+        "Visibility graph",
+        "Physics",
+        "Chaotic",
+        "Cutoff",
+        "COSMIC cancer database",
+        "Predictability",
+        "Statistical physics",
+        "Astrophysics",
+        "Mathematics",
+        "Computer science",
+        "Quantum mechanics",
+        "Artificial intelligence",
+        "Geometry"
+      ],
+      "abstract": "Cosmic rays are highly energetic particles originating from astrophysical events outside the Solar System. In this study, we analyze the time series of cosmic ray flux measured by neutron detectors at 16 monitoring stations distributed worldwide. By applying visibility graph analysis, we explore the relationship between the magnetic rigidity cutoff (Rc) and the fractality exhibited from topology o",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Assessing the impact of missing data on water quality index estimation: a machine learning approach",
+      "year": 2024,
+      "journal": "SSRN Electronic Journal",
+      "doi": "10.2139/ssrn.4866628",
+      "cited_by": 0,
+      "keywords": [
+        "Missing data",
+        "Index (typography)",
+        "Estimation",
+        "Water quality",
+        "Quality (philosophy)",
+        "Statistics",
+        "Computer science",
+        "Econometrics",
+        "Artificial intelligence",
+        "Machine learning",
+        "Data mining",
+        "Mathematics",
+        "Economics"
+      ],
+      "abstract": "",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Dataset for Sun dynamics from topological features",
+      "year": 2023,
+      "journal": "Data in Brief",
+      "doi": "10.1016/j.dib.2023.109728",
+      "cited_by": 2,
+      "keywords": [
+        "Python (programming language)",
+        "Computer science",
+        "Computation",
+        "Scripting language",
+        "Image processing",
+        "Data mining",
+        "Image (mathematics)",
+        "Artificial intelligence",
+        "Algorithm",
+        "Programming language"
+      ],
+      "abstract": "The present study presents an extensive dataset meticulously curated from solar images sourced from the Solar and Heliospheric Observatory (SOHO), encompassing a range of spectral bands. This collaborative effort spans multiple disciplines and culminates in a robust and automated methodology that traverses the entire spectrum from solar imaging to the computation of spectral parameters and relevan",
+      "type": "Journal Article"
+    },
+    {
+      "title": "SunspotCalc: Una aplicación basada en Web y Python para calcular la rotación diferencial del sol y su fotosfera",
+      "year": 2023,
+      "journal": "Revista Mexicana de Física E",
+      "doi": "10.31349/revmexfis.20.020208",
+      "cited_by": 0,
+      "keywords": [
+        "Humanities",
+        "Physics",
+        "Python (programming language)",
+        "Computer science",
+        "Philosophy",
+        "Programming language"
+      ],
+      "abstract": "En este manuscrito presentamos una aplicación web con soporte en lenguaje de programación Python ReactJS y JavaScript, libre y abierta, para el desarrollo de una actividad de enseñanza-aprendizaje de la astronomía, específicamente para el cálculo de la rotación diferencial del Sol para estudiantes y público en general en edad escolar entre 10 y 18 años. El propósito fundamental es la de difundir e",
+      "type": "Journal Article"
+    },
+    {
+      "title": "The DESI Bright Galaxy Survey: Final Target Selection, Design, and Validation",
+      "year": 2023,
+      "journal": "The Astronomical Journal",
+      "doi": "10.3847/1538-3881/accff8",
+      "cited_by": 225,
+      "keywords": [
+        "Physics",
+        "Dark energy",
+        "Redshift",
+        "Galaxy",
+        "Astrophysics",
+        "Observatory",
+        "Astronomy",
+        "Telescope",
+        "Cosmology"
+      ],
+      "abstract": "Abstract Over the next 5 yr, the Dark Energy Spectroscopic Instrument (DESI) will use 10 spectrographs with 5000 fibers on the 4 m Mayall Telescope at Kitt Peak National Observatory to conduct the first Stage IV dark energy galaxy survey. At z &lt; 0.6, the DESI Bright Galaxy Survey (BGS) will produce the most detailed map of the universe during the dark-energy-dominated epoch with redshifts of &g",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Linking PM<sub>10</sub> and PM<sub>2.5</sub> Pollution Concentration through Tree Coverage in Urban Areas",
+      "year": 2023,
+      "journal": "CLEAN - Soil Air Water",
+      "doi": "10.1002/clen.202200222",
+      "cited_by": 12,
+      "keywords": [
+        "Particulates",
+        "Environmental science",
+        "Air quality index",
+        "Air pollution",
+        "Pollutant",
+        "Smoke",
+        "Atmospheric sciences",
+        "Pollution",
+        "Meteorology",
+        "Tree (set theory)",
+        "Environmental engineering",
+        "Geography",
+        "Mathematics"
+      ],
+      "abstract": "Abstract Particulate matter, PM 10 and PM 2 . 5 , represents common air pollutants in cities and constitute a considerable threat to public health impacting daily activity of people living in city. In large cities, the main sources of PM 10 and PM 2 . 5 are diesel engine exhaust, brake dust, and particulate matter from vehicle tires. These particles can be deposited, filtered, and considerably red",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Quantitatively relating cosmic rays intensities from solar activity parameters based on structural equation modeling",
+      "year": 2023,
+      "journal": "Advances in Space Research",
+      "doi": "10.1016/j.asr.2023.02.044",
+      "cited_by": 7,
+      "keywords": [
+        "Heliosphere",
+        "Physics",
+        "Cosmic ray",
+        "Earth's magnetic field",
+        "Sunspot",
+        "Neutron monitor",
+        "Solar wind",
+        "Solar cycle",
+        "Estimator",
+        "Photosphere",
+        "COSMIC cancer database",
+        "Astrophysics",
+        "Computational physics",
+        "Astronomy",
+        "Magnetic field",
+        "Statistics",
+        "Mathematics",
+        "Spectral line"
+      ],
+      "abstract": "",
+      "type": "Journal Article"
+    },
+    {
+      "title": "The DESI Survey Validation: Results from Visual Inspection of Bright Galaxies, Luminous Red Galaxies, and Emission-line Galaxies",
+      "year": 2023,
+      "journal": "arXiv (Cornell University)",
+      "doi": "10.3847/1538-4357/aca5fa",
+      "cited_by": 0,
+      "keywords": [
+        "Physics",
+        "Luminous infrared galaxy",
+        "Astrophysics",
+        "Galaxy",
+        "Galaxy group",
+        "Astronomy",
+        "Elliptical galaxy"
+      ],
+      "abstract": "The Dark Energy Spectroscopic Instrument (DESI) Survey has obtained a set of spectroscopic measurements of galaxies to validate the final survey design and target selections. To assist in these tasks, we visually inspect DESI spectra of approximately 2500 bright galaxies, 3500 luminous red galaxies (LRGs), and 10,000 emission-line galaxies (ELGs) to obtain robust redshift identifications. We then ",
+      "type": "Preprint"
+    },
+    {
+      "title": "The DESI Survey Validation: Results from Visual Inspection of Bright Galaxies, Luminous Red Galaxies, and Emission-line Galaxies",
+      "year": 2023,
+      "journal": "The Astrophysical Journal",
+      "doi": "10.3847/1538-4357/aca5fa",
+      "cited_by": 72,
+      "keywords": [
+        "Physics",
+        "Redshift",
+        "Galaxy",
+        "Astrophysics",
+        "Luminous infrared galaxy",
+        "Astronomy"
+      ],
+      "abstract": "Abstract The Dark Energy Spectroscopic Instrument (DESI) Survey has obtained a set of spectroscopic measurements of galaxies to validate the final survey design and target selections. To assist in these tasks, we visually inspect DESI spectra of approximately 2500 bright galaxies, 3500 luminous red galaxies (LRGs), and 10,000 emission-line galaxies (ELGs) to obtain robust redshift identifications.",
+      "type": "Journal Article"
+    },
+    {
+      "title": "On the fractal properties of cosmic rays and Sun dynamics cross-correlations",
+      "year": 2022,
+      "journal": "Astrophysics and Space Science",
+      "doi": "10.1007/s10509-022-04151-5",
+      "cited_by": 14,
+      "keywords": [
+        "Physics",
+        "Multifractal system",
+        "Fractal",
+        "Mathematics",
+        "Mathematical analysis"
+      ],
+      "abstract": "Abstract We investigate the cosmic rays and ten physical parameters of heliosphere behavior considering the scaling features of their temporal evolution. Our analysis start with the cosmic rays measurements by a neutron monitor station located in Moscow, as well sunspot, Ap index, Na/Np, Alfven mach number, DST index, Kp index, Plasma beta ( $\\beta $ <mml:math xmlns:mml=\"http://www.w3.org/1998/Mat",
+      "type": "Journal Article"
+    },
+    {
+      "title": "On the Convergence of the Milky Way and M31 Kinematics from Cosmological Simulations",
+      "year": 2022,
+      "journal": "The Astrophysical Journal",
+      "doi": "10.3847/1538-4357/ac92ea",
+      "cited_by": 2,
+      "keywords": [
+        "Physics",
+        "Kinematics",
+        "Algorithm",
+        "Computer science",
+        "Classical mechanics"
+      ],
+      "abstract": "Abstract The kinematics of the Milky Way (MW) and M31, the dominant galaxies in the Local Group (LG), can be used to estimate the LG total mass. New results on the M31 proper motion have recently been used to improve that estimate. Those results are based on kinematic priors that are sometimes guided and evaluated using cosmological N -body simulations. However, the kinematic properties of simulat",
+      "type": "Journal Article"
+    },
+    {
+      "title": "On the Convergence of the Milky Way and M31 Kinematics from Cosmological Simulations",
+      "year": 2022,
+      "journal": "arXiv (Cornell University)",
+      "doi": "10.48550/arxiv.2209.09369",
+      "cited_by": 0,
+      "keywords": [
+        "Kinematics",
+        "Milky Way",
+        "Physics",
+        "Astrophysics",
+        "Truncation (statistics)",
+        "Convergence (economics)",
+        "Galaxy",
+        "Order (exchange)",
+        "Stellar kinematics",
+        "Statistical physics",
+        "Classical mechanics",
+        "Mathematics",
+        "Statistics"
+      ],
+      "abstract": "The kinematics of the Milky Way (MW) and M31, the dominant galaxies in the Local Group (LG), can be used to estimate the LG total mass. New results on the M31 proper motion have recently been used to improve that estimate. Those results are based on kinematic priors that are sometimes guided and evaluated using cosmological N-body simulations. However, the kinematic properties of simulated LG anal",
+      "type": "Preprint"
+    },
+    {
+      "title": "Linking cosmic ray intensities to cutoff rigidity through multifractal detrented fluctuation analysis",
+      "year": 2022,
+      "journal": "Physica A Statistical Mechanics and its Applications",
+      "doi": "10.1016/j.physa.2022.128159",
+      "cited_by": 12,
+      "keywords": [
+        "Multifractal system",
+        "Cosmic ray",
+        "Rigidity (electromagnetism)",
+        "Cutoff",
+        "Hurst exponent",
+        "Neutron monitor",
+        "Physics",
+        "Latitude",
+        "Astrophysics",
+        "Neutron",
+        "COSMIC cancer database",
+        "Statistical physics",
+        "Mathematics",
+        "Statistics",
+        "Nuclear physics",
+        "Fractal",
+        "Mathematical analysis",
+        "Quantum mechanics",
+        "Astronomy"
+      ],
+      "abstract": "",
+      "type": "Journal Article"
+    },
+    {
+      "title": "DESI Bright Galaxy Survey: Final Target Selection, Design, and Validation",
+      "year": 2022,
+      "journal": "arXiv (Cornell University)",
+      "doi": "10.48550/arxiv.2208.08512",
+      "cited_by": 20,
+      "keywords": [
+        "Galaxy",
+        "Selection (genetic algorithm)",
+        "Survey research",
+        "Computer science",
+        "Astrophysics",
+        "Physics",
+        "Artificial intelligence",
+        "Psychology",
+        "Applied psychology"
+      ],
+      "abstract": "Over the next five years, the Dark Energy Spectroscopic Instrument (DESI) will use 10 spectrographs with 5000 fibers on the 4m Mayall Telescope at Kitt Peak National Observatory to conduct the first Stage-IV dark energy galaxy survey. At $z &lt; 0.6$, the DESI Bright Galaxy Survey (BGS) will produce the most detailed map of the Universe during the dark energy dominated epoch with redshifts of &gt;",
+      "type": "Preprint"
+    },
+    {
+      "title": "Muography in Colombia: Simulation Framework, Instrumentation, and Data Analysis",
+      "year": 2022,
+      "journal": "Journal of advanced instrumentation in science.",
+      "doi": "10.31526/jais.2022.271",
+      "cited_by": 2,
+      "keywords": [
+        "Hodoscope",
+        "Detector",
+        "Instrumentation (computer programming)",
+        "Physics",
+        "Remote sensing",
+        "Computer science",
+        "Optics",
+        "Geology"
+      ],
+      "abstract": "We present the Colombo-Argentinian Muography Program for studying inland Latin American volcanoes. It describes the implementation of a simulation framework covering various factors with different spatial and time scales: the geomagnetic effects at a particular geographic point, the development of extensive air showers in the atmosphere, the propagation through the scanned structure, and the detec",
+      "type": "Journal Article"
+    },
+    {
+      "title": "A Empirical Relation between PM10 , PM2.5 Pollution Concentration and Urban Tree Density in Urban Areas",
+      "year": 2022,
+      "journal": "SSRN Electronic Journal",
+      "doi": "10.2139/ssrn.4112122",
+      "cited_by": 0,
+      "keywords": [
+        "Particulates",
+        "Environmental science",
+        "Air quality index",
+        "Air pollution",
+        "Vegetation (pathology)",
+        "Pollutant",
+        "Pollution",
+        "Geography",
+        "Environmental engineering",
+        "Meteorology",
+        "Ecology"
+      ],
+      "abstract": "",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Muography for the Colombian Volcanoes",
+      "year": 2021,
+      "journal": "Proceedings of 37th International Cosmic Ray Conference — PoS(ICRC2021)",
+      "doi": "10.22323/1.395.0280",
+      "cited_by": 2,
+      "keywords": [
+        "Muon",
+        "Detector",
+        "Physics",
+        "Hodoscope",
+        "Tracking (education)",
+        "Computer science",
+        "Remote sensing",
+        "Optics",
+        "Nuclear physics",
+        "Geology"
+      ],
+      "abstract": "We describe the Muography Program to study the Colombian volcanoes. Mainly, we discuss the criteria adopted for designing, building, and commissioning MuTe: a hybrid Muon Telescope. MuTe implements a composite detection technique combining a hodoscope for particle tracking and a water Cherenkov detector for enhancing the muon-to-background-signal separation of extended air showers. Next, we discus",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Mejora eficiente para la estimación de la energía libre superficial del ligante asfáltico mediante herramientas de Machine Learning",
+      "year": 2021,
+      "journal": "Revista UIS Ingenierías",
+      "doi": "10.18273/revuin.v20n3-2021013",
+      "cited_by": 0,
+      "keywords": [
+        "Mean squared error",
+        "Asphalt",
+        "Fracture (geology)",
+        "Mean absolute error",
+        "Materials science",
+        "Road surface",
+        "Mathematics",
+        "Composite material",
+        "Statistics"
+      ],
+      "abstract": "The Surface Free Energy (SFE) of a material is defined as the energy needed to create a new surface unit under vacuum conditions. This property is directly related to the resistance to fracture and recovery of material and the ability to create strong adhesion with other materials. This value can be used as a complementary parameter for the selection and optimal combination of materials for asphal",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Simulated Annealing for volcano muography",
+      "year": 2021,
+      "journal": "Journal of South American Earth Sciences",
+      "doi": "10.1016/j.jsames.2021.103248",
+      "cited_by": 24,
+      "keywords": [
+        "Volcano",
+        "Fumarole",
+        "Geology",
+        "Muon",
+        "Caldera",
+        "Inversion (geology)",
+        "Geophysics",
+        "Simulated annealing",
+        "Seismology",
+        "Tectonics",
+        "Physics",
+        "Algorithm",
+        "Nuclear physics"
+      ],
+      "abstract": "",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Efficient improvement for the estimation of the surface of free energy asphalt binder using Machine Learning tools",
+      "year": 2021,
+      "journal": "SHILAP Revista de lepidopterología",
+      "doi": "",
+      "cited_by": 1,
+      "keywords": [
+        "Asphalt",
+        "Energy (signal processing)",
+        "Estimation",
+        "Surface energy",
+        "Materials science",
+        "Composite material",
+        "Computer science",
+        "Process engineering",
+        "Mechanical engineering",
+        "Engineering",
+        "Mathematics",
+        "Statistics",
+        "Systems engineering"
+      ],
+      "abstract": "\"The Surface Free Energy (SFE) of a material is defined as the energy needed to create a new surface unit under vacuum conditions. This property is directly related to the resistance to fracture and recovery of material and the ability to create strong adhesion with other materials. This value can be used as a complementary parameter for the selection and optimal combination of materials for aspha",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Muon Tomography sites for Colombian volcanoes",
+      "year": 2020,
+      "journal": "Annals of Geophysics",
+      "doi": "10.4401/ag-8353",
+      "cited_by": 17,
+      "keywords": [
+        "Muon",
+        "Physics",
+        "Volcano",
+        "Flux (metallurgy)",
+        "Telescope",
+        "Cosmic ray",
+        "Dome (geology)",
+        "Geology",
+        "Seismology",
+        "Nuclear physics",
+        "Astrophysics",
+        "Geomorphology"
+      ],
+      "abstract": "By using a very detailed simulation scheme, we have calculated the cosmic ray background flux at 13 active Colombian volcanoes and developed a methodology to identify the most convenient places for a muon telescope to study their inner structure. Our simulation scheme considers three critical factors with different spatial and time scales: the geo-magnetic effects, the development of extensive air",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Hydrogeochemical Evaluation of Water Quality Suitable for Human Consumption and Comparative Interpretation for Water Quality Index Studies",
+      "year": 2020,
+      "journal": "Environmental Processes",
+      "doi": "10.1007/s40710-020-00426-7",
+      "cited_by": 10,
+      "keywords": [
+        "Index (typography)",
+        "Water quality",
+        "Quality (philosophy)",
+        "Environmental science",
+        "Consumption (sociology)",
+        "Water consumption",
+        "Statistics",
+        "Water resource management",
+        "Mathematics",
+        "Computer science",
+        "Ecology"
+      ],
+      "abstract": "",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Calibration and first measurements of MuTe: a hybrid Muon Telescope for geological structures",
+      "year": 2019,
+      "journal": "arXiv (Cornell University)",
+      "doi": "10.48550/arxiv.1909.09732",
+      "cited_by": 1,
+      "keywords": [
+        "Hodoscope",
+        "Muon",
+        "Physics",
+        "Cherenkov radiation",
+        "Scintillator",
+        "Calibration",
+        "Nuclear physics",
+        "Calorimeter (particle physics)",
+        "Detector",
+        "Noise (video)",
+        "Telescope",
+        "Optics",
+        "Cosmic ray"
+      ],
+      "abstract": "In this work, we describe the calibration and first measurements in the commissioning of MuTe, a hybrid Muon Telescope with two subdetectors --a scintillator hodoscope and a Water Cherenkov Detector (WCD)-- for imaging the inner structures of Colombian volcanoes. The hodoscope estimates the trajectories of particles impinging on the front and rear panel, while the WCD acts as a calorimeter for the",
+      "type": "Preprint"
+    },
+    {
+      "title": "Calibration and first measurements of MuTe: a hybrid Muon Telescope for geological structures",
+      "year": 2019,
+      "journal": "arXiv (Cornell University)",
+      "doi": "",
+      "cited_by": 0,
+      "keywords": [
+        "Hodoscope",
+        "Muon",
+        "Physics",
+        "Nuclear physics",
+        "Cherenkov radiation",
+        "Calibration",
+        "Calorimeter (particle physics)",
+        "Scintillator",
+        "Telescope",
+        "Noise (video)",
+        "Detector",
+        "Cosmic ray",
+        "Optics"
+      ],
+      "abstract": "In this work, we describe the calibration and first measurements in the commissioning of MuTe, a hybrid Muon Telescope with two subdetectors --a scintillator hodoscope and a Water Cherenkov Detector (WCD)-- for imaging the inner structures of Colombian volcanoes. The hodoscope estimates the trajectories of particles impinging on the front and rear panel, while the WCD acts as a calorimeter for the",
+      "type": "Preprint"
+    },
+    {
+      "title": "Analytic Approximations to Liénard Nonlinear Oscillators with Modified Energy Balance Method",
+      "year": 2019,
+      "journal": "Journal of Vibration Engineering & Technologies",
+      "doi": "10.1007/s42417-019-00170-9",
+      "cited_by": 5,
+      "keywords": [
+        "Nonlinear system",
+        "Mathematics",
+        "Balance (ability)",
+        "Energy balance",
+        "Harmonic balance",
+        "Energy (signal processing)",
+        "Applied mathematics",
+        "Numerical analysis",
+        "Mathematical analysis",
+        "Physics",
+        "Thermodynamics",
+        "Quantum mechanics",
+        "Statistics"
+      ],
+      "abstract": "",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Calibration and first measurements of MuTe: a hybrid Muon Telescope for geological structures",
+      "year": 2019,
+      "journal": "Proceedings of 36th International Cosmic Ray Conference — PoS(ICRC2019)",
+      "doi": "10.22323/1.358.0381",
+      "cited_by": 7,
+      "keywords": [
+        "Hodoscope",
+        "Physics",
+        "Muon",
+        "Nuclear physics",
+        "Cherenkov radiation",
+        "Calibration",
+        "Scintillator",
+        "Calorimeter (particle physics)",
+        "Telescope",
+        "Noise (video)",
+        "Detector",
+        "Cosmic ray",
+        "Optics"
+      ],
+      "abstract": "In this work, we describe the calibration and first measurements in the commissioning of MuTe, a hybrid Muon Telescope with two subdetectors --a scintillator hodoscope and a Water Cherenkov Detector (WCD)-- for imaging the inner structures of Colombian volcanoes. The hodoscope estimates the trajectories of particles impinging on the front and rear panel, while the WCD acts as a calorimeter for the",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Astroparticle projects at the Eastern Colombia region: facilities and instrumentation",
+      "year": 2018,
+      "journal": "Scientia et technica",
+      "doi": "10.22517/23447214.17561",
+      "cited_by": 7,
+      "keywords": [
+        "Instrumentation (computer programming)",
+        "Astroparticle physics",
+        "Systems engineering",
+        "Remote sensing",
+        "Environmental science",
+        "Computer science",
+        "Engineering",
+        "Geography",
+        "Astronomy",
+        "Physics",
+        "Operating system"
+      ],
+      "abstract": "We describe some projects and initiatives for astroparticles physics from basic and application level. Three specialized instruments have been design, built and put into operation for the study of various characteristics and phenomena of cosmic rays. One of detector based on Cherenkov effect consists of three Water Cherenkov Detectors calibrated spatially and temporally, that allow the characteriz",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Cross correlation and time-lag between cosmic ray intensity and solar activity during solar cycles 21, 22 and 23",
+      "year": 2018,
+      "journal": "Astrophysics and Space Science",
+      "doi": "10.1007/s10509-018-3360-8",
+      "cited_by": 15,
+      "keywords": [
+        "Sunspot",
+        "Solar cycle",
+        "Solar flare",
+        "Intensity (physics)",
+        "Solar cycle 22",
+        "Cosmic ray",
+        "Flare",
+        "Solar physics",
+        "Corona (planetary geology)"
+      ],
+      "abstract": "",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Some Algebraic Approach for the Second Painlevé Equation Using the Optimal Homotopy Asymptotic Method (OHAM)",
+      "year": 2018,
+      "journal": "Numerical Analysis and Applications",
+      "doi": "10.1134/s1995423918020076",
+      "cited_by": 2,
+      "keywords": [
+        "Mathematics",
+        "Homotopy",
+        "Homotopy analysis method",
+        "Simple (philosophy)",
+        "Algebraic number",
+        "Algebraic equation",
+        "Applied mathematics",
+        "Field (mathematics)",
+        "Numerical analysis",
+        "Mathematical analysis",
+        "Calculus (dental)",
+        "Pure mathematics",
+        "Physics",
+        "Nonlinear system"
+      ],
+      "abstract": "The study of Painlevé equations has increased during the last years, due to the awareness that these equations and their solutions can accomplish good results both in the field of pure mathematics and in theoretical physics. In this paper we introduced the optimal homotopy asymptotic method (OHAM) approach to propose analytic approximate solutions to the second Painlevé equation. The advantage of ",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Muon Tomography sites for Colombia volcanoes",
+      "year": 2017,
+      "journal": "arXiv (Cornell University)",
+      "doi": "",
+      "cited_by": 5,
+      "keywords": [
+        "Muon",
+        "Physics",
+        "Volcano",
+        "Flux (metallurgy)",
+        "Telescope",
+        "Cosmic ray",
+        "Nuclear physics",
+        "Geology",
+        "Astrophysics",
+        "Seismology"
+      ],
+      "abstract": "By using a very detailed simulation scheme, we have calculated the cosmic ray background flux at 13 active Colombian volcanoes and developed a methodology to identify the most convenient places for a muon telescope to study their inner structure. \r\nOur simulation scheme considers three critical factors with different spatial and time scales: the geomagnetic effects, the development of extensive ai",
+      "type": "Preprint"
+    },
+    {
+      "title": "On the polynomial solution of the first PainlevÃ© equation",
+      "year": 2017,
+      "journal": "International Journal of Applied Mathematical Research",
+      "doi": "10.14419/ijamr.v6i1.6559",
+      "cited_by": 3,
+      "keywords": [
+        "Mathematics",
+        "Polynomial",
+        "Homotopy",
+        "Applied mathematics",
+        "Homotopy analysis method",
+        "Mathematical analysis",
+        "Calculus (dental)",
+        "Pure mathematics"
+      ],
+      "abstract": "The PainlevÃ© equations and their solutions arises in pure, applied mathematics and theoretical physics. In this manuscript we apply the Optimal Homotopy Asymptotic Method (OHAM) for solving the first PainlevÃ© equation. Our approximation technique is based on the use of polynomial solutions, which are shown to be accurate when compared to the computed numerical solutions, thus providing a very cl",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Comparison of solutions to the Thomas-Fermi equation by a direct method and variational calculus",
+      "year": 2017,
+      "journal": "Revista Mexicana de Física",
+      "doi": "",
+      "cited_by": 1,
+      "keywords": [
+        "Residual",
+        "Fermi Gamma-ray Space Telescope",
+        "Differential equation",
+        "Function (biology)",
+        "Applied mathematics",
+        "Calculus of variations",
+        "Mathematics",
+        "Mathematical analysis",
+        "Physics",
+        "Quantum mechanics",
+        "Algorithm"
+      ],
+      "abstract": "In this paper we perform a comparison between two solutions of the Thomas-Fermi equation. One of these solutions is the one recently found by Bougoffa (2014) which makes use of a direct method to solve the differential equation. The other solution found uses a variational method. The first method uses approximations of the residual conditions after assuming a trial function, inspired by the Sommer",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Comparison of variational solutions of the Thomas-Fermi model in terms of the ionization energy",
+      "year": 2016,
+      "journal": "Redalyc (Universidad Autónoma del Estado de México)",
+      "doi": "",
+      "cited_by": 1,
+      "keywords": [
+        "Generalization",
+        "Ionization",
+        "Fermi Gamma-ray Space Telescope",
+        "Physics",
+        "Function (biology)",
+        "Variational method",
+        "Thomas–Fermi model",
+        "Energy (signal processing)",
+        "Boundary (topology)",
+        "Boundary value problem",
+        "Ionization energy",
+        "Exact solutions in general relativity",
+        "Mathematical physics",
+        "Mathematical analysis",
+        "Mathematics",
+        "Quantum mechanics",
+        "Ion",
+        "Electron"
+      ],
+      "abstract": "\"A modified trial solution of Wu’s function depending on three parameters and satisfying the boundary conditions, is used as a solution to the Thomas-Fermi equation using variational methods. The found solution is used to calculate the total ionization energy of atoms, taking into account a correction to this equation. Our results show that the proposed generalization is much better than Wu’s one,",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Duality invariance in massive theories",
+      "year": 2015,
+      "journal": "Physical review. D. Particles, fields, gravitation, and cosmology/Physical review. D, Particles, fields, gravitation, and cosmology",
+      "doi": "10.1103/physrevd.91.064015",
+      "cited_by": 4,
+      "keywords": [
+        "Invariant (physics)",
+        "Graviton",
+        "Gauge theory",
+        "Duality (order theory)",
+        "Theoretical physics",
+        "Seiberg duality",
+        "Physics",
+        "Gauge symmetry",
+        "Symmetry (geometry)",
+        "Action (physics)",
+        "Mathematical physics",
+        "Introduction to gauge theory",
+        "Mathematics",
+        "Pure mathematics",
+        "Gauge anomaly",
+        "Classical mechanics",
+        "Quantum mechanics",
+        "Geometry",
+        "Gravitation"
+      ],
+      "abstract": "In this work, we show that duality symmetry can be implemented for massive theories at the level of the action, whenever we can formulate appropriate gauge invariant actions. For a massive vectorial field, we use a known gauge invariant description, while for a massive graviton, we introduce a novel gauge invariant action in order to show duality invariance.",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Effective potential for non-coupled stochastic partial differential equations*",
+      "year": 2008,
+      "journal": "Ciencia (Maracaibo)",
+      "doi": "",
+      "cited_by": 0,
+      "keywords": [
+        "Stochastic partial differential equation",
+        "Partial differential equation",
+        "Operator (biology)",
+        "Noise (video)",
+        "Mathematics",
+        "Applied mathematics",
+        "Function (biology)",
+        "Differential equation",
+        "Stochastic differential equation",
+        "Mathematical analysis",
+        "Computer science"
+      ],
+      "abstract": "We provide an Effective Potential Formulation for non-coupled (i.e. independent) Stochastic Partial Differential Equations with additive noise using the Hojman et al. method for writing the associated Lagrangean function. We show that this Potential is able to reproduce all the dynamics of the system, once a special differential operator has been applied. This procedure can be used to study the eq",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Verhulst's Lagrangean and self-regulated systems",
+      "year": 2006,
+      "journal": "Revista Mexicana de Física",
+      "doi": "",
+      "cited_by": 0,
+      "keywords": [
+        "Physics",
+        "Statistical physics",
+        "Classical mechanics",
+        "Computer science"
+      ],
+      "abstract": "Resumen en: Many examples of systems presenting self-limiting behaviour exist in nature: population dynamics, structure engineering, Townsend?s electron breakdown, n...",
+      "type": "Journal Article"
+    },
+    {
+      "title": "The Inverse Variational Problem and Logistic Self-Regulated Systems",
+      "year": 2003,
+      "journal": "arXiv (Cornell University)",
+      "doi": "10.48550/arxiv.physics/0312062",
+      "cited_by": 0,
+      "keywords": [
+        "Logistic function",
+        "Homogeneous space",
+        "Townsend",
+        "Function (biology)",
+        "Statistical physics",
+        "Applied mathematics",
+        "Inverse",
+        "Population",
+        "Mathematics",
+        "Work (physics)",
+        "Tsallis statistics",
+        "Physics",
+        "Statistics",
+        "Quantum mechanics"
+      ],
+      "abstract": "There exists in nature many examples of systems presenting self-limiting behaviour: population dynamics, structure engineering, Townsend's electron breakdown, nuclear decay in radioactive equilibrium, histeresis process, meteorological models, etcetera. In this work we call attention to the advantages the use of a variational formulation should provide to the study of self-regulated systems, such ",
+      "type": "Preprint"
+    }
+  ]
+}
