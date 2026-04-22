@@ -33,7 +33,7 @@
   const CSS = `
     @import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500;600&display=swap');
 
-    .rp { font-family:'DM Sans',sans-serif; font-size:13.5px; color:#1e293b; margin:1.5rem 0; }
+    .rp { font-family:'DM Sans',sans-serif; font-size:13.5px; color:#1e293b; margin:1.5rem 0; overflow:hidden; }
 
     .rp-grid {
       display: grid;
@@ -47,8 +47,8 @@
       .rp-grid { grid-template-columns: 1fr; height: auto; }
     }
 
-    .rp-left { display: flex; flex-direction: column; gap: 12px; overflow: hidden; }
-    .rp-top-row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+    .rp-left { display: flex; flex-direction: column; gap: 12px; overflow: hidden; min-height: 0; height: 100%; }
+    .rp-top-row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; flex-shrink: 0; }
 
     .rp-card {
       background: #fff;
@@ -82,25 +82,36 @@
     .rp-sdg-track { height:3px; background:#f1f5f9; border-radius:2px; margin-top:2px; overflow:hidden; }
     .rp-sdg-fill { height:100%; border-radius:2px; }
 
-    .rp-chart-card-inner { flex:1; display:flex; flex-direction:column; overflow:hidden; }
-    .rp-chart-wrap { overflow-x:auto; flex:1; display:flex; flex-direction:column; }
-    .rp-chart { display:flex; align-items:flex-end; gap:3px; flex:1; min-height:60px; min-width:240px; }
-    .rp-bc { display:flex; flex-direction:column; align-items:center; flex:1; height:100%; justify-content:flex-end; }
-    .rp-b { width:100%; background:#3b82f6; border-radius:2px 2px 0 0; min-height:2px; position:relative; transition:background .15s; }
+    .rp-chart-card-inner { flex:1; display:flex; flex-direction:column; overflow:hidden; min-height:0; }
+    .rp-chart-wrap { overflow:hidden; flex:1; min-height:0; }
+    .rp-chart { display:flex; align-items:flex-end; gap:3px; height:100%; min-width:240px; overflow:hidden; }
+    .rp-bc { display:flex; flex-direction:column; align-items:center; flex:1; height:100%; justify-content:flex-end; overflow:hidden; }
+    .rp-b { width:100%; background:#3b82f6; border-radius:2px 2px 0 0; min-height:2px; position:relative; transition:background .15s; overflow:hidden; }
     .rp-b:hover { background:#2563eb; }
     .rp-btt {
-      display:none; position:absolute; bottom:calc(100% + 4px);
-      left:50%; transform:translateX(-50%);
+      display:none; position:fixed;
       background:#0f172a; color:#fff; font-size:.6rem;
-      padding:1px 5px; border-radius:3px; white-space:nowrap; z-index:10;
+      padding:2px 6px; border-radius:3px; white-space:nowrap; z-index:9999;
+      pointer-events:none;
     }
-    .rp-b:hover .rp-btt { display:block; }
+    .rp-btt.visible { display:block; }
     .rp-byl { font-size:.5rem; color:#cbd5e1; margin-top:2px; }
+
+
+    /* ── fingerprint ── */
+    .rp-right { display:flex; flex-direction:column; gap:12px; overflow:hidden; height:100%; }
+    .rp-fp-card { flex-shrink:0; }
+    .rp-fp-grid { display:grid; grid-template-columns:1fr 1fr; gap:.25rem .8rem; }
+    .rp-fp-row { display:flex; align-items:center; gap:.4rem; }
+    .rp-fp-term { font-size:.68rem; font-weight:500; color:#374151; min-width:80px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; text-transform:capitalize; }
+    .rp-fp-track { flex:1; height:4px; background:#f1f5f9; border-radius:2px; overflow:hidden; }
+    .rp-fp-fill { height:100%; background:linear-gradient(90deg,#3b82f6,#7c3aed); border-radius:2px; }
+    .rp-fp-pct { font-family:'DM Mono',monospace; font-size:.6rem; color:#94a3b8; min-width:24px; text-align:right; }
 
     .rp-pub-card {
       background:#fff; border:1px solid #e2e8f0; border-radius:10px;
       box-shadow:0 1px 4px rgba(0,0,0,.05);
-      display:flex; flex-direction:column; height:100%;
+      display:flex; flex-direction:column; flex:1; min-height:0;
     }
     .rp-pub-head { padding:.75rem 1rem .5rem; border-bottom:1px solid #f1f5f9; flex-shrink:0; }
     .rp-pub-ctrl { display:flex; gap:.4rem; margin-top:.5rem; }
@@ -197,12 +208,24 @@
   function buildChartCard(byYear) {
     const entries = Object.entries(byYear);
     const maxVal  = Math.max(...entries.map(([, v]) => v), 1);
+
+    // Single shared tooltip using position:fixed — never overflows
+    const tip = el("div", { class: "rp-btt" });
+    document.body.appendChild(tip);
+
     const bars = entries.map(([year, count]) => {
       const pct = Math.round((count / maxVal) * 100);
-      return el("div", { class: "rp-bc" },
-        el("div", { class: "rp-b", style: `height:${Math.max(pct, 2)}%` },
-          el("div", { class: "rp-btt" }, `${year}: ${count}`)
-        ),
+      const bar = el("div", { class: "rp-b", style: `height:${Math.max(pct, 2)}%` });
+      bar.addEventListener("mouseenter", (e) => {
+        tip.textContent = `${year}: ${count}`;
+        tip.classList.add("visible");
+      });
+      bar.addEventListener("mousemove", (e) => {
+        tip.style.left = (e.clientX + 10) + "px";
+        tip.style.top  = (e.clientY - 28) + "px";
+      });
+      bar.addEventListener("mouseleave", () => tip.classList.remove("visible"));
+      return el("div", { class: "rp-bc" }, bar,
         el("span", { class: "rp-byl" }, year.slice(2))
       );
     });
@@ -211,6 +234,24 @@
       el("div", { class: "rp-chart-wrap" },
         el("div", { class: "rp-chart" }, ...bars)
       )
+    );
+  }
+
+  function buildFingerprintCard(fingerprint) {
+    if (!fingerprint || !fingerprint.length) return null;
+    const top = fingerprint.slice(0, 16);
+    const rows = top.map(({ term, score }) =>
+      el("div", { class: "rp-fp-row" },
+        el("span", { class: "rp-fp-term", title: term }, term),
+        el("div",  { class: "rp-fp-track" },
+          el("div", { class: "rp-fp-fill", style: `width:${score}%` })
+        ),
+        el("span", { class: "rp-fp-pct" }, `${score}%`)
+      )
+    );
+    return el("div", { class: "rp-card rp-fp-card" },
+      el("div", { class: "rp-card-title" }, "Digital Fingerprint"),
+      el("div", { class: "rp-fp-grid" }, ...rows)
     );
   }
 
@@ -287,7 +328,7 @@
   }
 
   function buildWidget(data, container) {
-    const { author, sdgs, publications, publications_by_year, generated_at } = data;
+    const { author, sdgs, fingerprint, publications, publications_by_year, generated_at } = data;
     const style = document.createElement("style");
     style.textContent = CSS;
     document.head.appendChild(style);
@@ -302,7 +343,10 @@
             ),
             buildChartCard(publications_by_year)
           ),
-          buildPublicationsCard(publications, generated_at)
+          el("div", { class: "rp-right" },
+            buildFingerprintCard(fingerprint),
+            buildPublicationsCard(publications, generated_at)
+          )
         )
       )
     );
