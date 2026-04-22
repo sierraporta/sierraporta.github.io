@@ -41,12 +41,13 @@
       gap: 12px;
       align-items: stretch;
       height: 420px;
+      overflow: hidden;
     }
     @media (max-width: 700px) {
       .rp-grid { grid-template-columns: 1fr; height: auto; }
     }
 
-    .rp-left { display: flex; flex-direction: column; gap: 12px; }
+    .rp-left { display: flex; flex-direction: column; gap: 12px; overflow: hidden; }
     .rp-top-row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
 
     .rp-card {
@@ -81,7 +82,7 @@
     .rp-sdg-track { height:3px; background:#f1f5f9; border-radius:2px; margin-top:2px; overflow:hidden; }
     .rp-sdg-fill { height:100%; border-radius:2px; }
 
-    .rp-chart-card-inner { flex:1; display:flex; flex-direction:column; }
+    .rp-chart-card-inner { flex:1; display:flex; flex-direction:column; overflow:hidden; }
     .rp-chart-wrap { overflow-x:auto; flex:1; display:flex; flex-direction:column; }
     .rp-chart { display:flex; align-items:flex-end; gap:3px; flex:1; min-height:60px; min-width:240px; }
     .rp-bc { display:flex; flex-direction:column; align-items:center; flex:1; height:100%; justify-content:flex-end; }
