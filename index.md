@@ -21,6 +21,26 @@ I am David Sierra-Porta, a researcher at the intersection of astrophysics, envir
   <a class="btn" href="mailto:sierraporta@gmail.com">Contact me</a>
 </p>
 
+---
+
+## **Research Profile**
+
+<div id="research-metrics"></div>
+
+<div id="publications-by-year"></div>
+
+<div id="fingerprint"></div>
+
+<div id="sdg-section"></div>
+
+---
+
+## **Publications**
+
+<div id="publications-list"></div>
+
+---
+
 ## **A little blog: *Prancing Pony blog***
 <img class="float-left float--sm"
      src="Figures/PPnew.png"
@@ -46,3 +66,6 @@ In this section you will find some lecture notes that I have accumulated over ti
 | **Electricidad y Magnetismo** | Electricidad y Magnetismo es un curso fundamental donde el estudiante construye una base sólida para entender campos eléctricos y magnéticos, potencial, circuitos y fenómenos de inducción. Se combinan demostraciones y resolución de problemas con una mirada física rigurosa, conectando los modelos teóricos con mediciones y aplicaciones reales. El curso enfatiza razonamiento matemático, representación vectorial y pensamiento experimental para interpretar el electromagnetismo en sistemas cotidianos y tecnológicos. | [Notes](./notas_de_clase_Electromagnetismo.md) | July 2025 |
 | **Oscilaciones y Ondas** | Oscilaciones y Ondas es un curso donde el estudiante comprende cómo surgen el comportamiento oscilatorio y la propagación de ondas en sistemas físicos, desde resortes y péndulos hasta ondas mecánicas y acústicas. Se trabajan modelos diferenciales, resonancia, amortiguamiento, superposición e interferencia, conectando teoría con experimentos y simulaciones. El énfasis está en interpretar parámetros físicos, validar modelos con datos y comunicar resultados con claridad. | [Notes](./notas_de_clase_Ondas.md) | Aug. 2023 |
 | Curso de Introducción a la Estadística y Ciencia de datos. (**En construcción!**) | | [Github](https://github.com/sierraporta/Data_Science_Introduction), [Version Web](https://sierraporta.github.io/Data_Science_Introduction/) | --- |
+
+<script src="/assets/js/research-widgets.js" defer></script>
+
