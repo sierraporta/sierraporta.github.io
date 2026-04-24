@@ -21,7 +21,7 @@ import urllib.request, urllib.parse, urllib.error
 AUTHOR_NAME   = "David Sierra-Porta"
 ORCID         = "0000-0003-3461-1347"
 SCOPUS_ID     = "57191333650"
-CONTACT_EMAIL = "sierraporta@utb.edu.co"   # OpenAlex pide polite pool email
+CONTACT_EMAIL = "dporta@utb.edu.co"   # OpenAlex pide polite pool email
 
 # DOIs que OpenAlex no vincula automáticamente a tu ORCID.
 # Agrégalos aquí manualmente cuando detectes que faltan.
@@ -43,7 +43,8 @@ OA_BASE    = "https://api.openalex.org"
 OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "research.json")
 
 # ── Tipos a excluir ───────────────────────────────────────────────────────────
-SKIP_TYPES = {"dataset", "paratext", "libguides", "supplementary-materials"}
+# SKIP_TYPES = {"dataset", "paratext", "libguides", "supplementary-materials"}
+SKIP_TYPES = {}
 
 TYPE_LABELS = {
     "article":          "Journal Article",
