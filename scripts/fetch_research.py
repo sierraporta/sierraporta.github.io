@@ -21,7 +21,7 @@ import urllib.request, urllib.parse, urllib.error
 AUTHOR_NAME   = "David Sierra-Porta"
 ORCID         = "0000-0003-3461-1347"
 SCOPUS_ID     = "57191333650"
-CONTACT_EMAIL = "dporta@utb.edu.co"   # OpenAlex pide polite pool email
+CONTACT_EMAIL = "sierraporta@utb.edu.co"   # OpenAlex pide polite pool email
 
 # DOIs que OpenAlex no vincula automáticamente a tu ORCID.
 # Agrégalos aquí manualmente cuando detectes que faltan.
@@ -39,11 +39,12 @@ EXTRA_DOIS = [
     "10.1016/j.asr.2026.02.010","10.1016/j.dib.2023.109728","10.31349/RevMexFis.20.020208","10.3847/1538-4357/aca5fa"
 ]
 
+
 OA_BASE    = "https://api.openalex.org"
 OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "research.json")
 
 # ── Tipos a excluir ───────────────────────────────────────────────────────────
-# SKIP_TYPES = {"dataset", "paratext", "libguides", "supplementary-materials"}
+#SKIP_TYPES = {"dataset", "paratext", "libguides", "supplementary-materials"}
 SKIP_TYPES = {}
 
 TYPE_LABELS = {
@@ -201,9 +202,20 @@ def fetch_all_works() -> list[dict]:
             # Abstract
             abstract = reconstruct_abstract(w.get("abstract_inverted_index"))
 
+            # Prefer journal volume year over epub year when available
+            pub_year = w.get("publication_year")
+            primary_loc = w.get("primary_location") or {}
+            # published_date in primary_location is the formal journal date
+            formal_date = primary_loc.get("published_date") or w.get("publication_date") or ""
+            if formal_date and len(formal_date) >= 4:
+                formal_year = int(formal_date[:4])
+                # Only update if formal year is later (epub→print) and plausible
+                if formal_year > (pub_year or 0) and formal_year <= date.today().year + 1:
+                    pub_year = formal_year
+
             works.append({
                 "title":    (w.get("title") or "").strip(),
-                "year":     w.get("publication_year"),
+                "year":     pub_year,
                 "journal":  journal,
                 "doi":      doi,
                 "cited_by": w.get("cited_by_count", 0) or 0,
