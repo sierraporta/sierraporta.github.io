@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22",
+  "generated_at": "2026-04-24",
   "author": {
     "name": "David Sierra-Porta",
     "scopus_id": "57191333650",
@@ -7,8 +7,8 @@
     "scopus_url": "https://www.scopus.com/authid/detail.uri?authorId=57191333650",
     "orcid_url": "https://orcid.org/0000-0003-3461-1347",
     "h_index": 10,
-    "citation_count": 528,
-    "document_count": 61,
+    "citation_count": 529,
+    "document_count": 65,
     "affiliation": "Universidad Tecnológica de Bolívar"
   },
   "publications_by_year": {
@@ -26,10 +26,10 @@
     "2014": 0,
     "2015": 1,
     "2016": 1,
-    "2017": 3,
+    "2017": 5,
     "2018": 3,
     "2019": 4,
-    "2020": 3,
+    "2020": 5,
     "2021": 4,
     "2022": 7,
     "2023": 7,
@@ -57,95 +57,95 @@
     },
     {
       "term": "mathematics",
-      "score": 71
+      "score": 73
     },
     {
       "term": "computer science",
-      "score": 63
+      "score": 65
     },
     {
       "term": "cosmic ray",
-      "score": 37
+      "score": 35
     },
     {
       "term": "astrophysics",
-      "score": 37
+      "score": 35
     },
     {
       "term": "statistics",
-      "score": 37
+      "score": 35
     },
     {
       "term": "geology",
-      "score": 29
-    },
-    {
-      "term": "mathematical analysis",
-      "score": 29
+      "score": 32
     },
     {
       "term": "nuclear physics",
-      "score": 29
+      "score": 32
     },
     {
-      "term": "cosmic",
-      "score": 26
-    },
-    {
-      "term": "astronomy",
-      "score": 26
-    },
-    {
-      "term": "solar",
-      "score": 23
-    },
-    {
-      "term": "environmental science",
-      "score": 23
-    },
-    {
-      "term": "learning",
-      "score": 23
-    },
-    {
-      "term": "machine",
-      "score": 23
-    },
-    {
-      "term": "artificial intelligence",
-      "score": 23
-    },
-    {
-      "term": "statistical physics",
-      "score": 23
+      "term": "mathematical analysis",
+      "score": 27
     },
     {
       "term": "muon",
-      "score": 23
+      "score": 27
+    },
+    {
+      "term": "cosmic",
+      "score": 24
+    },
+    {
+      "term": "astronomy",
+      "score": 24
+    },
+    {
+      "term": "solar",
+      "score": 22
+    },
+    {
+      "term": "environmental science",
+      "score": 22
+    },
+    {
+      "term": "artificial intelligence",
+      "score": 22
+    },
+    {
+      "term": "learning",
+      "score": 22
+    },
+    {
+      "term": "machine",
+      "score": 22
+    },
+    {
+      "term": "statistical physics",
+      "score": 22
     },
     {
       "term": "meteorology",
-      "score": 20
+      "score": 19
     },
     {
       "term": "quantum mechanics",
-      "score": 20
+      "score": 19
     },
     {
       "term": "telescope",
-      "score": 20
+      "score": 19
     },
     {
       "term": "fractal",
-      "score": 17
+      "score": 16
     },
     {
       "term": "ray",
-      "score": 17
+      "score": 16
     },
     {
       "term": "optics",
-      "score": 17
+      "score": 16
     }
   ],
   "sdgs": [
@@ -1151,6 +1151,37 @@
       "type": "Journal Article"
     },
     {
+      "title": "Use of digital technologies for the development of algebraic thinking",
+      "year": 2020,
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.3718593",
+      "cited_by": 0,
+      "keywords": [
+        "Algebraic number",
+        "Computer science",
+        "Mathematics",
+        "Mathematics education"
+      ],
+      "abstract": "Data analyzed in this model was obtained from the experiment of a master's degree work concern of use of digital technologies for the development of algebraic thinking. The tests is carried out with two groups of 8th grade in an educational institution program of the Atlántico Department - Colombia.",
+      "type": "Other"
+    },
+    {
+      "title": "Use of digital technologies for the development of algebraic thinking",
+      "year": 2020,
+      "journal": "Figshare",
+      "doi": "10.5281/zenodo.3718594",
+      "cited_by": 0,
+      "keywords": [
+        "Algebraic number",
+        "Development (topology)",
+        "Computer science",
+        "Mathematics education",
+        "Mathematics"
+      ],
+      "abstract": "Data analyzed in this model was obtained from the experiment of a master's degree work concern of use of digital technologies for the development of algebraic thinking. The tests is carried out with two groups of 8th grade in an educational institution program of the Atlántico Department - Colombia.",
+      "type": "Other"
+    },
+    {
       "title": "Design and construction of MuTe: a hybrid Muon Telescope to study Colombian volcanoes",
       "year": 2020,
       "journal": "Journal of Instrumentation",
@@ -1331,6 +1362,44 @@
       ],
       "abstract": "The study of Painlevé equations has increased during the last years, due to the awareness that these equations and their solutions can accomplish good results both in the field of pure mathematics and in theoretical physics. In this paper we introduced the optimal homotopy asymptotic method (OHAM) approach to propose analytic approximate solutions to the second Painlevé equation. The advantage of ",
       "type": "Journal Article"
+    },
+    {
+      "title": "Data: Muon Tomography sites for Colombia volcanoes for generate muon flux trought volcanic structures (arXiv:1705.09884v1)",
+      "year": 2017,
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.807740",
+      "cited_by": 0,
+      "keywords": [
+        "Volcano",
+        "Muon",
+        "Flux (metallurgy)",
+        "Geology",
+        "Physics",
+        "Nuclear physics",
+        "Seismology",
+        "Materials science"
+      ],
+      "abstract": "<strong>Data: Muon Tomography sites for Colombia volcanoes (arXiv:1705.09884v1)</strong><br> <strong>The MuTe Collaboration</strong><br> <em>Data for generating figure 6<br> Muon Tomography sites for Colombia volcanoes (arXiv:1705.09884v1)</em> The files in this record contain data from Extensive Atmospheric Shower simulations made by CORSIKA and Magnetocosmic codes, in a muography of Machin Volca",
+      "type": "Other"
+    },
+    {
+      "title": "Data: Muon Tomography sites for Colombia volcanoes for generate muon flux trought volcanic structures (arXiv:1705.09884v1)",
+      "year": 2017,
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.807741",
+      "cited_by": 0,
+      "keywords": [
+        "Volcano",
+        "Muon",
+        "Flux (metallurgy)",
+        "Geology",
+        "Physics",
+        "Seismology",
+        "Nuclear physics",
+        "Materials science"
+      ],
+      "abstract": "Data: Muon Tomography sites for Colombia volcanoes (arXiv:1705.09884v1)\\nThe MuTe Collaboration\\nData for generating figure 6\\nMuon Tomography sites for Colombia volcanoes (arXiv:1705.09884v1)\\n\\nThe files in this record contain data from Extensive Atmospheric Shower simulations made by CORSIKA and Magnetocosmic codes, in a muography of Machin Volcano (Colombia) [https://volcano.si.edu/volcano.cfm",
+      "type": "Other"
     },
     {
       "title": "Muon Tomography sites for Colombia volcanoes",
