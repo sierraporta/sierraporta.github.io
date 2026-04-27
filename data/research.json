@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24",
+  "generated_at": "2026-04-27",
   "author": {
     "name": "David Sierra-Porta",
     "scopus_id": "57191333650",
@@ -46,7 +46,7 @@
     "2020": 45,
     "2021": 27,
     "2022": 50,
-    "2023": 318,
+    "2023": 319,
     "2024": 66,
     "2025": 4
   },
@@ -786,7 +786,7 @@
       "year": 2023,
       "journal": "CLEAN - Soil Air Water",
       "doi": "10.1002/clen.202200222",
-      "cited_by": 12,
+      "cited_by": 13,
       "keywords": [
         "Particulates",
         "Environmental science",
