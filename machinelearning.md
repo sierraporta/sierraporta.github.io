@@ -74,13 +74,14 @@ Todos los notebooks estarán en: [https://github.com/sierraporta/Intro-Machine-L
 | 9 | `Notebooks/ML_09_svm.ipynb`: [ML_09_svm_kernels_tuning.ipynb](https://github.com/sierraporta/Intro-Machine-Learning-UnderGraduated/blob/main/Notebooks/ML_09_svm_kernels_tuning.ipynb) | SVM | Márgenes; kernel trick (visión); \(C\), \(\gamma\); tuning mínimo; ROC/PR. |
 | 9B (opc.) | `Notebooks/ML_09B_svm_kernels.ipynb` | SVM kernels (profundización) | Comparación de kernels y frontera; sensibilidad a hiperparámetros; buenas prácticas. |
 | 10 | `Lectures/Slices(MLP)`: [Neural_Blueprint.pdf](https://github.com/sierraporta/Intro-Machine-Learning-UnderGraduated/blob/main/Presentations/Neural_Blueprint.pdf), `Notebooks/ML_10_ann_mlp.ipynb`: [ML_10_neuronal_networks_MLP_regularisation.ipynb](https://github.com/sierraporta/Intro-Machine-Learning-UnderGraduated/blob/main/Notebooks/ML_10_neuronal_networks_MLP_regularisation.ipynb) | Redes neuronales (ANN) | MLP; backprop (conceptual); regularización (early stopping/dropout); curvas de aprendizaje. |
-| 11 | `Notebooks/ML_11_kmeans.ipynb` | K-Means | Objetivo; inicialización; elección de \(k\); elbow y silhouette; interpretación de clusters. |
-| 12 | `Notebooks/ML_12_pca.ipynb` | PCA | Varianza explicada; proyección; reconstrucción; PCA como preprocesamiento para clustering. |
-| 13 | `Notebooks/ML_13_dbscan_tsne.ipynb` | DBSCAN + visual | Densidad; elección de `eps`; clusters no convexos; t-SNE como visualización (no métrica). |
-| 14 | `Notebooks/ML_14_cv_robust_eval.ipynb` | Evaluación robusta | K-fold/Stratified; `Pipeline` + CV; comparación por media±std; errores comunes. |
-| 15 | `Notebooks/ML_15_tuning_grid_random.ipynb` | Tuning | Grid vs Random; espacio de búsqueda; *overfitting* al validation; reporte reproducible. |
-| 15B (opc.) | `Notebooks/ML_15B_bayes_opt.ipynb` | Bayes opt (Optuna) | Optimización bayesiana; *pruning*; cuándo sí/cuándo no; comparación con Random. |
-| 16 | `Notebooks/ML_16_deploy_checklist.ipynb` | Despliegue + cierre | Serialización; API mínima; consideraciones de monitoreo; checklist de producción; cierre del proyecto. |
+| 11 | `Notebooks/ML_11_feature_extraction_images_audio.ipynb`: [ML_11_feature_extraction_images_audio.ipynb](https://github.com/sierraporta/Intro-Machine-Learning-UnderGraduated/blob/main/Notebooks/ML_11_feature_extraction_images_audio.ipynb) | Feature extraction (for ML) | **Imágenes**: (brillo, histograma, FFT 2D, GLCM, entropía, forma) usando scikit-image + cv2. **Audio**: (energía RMS, ZCR, centroide espectral, ancho de banda, rolloff, flatness + 13 MFCC × media+std) usando librosa. |
+| 12 | `Notebooks/ML_12_kmeans.ipynb` | K-Means | Objetivo; inicialización; elección de \(k\); elbow y silhouette; interpretación de clusters. |
+| 13 | `Notebooks/ML_13_pca.ipynb` | PCA | Varianza explicada; proyección; reconstrucción; PCA como preprocesamiento para clustering. |
+| 14 | `Notebooks/ML_14_dbscan_tsne.ipynb` | DBSCAN + visual | Densidad; elección de `eps`; clusters no convexos; t-SNE como visualización (no métrica). |
+| 15 | `Notebooks/ML_15_cv_robust_eval.ipynb` | Evaluación robusta | K-fold/Stratified; `Pipeline` + CV; comparación por media±std; errores comunes. |
+| 16 | `Notebooks/ML_16_tuning_grid_random.ipynb` | Tuning | Grid vs Random; espacio de búsqueda; *overfitting* al validation; reporte reproducible. |
+| 16B (opc.) | `Notebooks/ML_16B_bayes_opt.ipynb` | Bayes opt (Optuna) | Optimización bayesiana; *pruning*; cuándo sí/cuándo no; comparación con Random. |
+| 17 | `Notebooks/ML_17_deploy_checklist.ipynb` | Despliegue + cierre | Serialización; API mínima; consideraciones de monitoreo; checklist de producción; cierre del proyecto. |
 
 ## La Comunicación de la Ciencia
 La comunicación de la ciencia es tan clave como la obtención de resultados. De poco sirven los resultados si los pares y la comunidad no logran captar su importancia. Durante este curso haremos ejercicios de cómo expresarnos en tres géneros de la comunicación científica:
