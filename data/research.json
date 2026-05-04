@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27",
+  "generated_at": "2026-05-04",
   "author": {
     "name": "David Sierra-Porta",
     "scopus_id": "57191333650",
@@ -7,7 +7,7 @@
     "scopus_url": "https://www.scopus.com/authid/detail.uri?authorId=57191333650",
     "orcid_url": "https://orcid.org/0000-0003-3461-1347",
     "h_index": 10,
-    "citation_count": 529,
+    "citation_count": 531,
     "document_count": 65,
     "affiliation": "Universidad Tecnológica de Bolívar"
   },
@@ -44,11 +44,11 @@
     "2018": 24,
     "2019": 13,
     "2020": 45,
-    "2021": 27,
+    "2021": 28,
     "2022": 50,
     "2023": 319,
     "2024": 66,
-    "2025": 4
+    "2025": 5
   },
   "fingerprint": [
     {
@@ -112,11 +112,11 @@
       "score": 22
     },
     {
-      "term": "learning",
+      "term": "machine",
       "score": 22
     },
     {
-      "term": "machine",
+      "term": "learning",
       "score": 22
     },
     {
@@ -353,7 +353,7 @@
       "year": 2025,
       "journal": "PLoS ONE",
       "doi": "10.1371/journal.pone.0327716",
-      "cited_by": 1,
+      "cited_by": 2,
       "keywords": [
         "Geomagnetic storm",
         "Solar wind",
@@ -1062,7 +1062,7 @@
       "year": 2021,
       "journal": "Journal of South American Earth Sciences",
       "doi": "10.1016/j.jsames.2021.103248",
-      "cited_by": 24,
+      "cited_by": 25,
       "keywords": [
         "Volcano",
         "Fumarole",
