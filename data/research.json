@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-05-04",
+  "generated_at": "2026-05-11",
   "author": {
     "name": "David Sierra-Porta",
     "scopus_id": "57191333650",
     "orcid": "0000-0003-3461-1347",
     "scopus_url": "https://www.scopus.com/authid/detail.uri?authorId=57191333650",
     "orcid_url": "https://orcid.org/0000-0003-3461-1347",
-    "h_index": 10,
-    "citation_count": 531,
+    "h_index": 0,
+    "citation_count": 0,
     "document_count": 65,
     "affiliation": "Universidad Tecnológica de Bolívar"
   },
@@ -34,8 +34,8 @@
     "2022": 7,
     "2023": 7,
     "2024": 12,
-    "2025": 7,
-    "2026": 5
+    "2025": 6,
+    "2026": 6
   },
   "citation_trend": {
     "2015": 4,
@@ -46,8 +46,8 @@
     "2020": 45,
     "2021": 28,
     "2022": 50,
-    "2023": 319,
-    "2024": 66,
+    "2023": 326,
+    "2024": 68,
     "2025": 5
   },
   "fingerprint": [
@@ -108,15 +108,15 @@
       "score": 22
     },
     {
+      "term": "learning",
+      "score": 22
+    },
+    {
       "term": "artificial intelligence",
       "score": 22
     },
     {
       "term": "machine",
-      "score": 22
-    },
-    {
-      "term": "learning",
       "score": 22
     },
     {
@@ -136,15 +136,15 @@
       "score": 19
     },
     {
+      "term": "index",
+      "score": 16
+    },
+    {
+      "term": "index (typography)",
+      "score": 16
+    },
+    {
       "term": "fractal",
-      "score": 16
-    },
-    {
-      "term": "ray",
-      "score": 16
-    },
-    {
-      "term": "optics",
       "score": 16
     }
   ],
@@ -175,6 +175,46 @@
     }
   ],
   "publications": [
+    {
+      "title": "A Nonlinear, Robust Station–Season Index for Quantifying Fine–Coarse Mixture Regimes in Particulate Matter",
+      "year": 2026,
+      "journal": "CLEAN - Soil Air Water",
+      "doi": "10.1002/clen.70191",
+      "cited_by": 0,
+      "keywords": [
+        "Index (typography)",
+        "Metric (unit)",
+        "Nonparametric statistics",
+        "Particulates",
+        "Quantile",
+        "Fraction (chemistry)",
+        "Confidence interval",
+        "Linear regression"
+      ],
+      "abstract": "ABSTRACT The objective of this study is to develop and evaluate an interpretable, robust station–season index that characterizes fine–coarse particulate‐matter mixture regimes using routinely available regulatory monitoring data. Using EPA AQS daily and observations (2022–2024), we computed the daily fine fraction and coarse mass . Each station–season–year was summarized by robust statistics: the ",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Graph-Based Light-Curve Features for Robust Transient Classification",
+      "year": 2026,
+      "journal": "The Open Journal of Astrophysics",
+      "doi": "10.33232/001c.159506",
+      "cited_by": 0,
+      "keywords": [
+        "Residual",
+        "Feature (linguistics)",
+        "Pattern recognition (psychology)",
+        "Transient (computer programming)",
+        "Series (stratigraphy)",
+        "Bespoke",
+        "Visibility",
+        "Cluster analysis",
+        "Focus (optics)",
+        "Modular design"
+      ],
+      "abstract": "We investigate graph-based representations of astronomical light curves for transient classification on a quality-controlled, class-balanced subset of the MANTRA benchmark (minimum coverage <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"> <mml:mrow> <mml:msub> <mml:mi>N</mml:mi> <mml:mo>min</mml:mo> </mml:msub> <mml:mo>=</mml:mo> <mml:mn>100</mml:mn> </mml:mrow> </mml:mat",
+      "type": "Journal Article"
+    },
     {
       "title": "Vision-Based CNN Prediction of Sunspot Numbers from SDO/HMI Images",
       "year": 2026,
@@ -233,26 +273,6 @@
       "type": "Journal Article"
     },
     {
-      "title": "Graph-Based Light-Curve Features for Robust Transient Classification",
-      "year": 2026,
-      "journal": "The Open Journal of Astrophysics",
-      "doi": "10.33232/001c.159506",
-      "cited_by": 0,
-      "keywords": [
-        "Residual",
-        "Benchmark (surveying)",
-        "Pattern recognition (psychology)",
-        "Feature (linguistics)",
-        "Transient (computer programming)",
-        "Bespoke",
-        "Visibility",
-        "Series (stratigraphy)",
-        "Prior probability"
-      ],
-      "abstract": "We investigate graph-based representations of astronomical light curves for transient classification on a quality-controlled, class-balanced subset of the MANTRA benchmark (minimum coverage <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"> <mml:mrow> <mml:msub> <mml:mi>N</mml:mi> <mml:mo>min</mml:mo> </mml:msub> <mml:mo>=</mml:mo> <mml:mn>100</mml:mn> </mml:mrow> </mml:mat",
-      "type": "Journal Article"
-    },
-    {
       "title": "A Global and Hemispheric Analysis of the Relationship between Environmental Sustainability and Economic Inequality",
       "year": 2026,
       "journal": "Ecology Economy and Society–the INSEE Journal",
@@ -287,27 +307,6 @@
       ],
       "abstract": "",
       "type": "Journal Article"
-    },
-    {
-      "title": "Graph-Based Light-Curve Features for Robust Transient Classification",
-      "year": 2025,
-      "journal": "ArXiv.org",
-      "doi": "10.48550/arxiv.2510.17721",
-      "cited_by": 0,
-      "keywords": [
-        "Residual",
-        "Feature (linguistics)",
-        "Pattern recognition (psychology)",
-        "Transient (computer programming)",
-        "Series (stratigraphy)",
-        "Bespoke",
-        "Visibility",
-        "Cluster analysis",
-        "Focus (optics)",
-        "Modular design"
-      ],
-      "abstract": "We investigate graph-based representations of astronomical light curves for transient classification on a quality-controlled, class-balanced subset of the MANTRA benchmark (minimum coverage N_min=100 epochs; N=1705 objects after filtering and Non-Tr. subsampling). Each series is mapped to three visibility-graph views -- horizontal (HVG), directed (DHVG), and weighted (W-HVG) -- from which we extra",
-      "type": "Preprint"
     },
     {
       "title": "Global complexity signatures of solar cycles: A unified Entropy-Fractal survey of OMNI solar wind data (1964–2025)",
@@ -536,7 +535,7 @@
       "year": 2024,
       "journal": "International Journal of Remote Sensing",
       "doi": "10.1080/01431161.2024.2373338",
-      "cited_by": 4,
+      "cited_by": 5,
       "keywords": [
         "Air quality index",
         "Calibration",
@@ -654,7 +653,7 @@
       "year": 2024,
       "journal": "Discover Water",
       "doi": "10.1007/s43832-024-00068-y",
-      "cited_by": 14,
+      "cited_by": 15,
       "keywords": [
         "Index (typography)",
         "Missing data",
@@ -766,7 +765,7 @@
       "year": 2023,
       "journal": "The Astronomical Journal",
       "doi": "10.3847/1538-3881/accff8",
-      "cited_by": 225,
+      "cited_by": 230,
       "keywords": [
         "Physics",
         "Dark energy",
@@ -786,7 +785,7 @@
       "year": 2023,
       "journal": "CLEAN - Soil Air Water",
       "doi": "10.1002/clen.202200222",
-      "cited_by": 13,
+      "cited_by": 14,
       "keywords": [
         "Particulates",
         "Environmental science",
@@ -810,7 +809,7 @@
       "year": 2023,
       "journal": "Advances in Space Research",
       "doi": "10.1016/j.asr.2023.02.044",
-      "cited_by": 7,
+      "cited_by": 8,
       "keywords": [
         "Heliosphere",
         "Physics",
@@ -1084,7 +1083,7 @@
     {
       "title": "Efficient improvement for the estimation of the surface of free energy asphalt binder using Machine Learning tools",
       "year": 2021,
-      "journal": "SHILAP Revista de lepidopterología",
+      "journal": "DOAJ (DOAJ: Directory of Open Access Journals)",
       "doi": "",
       "cited_by": 1,
       "keywords": [
@@ -1445,7 +1444,7 @@
       "title": "Comparison of solutions to the Thomas-Fermi equation by a direct method and variational calculus",
       "year": 2017,
       "journal": "Revista Mexicana de Física",
-      "doi": "",
+      "doi": "10.31349/revmexfis.63.4.333",
       "cited_by": 1,
       "keywords": [
         "Residual",
