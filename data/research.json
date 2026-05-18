@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11",
+  "generated_at": "2026-05-18",
   "author": {
     "name": "David Sierra-Porta",
     "scopus_id": "57191333650",
@@ -47,7 +47,7 @@
     "2021": 28,
     "2022": 50,
     "2023": 326,
-    "2024": 68,
+    "2024": 71,
     "2025": 5
   },
   "fingerprint": [
@@ -108,15 +108,15 @@
       "score": 22
     },
     {
+      "term": "learning",
+      "score": 22
+    },
+    {
       "term": "machine",
       "score": 22
     },
     {
       "term": "artificial intelligence",
-      "score": 22
-    },
-    {
-      "term": "learning",
       "score": 22
     },
     {
@@ -478,7 +478,7 @@
       "year": 2024,
       "journal": "Advances in Space Research",
       "doi": "10.1016/j.asr.2024.10.065",
-      "cited_by": 2,
+      "cited_by": 3,
       "keywords": [
         "Chatterjee",
         "Cosmic ray",
@@ -653,7 +653,7 @@
       "year": 2024,
       "journal": "Discover Water",
       "doi": "10.1007/s43832-024-00068-y",
-      "cited_by": 15,
+      "cited_by": 17,
       "keywords": [
         "Index (typography)",
         "Missing data",
@@ -1363,6 +1363,28 @@
       "type": "Journal Article"
     },
     {
+      "title": "Comparison of solutions to the Thomas-Fermi equation by a direct method and variational calculus",
+      "year": 2017,
+      "journal": "Revista Mexicana de Física",
+      "doi": "10.31349/revmexfis.63.4.333",
+      "cited_by": 1,
+      "keywords": [
+        "Residual",
+        "Fermi Gamma-ray Space Telescope",
+        "Differential equation",
+        "Function (biology)",
+        "Applied mathematics",
+        "Calculus of variations",
+        "Mathematics",
+        "Mathematical analysis",
+        "Physics",
+        "Quantum mechanics",
+        "Algorithm"
+      ],
+      "abstract": "In this paper we perform a comparison between two solutions of the Thomas-Fermi equation. One of these solutions is the one recently found by Bougoffa (2014) which makes use of a direct method to solve the differential equation. The other solution found uses a variational method. The first method uses approximations of the residual conditions after assuming a trial function, inspired by the Sommer",
+      "type": "Journal Article"
+    },
+    {
       "title": "Data: Muon Tomography sites for Colombia volcanoes for generate muon flux trought volcanic structures (arXiv:1705.09884v1)",
       "year": 2017,
       "journal": "Zenodo (CERN European Organization for Nuclear Research)",
@@ -1438,28 +1460,6 @@
         "Pure mathematics"
       ],
       "abstract": "The PainlevÃ© equations and their solutions arises in pure, applied mathematics and theoretical physics. In this manuscript we apply the Optimal Homotopy Asymptotic Method (OHAM) for solving the first PainlevÃ© equation. Our approximation technique is based on the use of polynomial solutions, which are shown to be accurate when compared to the computed numerical solutions, thus providing a very cl",
-      "type": "Journal Article"
-    },
-    {
-      "title": "Comparison of solutions to the Thomas-Fermi equation by a direct method and variational calculus",
-      "year": 2017,
-      "journal": "Revista Mexicana de Física",
-      "doi": "10.31349/revmexfis.63.4.333",
-      "cited_by": 1,
-      "keywords": [
-        "Residual",
-        "Fermi Gamma-ray Space Telescope",
-        "Differential equation",
-        "Function (biology)",
-        "Applied mathematics",
-        "Calculus of variations",
-        "Mathematics",
-        "Mathematical analysis",
-        "Physics",
-        "Quantum mechanics",
-        "Algorithm"
-      ],
-      "abstract": "In this paper we perform a comparison between two solutions of the Thomas-Fermi equation. One of these solutions is the one recently found by Bougoffa (2014) which makes use of a direct method to solve the differential equation. The other solution found uses a variational method. The first method uses approximations of the residual conditions after assuming a trial function, inspired by the Sommer",
       "type": "Journal Article"
     },
     {
