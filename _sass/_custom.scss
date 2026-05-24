@@ -20,10 +20,10 @@ p, li { line-height: 1.6; }
 .intro {
   color: var(--intro-blue);
   font-style: italic;
-  font-size: clamp(1.05rem, 1.8vw, 1.2rem);
+  font-size: clamp(1.0rem, 1.8vw, 1.0rem);
   line-height: 1.45;
   max-width: 85ch;
-  margin: 0.75rem auto 1.25rem;
+  margin: 0.65rem auto 1.25rem;
 }
 
 /* ==== Imágenes flotantes con texto alrededor ==== */
