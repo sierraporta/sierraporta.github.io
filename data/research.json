@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-05-19",
+  "generated_at": "2026-05-24",
   "author": {
     "name": "David Sierra-Porta",
     "scopus_id": "57191333650",
     "orcid": "0000-0003-3461-1347",
     "scopus_url": "https://www.scopus.com/authid/detail.uri?authorId=57191333650",
     "orcid_url": "https://orcid.org/0000-0003-3461-1347",
-    "h_index": 0,
-    "citation_count": 0,
+    "h_index": 11,
+    "citation_count": 506,
     "document_count": 65,
     "affiliation": "Universidad Tecnológica de Bolívar"
   },
@@ -46,8 +46,8 @@
     "2020": 45,
     "2021": 28,
     "2022": 50,
-    "2023": 326,
-    "2024": 71,
+    "2023": 327,
+    "2024": 72,
     "2025": 5
   },
   "fingerprint": [
@@ -108,15 +108,15 @@
       "score": 22
     },
     {
+      "term": "artificial intelligence",
+      "score": 22
+    },
+    {
       "term": "machine",
       "score": 22
     },
     {
       "term": "learning",
-      "score": 22
-    },
-    {
-      "term": "artificial intelligence",
       "score": 22
     },
     {
@@ -136,11 +136,11 @@
       "score": 19
     },
     {
-      "term": "index",
+      "term": "index (typography)",
       "score": 16
     },
     {
-      "term": "index (typography)",
+      "term": "index",
       "score": 16
     },
     {
@@ -452,7 +452,7 @@
       "year": 2024,
       "journal": "Sustainable Cities and Society",
       "doi": "10.1016/j.scs.2024.106076",
-      "cited_by": 19,
+      "cited_by": 20,
       "keywords": [
         "Sustainability",
         "Index (typography)",
@@ -765,7 +765,7 @@
       "year": 2023,
       "journal": "The Astronomical Journal",
       "doi": "10.3847/1538-3881/accff8",
-      "cited_by": 230,
+      "cited_by": 231,
       "keywords": [
         "Physics",
         "Dark energy",
