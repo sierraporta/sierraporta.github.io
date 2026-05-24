@@ -22,7 +22,7 @@ p, li { line-height: 1.6; }
   font-style: italic;
   font-size: clamp(1.0rem, 1.8vw, 1.0rem);
   line-height: 1.45;
-  max-width: 85ch;
+  max-width: 120ch; /* Aumentado de 85ch a 120ch */
   margin: 0.65rem auto 1.15rem;
 }
 
