@@ -1,12 +1,15 @@
 #!/usr/bin/env python3
 """
-fetch_research.py  v4
+fetch_research.py v4.2
 ---------------------
 Fuente única: OpenAlex API (https://openalex.org)
-  - Completamente libre, sin API key
-  - Usa tu ORCID directamente → papers exactamente los tuyos
-  - Incluye cited_by_count por paper sin rate limit severo
-  - h-index y métricas globales del autor también desde OpenAlex
+
+- Completamente libre, sin API key
+- Usa tu ORCID directamente → papers exactamente los tuyos
+- h-index y citas totales con fallback local (robusto post-Walden nov 2025)
+- Resolución de año de publicación mejorada: usa todos los campos de fecha
+  disponibles (locations + biblio) para asignar el año formal del volumen/
+  número, no la fecha epub/online-first que OpenAlex prioriza por defecto.
 
 Uso:
     python3 scripts/fetch_research.py
@@ -21,10 +24,8 @@ import urllib.request, urllib.parse, urllib.error
 AUTHOR_NAME   = "David Sierra-Porta"
 ORCID         = "0000-0003-3461-1347"
 SCOPUS_ID     = "57191333650"
-CONTACT_EMAIL = "sierraporta@utb.edu.co"   # OpenAlex pide polite pool email
+CONTACT_EMAIL = "sierraporta@utb.edu.co"
 
-# DOIs que OpenAlex no vincula automáticamente a tu ORCID.
-# Agrégalos aquí manualmente cuando detectes que faltan.
 EXTRA_DOIS = [
     "10.1109/ENO-CANCOA61307.2024.10751134","10.1016/j.jsames.2021.103248","10.1016/j.scs.2024.106076",
     "10.1063/5.0167156","10.1016/j.physa.2022.128159","10.33232/001c.159506","10.1371/journal.pone.0327716",
@@ -39,30 +40,38 @@ EXTRA_DOIS = [
     "10.1016/j.asr.2026.02.010","10.1016/j.dib.2023.109728","10.31349/RevMexFis.20.020208","10.3847/1538-4357/aca5fa"
 ]
 
-
-OA_BASE    = "https://api.openalex.org"
+OA_BASE     = "https://api.openalex.org"
 OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "research.json")
 
-# ── Tipos a excluir ───────────────────────────────────────────────────────────
-#SKIP_TYPES = {"dataset", "paratext", "libguides", "supplementary-materials"}
 SKIP_TYPES = {}
 
 TYPE_LABELS = {
-    "article":          "Journal Article",
-    "journal-article":  "Journal Article",
+    "article":             "Journal Article",
+    "journal-article":     "Journal Article",
     "proceedings-article": "Conference Paper",
-    "book-chapter":     "Book Chapter",
-    "book":             "Book",
-    "preprint":         "Preprint",
-    "dissertation":     "Dissertation",
-    "review":           "Review",
-    "editorial":        "Editorial",
-    "letter":           "Letter",
-    "erratum":          "Erratum",
-    "other":            "Other",
+    "book-chapter":        "Book Chapter",
+    "book":                "Book",
+    "preprint":            "Preprint",
+    "dissertation":        "Dissertation",
+    "review":              "Review",
+    "editorial":           "Editorial",
+    "letter":              "Letter",
+    "erratum":             "Erratum",
+    "other":               "Other",
 }
 
-# ── SDG mapping ───────────────────────────────────────────────────────────────
+# Prioridad de fuente para resolución de año: journal es la más confiable
+SOURCE_TYPE_PRIORITY = {
+    "journal":         3,
+    "conference":      2,
+    "book series":     2,
+    "ebook platform":  1,
+    "repository":      0,
+    "preprint server": 0,
+    "metadata":        0,
+    "other":           0,
+}
+
 SDG_KEYWORDS = {
     1:  {"poverty","income","inequality","social protection","vulnerable"},
     2:  {"food","hunger","agriculture","nutrition","crop","famine"},
@@ -83,12 +92,13 @@ SDG_KEYWORDS = {
     16: {"peace","justice","institution","governance","corruption","violence"},
     17: {"partnership","global","cooperation","international","sustainable development"},
 }
+
 SDG_LABELS = {
     1:"No Poverty", 2:"Zero Hunger", 3:"Good Health and Well-being",
     4:"Quality Education", 5:"Gender Equality", 6:"Clean Water and Sanitation",
     7:"Affordable and Clean Energy", 8:"Decent Work and Economic Growth",
     9:"Industry, Innovation and Infrastructure", 10:"Reduced Inequalities",
-    11:"Sustainable Cities and Communities",12:"Responsible Consumption and Production",
+    11:"Sustainable Cities and Communities", 12:"Responsible Consumption and Production",
     13:"Climate Action", 14:"Life Below Water", 15:"Life on Land",
     16:"Peace, Justice and Strong Institutions", 17:"Partnerships for the Goals",
 }
@@ -103,7 +113,6 @@ STOP = {
 }
 
 # ── HTTP helper ───────────────────────────────────────────────────────────────
-
 def oa_get(path: str, params: dict = {}) -> dict:
     params["mailto"] = CONTACT_EMAIL
     url = f"{OA_BASE}/{path}?{urllib.parse.urlencode(params)}"
@@ -111,27 +120,26 @@ def oa_get(path: str, params: dict = {}) -> dict:
         try:
             req = urllib.request.Request(
                 url,
-                headers={"User-Agent": f"research-profile/4.0 (mailto:{CONTACT_EMAIL})"}
+                headers={"User-Agent": f"research-profile/4.2 (mailto:{CONTACT_EMAIL})"}
             )
             with urllib.request.urlopen(req, timeout=30) as r:
                 return json.loads(r.read().decode())
         except urllib.error.HTTPError as e:
             if e.code == 429:
                 wait = 15 * (attempt + 1)
-                print(f"     rate limit — esperando {wait}s…")
+                print(f"    rate limit — esperando {wait}s…")
                 time.sleep(wait)
             elif e.code in (404, 400):
                 return {}
             else:
-                print(f"     HTTP {e.code}: {url}")
+                print(f"    HTTP {e.code}: {url}")
                 return {}
         except Exception as ex:
-            print(f"     error: {ex}")
+            print(f"    error: {ex}")
             return {}
     return {}
 
-# ── Reconstruir abstract desde inverted index de OpenAlex ────────────────────
-
+# ── Reconstruir abstract ──────────────────────────────────────────────────────
 def reconstruct_abstract(inverted: dict | None) -> str:
     if not inverted:
         return ""
@@ -145,25 +153,113 @@ def reconstruct_abstract(inverted: dict | None) -> str:
     except Exception:
         return ""
 
-# ── OpenAlex: autor ───────────────────────────────────────────────────────────
+# ── Resolución de año de publicación formal ───────────────────────────────────
+def resolve_pub_year(w: dict) -> int | None:
+    """
+    Estrategia multi-capa para obtener el año de publicación formal del paper,
+    evitando que OpenAlex asigne el año del epub/online-first en lugar del
+    año del volumen/número impreso.
 
+    Lógica (de mayor a menor prioridad):
+      1. Año más tardío entre las locations de mayor prioridad de fuente
+         (journal=3 > conference=2 > repository=0), dentro de rango válido.
+      2. Si hay biblio.volume presente (paper formalmente asignado a volumen),
+         confiar en publication_year de OpenAlex — suele estar bien.
+      3. primary_location.published_date si es >= publication_year.
+      4. publication_year como último recurso.
+    """
+    today_year = date.today().year
+    oa_year    = w.get("publication_year")
+
+    def safe_year(date_str):
+        if not date_str or len(str(date_str)) < 4:
+            return None
+        try:
+            y = int(str(date_str)[:4])
+            return y if 1950 <= y <= today_year + 1 else None
+        except ValueError:
+            return None
+
+    # ── 1. Recorrer todas las locations ──────────────────────────────────────
+    locations = w.get("locations") or []
+    loc_candidates = []
+    for loc in locations:
+        src      = loc.get("source") or {}
+        src_type = (src.get("type") or "other").lower()
+        priority = SOURCE_TYPE_PRIORITY.get(src_type, 0)
+        y = safe_year(loc.get("published_date"))
+        if y:
+            loc_candidates.append((y, priority))
+
+    if loc_candidates:
+        max_priority = max(p for _, p in loc_candidates)
+        best_years   = [y for y, p in loc_candidates if p == max_priority]
+        best_year    = max(best_years)
+        if best_year <= today_year + 1:
+            if oa_year is None or best_year >= oa_year:
+                return best_year
+            # Si max_priority es journal, preferirlo incluso si es < oa_year
+            if max_priority >= 3:
+                return best_year
+
+    # ── 2. biblio.volume indica publicación formal confirmada ─────────────────
+    biblio = w.get("biblio") or {}
+    if biblio.get("volume") and oa_year:
+        return oa_year
+
+    # ── 3. primary_location.published_date ───────────────────────────────────
+    primary = w.get("primary_location") or {}
+    pl_year = safe_year(primary.get("published_date")) or safe_year(w.get("publication_date"))
+    if pl_year and oa_year and pl_year >= oa_year:
+        return pl_year
+
+    # ── 4. Fallback ───────────────────────────────────────────────────────────
+    return oa_year
+
+# ── OpenAlex: métricas del autor ──────────────────────────────────────────────
 def fetch_author_stats() -> dict:
-    print("  → Métricas del autor desde OpenAlex…")
-    data = oa_get(f"authors/https://orcid.org/{ORCID}")
-    summary = data.get("summary_stats", {})
+    print(" → Métricas del autor desde OpenAlex…")
+    data    = oa_get(f"authors/https://orcid.org/{ORCID}")
+    summary = data.get("summary_stats") or {}
+    h_index = (
+        summary.get("h_index")
+        or data.get("h_index")
+        or 0
+    )
+    citation_count = (
+        data.get("cited_by_count")
+        or summary.get("cited_by_count")
+        or 0
+    )
     return {
-        "h_index":        summary.get("h_index", 0),
-        "citation_count": data.get("cited_by_count", 0),
+        "h_index":        h_index,
+        "citation_count": citation_count,
         "oa_id":          data.get("id", ""),
         "affiliation":    "Universidad Tecnológica de Bolívar",
+        "_from_api":      h_index > 0,
     }
 
-# ── OpenAlex: works con cursor paging ────────────────────────────────────────
+# ── Fallback: calcular métricas localmente ───────────────────────────────────
+def compute_metrics_from_works(works: list[dict]) -> tuple[int, int]:
+    seen_dois: set[str] = set()
+    citations = []
+    for w in works:
+        doi = (w.get("doi") or "").lower().strip()
+        if doi and doi in seen_dois:
+            continue
+        if doi:
+            seen_dois.add(doi)
+        citations.append(w.get("cited_by") or 0)
+    citations.sort(reverse=True)
+    total = sum(citations)
+    h     = sum(1 for i, c in enumerate(citations, 1) if c >= i)
+    return h, total
 
+# ── OpenAlex: works con cursor paging ────────────────────────────────────────
 def fetch_all_works() -> list[dict]:
-    print("  → Descargando works desde OpenAlex (ORCID filter)…")
-    works   = []
-    cursor  = "*"
+    print(" → Descargando works desde OpenAlex (ORCID filter)…")
+    works    = []
+    cursor   = "*"
     per_page = 200
 
     while True:
@@ -171,11 +267,12 @@ def fetch_all_works() -> list[dict]:
             "filter":   f"author.orcid:{ORCID}",
             "per-page": per_page,
             "cursor":   cursor,
-            "select":   "title,publication_year,cited_by_count,doi,primary_location,"
-                        "type,keywords,abstract_inverted_index,authorships",
+            # locations y biblio añadidos v4.2 para resolución de año mejorada
+            "select":   ("title,publication_year,publication_date,cited_by_count,"
+                         "doi,primary_location,locations,biblio,"
+                         "type,keywords,abstract_inverted_index,authorships"),
             "sort":     "publication_year:desc",
         })
-
         results = data.get("results", [])
         if not results:
             break
@@ -186,32 +283,17 @@ def fetch_all_works() -> list[dict]:
             if work_type in SKIP_TYPES:
                 continue
 
-            # DOI — limpiar prefijo URL si viene con https://doi.org/
             raw_doi = w.get("doi") or ""
-            doi = raw_doi.replace("https://doi.org/", "").replace("http://doi.org/", "")
+            doi     = raw_doi.replace("https://doi.org/", "").replace("http://doi.org/", "")
 
-            # Journal
             primary = w.get("primary_location") or {}
             source  = primary.get("source") or {}
             journal = source.get("display_name", "") or ""
 
-            # Keywords (OpenAlex devuelve lista de objetos)
-            kw_raw  = w.get("keywords") or []
+            kw_raw   = w.get("keywords") or []
             keywords = [k.get("display_name", "") for k in kw_raw if k.get("display_name")]
-
-            # Abstract
             abstract = reconstruct_abstract(w.get("abstract_inverted_index"))
-
-            # Prefer journal volume year over epub year when available
-            pub_year = w.get("publication_year")
-            primary_loc = w.get("primary_location") or {}
-            # published_date in primary_location is the formal journal date
-            formal_date = primary_loc.get("published_date") or w.get("publication_date") or ""
-            if formal_date and len(formal_date) >= 4:
-                formal_year = int(formal_date[:4])
-                # Only update if formal year is later (epub→print) and plausible
-                if formal_year > (pub_year or 0) and formal_year <= date.today().year + 1:
-                    pub_year = formal_year
+            pub_year = resolve_pub_year(w)
 
             works.append({
                 "title":    (w.get("title") or "").strip(),
@@ -224,23 +306,77 @@ def fetch_all_works() -> list[dict]:
                 "type":     TYPE_LABELS.get(work_type, "Other"),
             })
 
-        print(f"     descargados {len(works)}/{total}")
-
+        print(f"    descargados {len(works)}/{total}")
         next_cursor = data.get("meta", {}).get("next_cursor")
         if not next_cursor or len(results) < per_page:
             break
         cursor = next_cursor
         time.sleep(0.2)
 
-    print(f"     {len(works)} works (sin datasets ni paratextos)")
+    print(f"    {len(works)} works")
     return works
 
-# ── Análisis ──────────────────────────────────────────────────────────────────
+# ── Works extra por DOI ───────────────────────────────────────────────────────
+def fetch_extra_works(existing_dois: set) -> list[dict]:
+    if not EXTRA_DOIS:
+        return []
+    print(" → Buscando works extra por DOI…")
+    extras = []
 
+    TYPE_LABELS_LOCAL = {
+        "article":             "Journal Article",
+        "journal-article":     "Journal Article",
+        "proceedings-article": "Conference Paper",
+        "book-chapter":        "Book Chapter",
+        "preprint":            "Preprint",
+        "other":               "Other",
+    }
+
+    for doi in EXTRA_DOIS:
+        if doi.lower() in existing_dois:
+            print(f"    ya incluido: {doi}")
+            continue
+        data = oa_get(
+            f"works/https://doi.org/{doi}",
+            {"select": ("title,publication_year,publication_date,cited_by_count,"
+                        "doi,primary_location,locations,biblio,"
+                        "type,keywords,abstract_inverted_index")}
+        )
+        if not data or "error" in data:
+            print(f"    no encontrado en OpenAlex: {doi}")
+            continue
+
+        work_type = (data.get("type") or "other").lower()
+        raw_doi   = (data.get("doi") or "").replace("https://doi.org/", "")
+        primary   = data.get("primary_location") or {}
+        source    = (primary.get("source") or {})
+        journal   = source.get("display_name", "") or ""
+        kw_raw    = data.get("keywords") or []
+        keywords  = [k.get("display_name", "") for k in kw_raw if k.get("display_name")]
+        abstract  = reconstruct_abstract(data.get("abstract_inverted_index"))
+        pub_year  = resolve_pub_year(data)
+
+        extras.append({
+            "title":    (data.get("title") or "").strip(),
+            "year":     pub_year,
+            "journal":  journal,
+            "doi":      raw_doi,
+            "cited_by": data.get("cited_by_count", 0) or 0,
+            "keywords": keywords,
+            "abstract": abstract,
+            "type":     TYPE_LABELS_LOCAL.get(work_type, "Other"),
+        })
+        print(f"    añadido: {data.get('title', '')[:60]}…")
+        time.sleep(0.2)
+
+    return extras
+
+# ── Análisis ──────────────────────────────────────────────────────────────────
 def publications_by_year(works):
     c = Counter(w["year"] for w in works if w["year"])
-    if not c: return {}
-    return {str(y): c.get(y, 0) for y in range(min(c), max(c)+1)}
+    if not c:
+        return {}
+    return {str(y): c.get(y, 0) for y in range(min(c), max(c) + 1)}
 
 def citation_trend(works):
     by_year = defaultdict(int)
@@ -265,7 +401,7 @@ def compute_fingerprint(works, top_n=24):
         return []
     top = kw_counts.most_common(top_n)
     mx  = top[0][1]
-    return [{"term": kw, "score": round(100*cnt/mx)} for kw, cnt in top]
+    return [{"term": kw, "score": round(100 * cnt / mx)} for kw, cnt in top]
 
 def compute_sdgs(works):
     hits = Counter()
@@ -282,65 +418,32 @@ def compute_sdgs(works):
         return []
     mx = max(hits.values())
     return [
-        {"id": i, "name": SDG_LABELS[i], "score": round(100*h/mx), "hits": h}
+        {"id": i, "name": SDG_LABELS[i], "score": round(100 * h / mx), "hits": h}
         for i, h in sorted(hits.items(), key=lambda x: -x[1]) if h > 0
     ]
 
 # ── Main ──────────────────────────────────────────────────────────────────────
-
-
-def fetch_extra_works(existing_dois: set) -> list[dict]:
-    """Fetches works by DOI that OpenAlex didn't link to the ORCID profile."""
-    if not EXTRA_DOIS:
-        return []
-    print("  → Buscando works extra por DOI…")
-    extras = []
-    for doi in EXTRA_DOIS:
-        if doi.lower() in existing_dois:
-            print(f"     ya incluido: {doi}")
-            continue
-        data = oa_get(f"works/https://doi.org/{doi}")
-        if not data or "error" in data:
-            print(f"     no encontrado en OpenAlex: {doi}")
-            continue
-        work_type = (data.get("type") or "other").lower()
-        raw_doi = (data.get("doi") or "").replace("https://doi.org/","")
-        primary = data.get("primary_location") or {}
-        source  = (primary.get("source") or {})
-        journal = source.get("display_name","") or ""
-        kw_raw  = data.get("keywords") or []
-        keywords = [k.get("display_name","") for k in kw_raw if k.get("display_name")]
-        abstract = reconstruct_abstract(data.get("abstract_inverted_index"))
-        TYPE_LABELS_LOCAL = {
-            "article":"Journal Article","journal-article":"Journal Article",
-            "proceedings-article":"Conference Paper","book-chapter":"Book Chapter",
-            "preprint":"Preprint","other":"Other",
-        }
-        extras.append({
-            "title":    (data.get("title") or "").strip(),
-            "year":     data.get("publication_year"),
-            "journal":  journal,
-            "doi":      raw_doi,
-            "cited_by": data.get("cited_by_count",0) or 0,
-            "keywords": keywords,
-            "abstract": abstract,
-            "type":     TYPE_LABELS_LOCAL.get(work_type,"Other"),
-        })
-        print(f"     añadido: {data.get('title','')[:60]}…")
-        time.sleep(0.2)
-    return extras
-
 def main():
-    print("📡 Generando research.json — OpenAlex API\n")
+    print("📡 Generando research.json — OpenAlex API v4.2\n")
 
     stats = fetch_author_stats()
     works = fetch_all_works()
     existing_dois = {w["doi"].lower() for w in works if w["doi"]}
+
     extras = fetch_extra_works(existing_dois)
     if extras:
         works.extend(extras)
         works.sort(key=lambda w: (w["year"] or 0), reverse=True)
-        print(f"     +{len(extras)} works extra añadidos → total: {len(works)}")
+        print(f"    +{len(extras)} works extra añadidos → total: {len(works)}")
+
+    # Fallback local si la API no devolvió métricas (post-Walden)
+    if not stats.get("_from_api") or stats["h_index"] == 0:
+        print("\n ⚠️  Endpoint /authors devolvió h_index=0 — calculando localmente…")
+        h_local, cites_local = compute_metrics_from_works(works)
+        stats["h_index"]        = h_local
+        stats["citation_count"] = cites_local
+        print(f"     h-index local : {h_local}")
+        print(f"     citas locales : {cites_local}")
 
     print("\n🔬 Calculando fingerprint, SDGs y estadísticas…")
 
@@ -370,10 +473,12 @@ def main():
 
     by_year = payload["publications_by_year"]
     recent  = {k: v for k, v in by_year.items() if int(k) >= 2020}
-    print(f"\n✅  {len(works)} works → {OUTPUT_PATH}")
-    print(f"    h-index  : {stats['h_index']}")
-    print(f"    citas    : {stats['citation_count']}")
-    print(f"    2020-hoy : {recent}")
+
+    print(f"\n✅ {len(works)} works → {OUTPUT_PATH}")
+    print(f"   h-index       : {stats['h_index']}")
+    print(f"   citas totales : {stats['citation_count']}")
+    print(f"   2020-hoy      : {recent}")
+
 
 if __name__ == "__main__":
     main()
