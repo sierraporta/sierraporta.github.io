@@ -10,7 +10,7 @@ I am David Sierra-Porta, a researcher at the intersection of astrophysics, envir
 - Mathematics and Physics (LUZ-VE). Fundamental Physics, MsC. (ULA-VE). Fundamental Physics, PhD. (ULA-VE).
 - __Current Position:__ Full Time Research and Professor [Universidad Tecnológica de Bolivar](https://www.utb.edu.co/). Digital Transformation Faculty and Basics Science Faculty. Cartagena de Indias - Colombia.
 - __Interest:__ Astrophysics, Gravitation and Cosmology, Cosmics Rays, Space Weather, Data Science, Environmental Physics.
-<p>
+<p style="text-align: center;">
   <a class="btn" href="/Files/cvdavid_resumen_es.pdf">My resume (in spanish)</a>
   <a class="btn" href="/Files/cvdavid_resumen_en.pdf">My resume (in english)</a>
   <a class="btn" href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000125474">CVLac profile</a>
