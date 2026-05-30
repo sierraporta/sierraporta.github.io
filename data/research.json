@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25",
+  "generated_at": "2026-05-30",
   "author": {
     "name": "David Sierra-Porta",
     "scopus_id": "57191333650",
@@ -7,7 +7,7 @@
     "scopus_url": "https://www.scopus.com/authid/detail.uri?authorId=57191333650",
     "orcid_url": "https://orcid.org/0000-0003-3461-1347",
     "h_index": 11,
-    "citation_count": 506,
+    "citation_count": 509,
     "document_count": 65,
     "affiliation": "Universidad Tecnológica de Bolívar"
   },
@@ -47,8 +47,8 @@
     "2021": 28,
     "2022": 50,
     "2023": 327,
-    "2024": 72,
-    "2025": 5
+    "2024": 74,
+    "2025": 6
   },
   "fingerprint": [
     {
@@ -108,11 +108,11 @@
       "score": 22
     },
     {
-      "term": "learning",
+      "term": "machine",
       "score": 22
     },
     {
-      "term": "machine",
+      "term": "learning",
       "score": 22
     },
     {
@@ -136,11 +136,11 @@
       "score": 19
     },
     {
-      "term": "index (typography)",
+      "term": "index",
       "score": 16
     },
     {
-      "term": "index",
+      "term": "index (typography)",
       "score": 16
     },
     {
@@ -313,7 +313,7 @@
       "year": 2025,
       "journal": "Advances in Space Research",
       "doi": "10.1016/j.asr.2025.09.072",
-      "cited_by": 1,
+      "cited_by": 2,
       "keywords": [
         "Earth's magnetic field",
         "Amplitude",
@@ -452,7 +452,7 @@
       "year": 2024,
       "journal": "Sustainable Cities and Society",
       "doi": "10.1016/j.scs.2024.106076",
-      "cited_by": 20,
+      "cited_by": 21,
       "keywords": [
         "Sustainability",
         "Index (typography)",
@@ -561,7 +561,7 @@
       "year": 2024,
       "journal": "Astronomy and Computing",
       "doi": "10.1016/j.ascom.2024.100857",
-      "cited_by": 1,
+      "cited_by": 2,
       "keywords": [
         "Sunspot",
         "Boosting (machine learning)",
