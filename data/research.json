@@ -8,7 +8,7 @@
     "orcid_url": "https://orcid.org/0000-0003-3461-1347",
     "h_index": 11,
     "citation_count": 509,
-    "document_count": 65,
+    "document_count": 66,
     "affiliation": "Universidad Tecnológica de Bolívar"
   },
   "publications_by_year": {
@@ -35,7 +35,7 @@
     "2023": 7,
     "2024": 12,
     "2025": 6,
-    "2026": 6
+    "2026": 7
   },
   "citation_trend": {
     "2015": 4,
@@ -108,7 +108,7 @@
       "score": 22
     },
     {
-      "term": "machine",
+      "term": "artificial intelligence",
       "score": 22
     },
     {
@@ -116,7 +116,7 @@
       "score": 22
     },
     {
-      "term": "artificial intelligence",
+      "term": "machine",
       "score": 22
     },
     {
@@ -136,11 +136,11 @@
       "score": 19
     },
     {
-      "term": "index",
+      "term": "index (typography)",
       "score": 16
     },
     {
-      "term": "index (typography)",
+      "term": "index",
       "score": 16
     },
     {
@@ -290,6 +290,26 @@
         "Distribution (mathematics)"
       ],
       "abstract": "In this article, we examine how income distribution and energy use shaped per-capita CO2 emissions between 1965 and 2022 at three spatial scales—world, northern hemisphere, and southern hemisphere. After re-scaling all the variables to the unit interval, we first estimate separate ordinary least squares regressions and then re-estimate the three equations jointly with Zellner’s seemingly unrelated",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Tourism resilience from networks: diversity and hierarchy",
+      "year": 2026,
+      "journal": "Journal of Complex Networks",
+      "doi": "10.1093/comnet/cnag021",
+      "cited_by": 0,
+      "keywords": [
+        "Resilience (materials science)",
+        "Hierarchy",
+        "Tourism",
+        "Diversification (marketing strategy)",
+        "Destinations",
+        "Entropy (arrow of time)",
+        "Diversity (politics)",
+        "Set (abstract data type)",
+        "Representativeness heuristic"
+      ],
+      "abstract": "Abstract We propose an interpretable, network-based measure of tourism resilience that maps destinations on a two-dimensional plane combining pre-shock market diversity and shock-period hierarchisation. Using monthly inbound international arrivals of non-resident foreigners to Colombian cities, we compute (i) pre-shock Shannon entropy of origins (2018–2019) and (ii) the maximum absolute residual f",
       "type": "Journal Article"
     },
     {
