@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30",
+  "generated_at": "2026-06-01",
   "author": {
     "name": "David Sierra-Porta",
     "scopus_id": "57191333650",
@@ -108,15 +108,15 @@
       "score": 22
     },
     {
-      "term": "artificial intelligence",
-      "score": 22
-    },
-    {
       "term": "learning",
       "score": 22
     },
     {
       "term": "machine",
+      "score": 22
+    },
+    {
+      "term": "artificial intelligence",
       "score": 22
     },
     {
