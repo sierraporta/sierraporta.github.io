@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08",
+  "generated_at": "2026-06-13",
   "author": {
     "name": "David Sierra-Porta",
     "scopus_id": "57191333650",
@@ -7,7 +7,7 @@
     "scopus_url": "https://www.scopus.com/authid/detail.uri?authorId=57191333650",
     "orcid_url": "https://orcid.org/0000-0003-3461-1347",
     "h_index": 11,
-    "citation_count": 510,
+    "citation_count": 511,
     "document_count": 66,
     "affiliation": "Universidad Tecnológica de Bolívar"
   },
@@ -47,7 +47,7 @@
     "2021": 28,
     "2022": 50,
     "2023": 329,
-    "2024": 74,
+    "2024": 75,
     "2025": 6
   },
   "fingerprint": [
@@ -108,11 +108,11 @@
       "score": 22
     },
     {
-      "term": "machine",
+      "term": "learning",
       "score": 22
     },
     {
-      "term": "learning",
+      "term": "machine",
       "score": 22
     },
     {
@@ -472,7 +472,7 @@
       "year": 2024,
       "journal": "Sustainable Cities and Society",
       "doi": "10.1016/j.scs.2024.106076",
-      "cited_by": 21,
+      "cited_by": 22,
       "keywords": [
         "Sustainability",
         "Index (typography)",
@@ -1485,8 +1485,8 @@
     {
       "title": "Comparison of variational solutions of the Thomas-Fermi model in terms of the ionization energy",
       "year": 2016,
-      "journal": "Redalyc (Universidad Autónoma del Estado de México)",
-      "doi": "",
+      "journal": "Revista Mexicana de Física",
+      "doi": "10.31349/revmexfis.62.6.538",
       "cited_by": 1,
       "keywords": [
         "Generalization",
@@ -1508,7 +1508,7 @@
         "Ion",
         "Electron"
       ],
-      "abstract": "\"A modified trial solution of Wu’s function depending on three parameters and satisfying the boundary conditions, is used as a solution to the Thomas-Fermi equation using variational methods. The found solution is used to calculate the total ionization energy of atoms, taking into account a correction to this equation. Our results show that the proposed generalization is much better than Wu’s one,",
+      "abstract": "A modified trial solution of Wu's function depending on three parameters and satisfying the boundary conditions, is used as a solution to the Thomas-Fermi equation using variational methods. The found solution is used to calculate the total ionization energy of atoms, taking into account a correction to this equation. Our results show that the proposed generalization is much better than Wu's one, ",
       "type": "Journal Article"
     },
     {
@@ -1600,7 +1600,7 @@
     {
       "title": "The Inverse Variational Problem and Logistic Self-Regulated Systems",
       "year": 2003,
-      "journal": "arXiv (Cornell University)",
+      "journal": "ArXiv.org",
       "doi": "10.48550/arxiv.physics/0312062",
       "cited_by": 0,
       "keywords": [
