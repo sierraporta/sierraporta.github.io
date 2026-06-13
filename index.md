@@ -23,11 +23,11 @@ I am David Sierra-Porta, a researcher at the intersection of astrophysics, envir
 
 ## **Research Profile**
 
-<div style="display: block; clear: both; margin-top: 2rem; min-height: 450px;">
+<div style="display: block; clear: both; margin-top: 1rem; height: 460px; overflow: hidden;">
+  <h2 style="margin-bottom: 15px; font-size: 1.5em; font-weight: bold; border-bottom: 1px solid #eaecef; padding-bottom: 0.3em; color: #24292e;">Research Profile</h2>
   <div id="research-profile"></div>
 </div>
 
-<br>
 
 ## **A little blog: *Prancing Pony blog***
 <img class="float-left float--sm"
