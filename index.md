@@ -23,9 +23,14 @@ I am David Sierra-Porta, a researcher at the intersection of astrophysics, envir
 
 ## **Research Profile**
 
-<div style="position: relative; display: block; height: 490px; margin-bottom: 2rem;">
-  <h2 style="margin: 0 0 15px 0; font-size: 1.5em; font-weight: bold; border-bottom: 1px solid #eaecef; padding-bottom: 0.3em; color: #24292e;">Research Profile</h2>
-  <div id="research-profile" style="position: relative; z-index: 1;"></div>
+<div style="display: flex; flex-direction: column-reverse; width: 100%; max-height: 480px; overflow: hidden; margin-bottom: 2rem;">
+  
+  <!-- El título está abajo en código, pero el navegador lo mostrará arriba -->
+  <h2 style="display: block; margin: 0 0 12px 0; font-size: 1.5em; font-weight: bold; border-bottom: 1px solid #eaecef; padding-bottom: 0.3em; color: #24292e; order: 1;">Research Profile</h2>
+  
+  <!-- El widget se renderiza en su propia capa aislada de flujo -->
+  <div id="research-profile" style="order: 2; display: block; clear: both; height: 420px; min-height: 420px;"></div>
+
 </div>
 
 
