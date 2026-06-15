@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13",
+  "generated_at": "2026-06-15",
   "author": {
     "name": "David Sierra-Porta",
     "scopus_id": "57191333650",
@@ -112,11 +112,11 @@
       "score": 22
     },
     {
-      "term": "machine",
+      "term": "artificial intelligence",
       "score": 22
     },
     {
-      "term": "artificial intelligence",
+      "term": "machine",
       "score": 22
     },
     {
@@ -325,7 +325,7 @@
         "TRACE (psycholinguistics)",
         "COSMIC cancer database"
       ],
-      "abstract": "",
+      "abstract": "Galactic cosmic rays (GCR) modulate atmospheric ionisation and may influence reactive greenhouse gases, yet linear correlations have proved inconclusive. We analyse 74 328 hourly observations (2016–2024) of pressure-corrected neutron-monitor counts and co-located CH 4 and O 3 mixing ratios from the high-alpine Jungfraujoch station using Multifractal Detrended Fluctuation Analysis (MFDFA) and its b",
       "type": "Journal Article"
     },
     {
