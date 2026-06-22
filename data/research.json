@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15",
+  "generated_at": "2026-06-22",
   "author": {
     "name": "David Sierra-Porta",
     "scopus_id": "57191333650",
@@ -7,7 +7,7 @@
     "scopus_url": "https://www.scopus.com/authid/detail.uri?authorId=57191333650",
     "orcid_url": "https://orcid.org/0000-0003-3461-1347",
     "h_index": 11,
-    "citation_count": 511,
+    "citation_count": 517,
     "document_count": 66,
     "affiliation": "Universidad Tecnológica de Bolívar"
   },
@@ -44,11 +44,11 @@
     "2018": 24,
     "2019": 13,
     "2020": 45,
-    "2021": 28,
+    "2021": 29,
     "2022": 50,
-    "2023": 329,
-    "2024": 75,
-    "2025": 6
+    "2023": 332,
+    "2024": 76,
+    "2025": 7
   },
   "fingerprint": [
     {
@@ -108,15 +108,15 @@
       "score": 22
     },
     {
-      "term": "learning",
-      "score": 22
-    },
-    {
       "term": "artificial intelligence",
       "score": 22
     },
     {
       "term": "machine",
+      "score": 22
+    },
+    {
+      "term": "learning",
       "score": 22
     },
     {
@@ -317,7 +317,7 @@
       "year": 2025,
       "journal": "Journal of Atmospheric and Solar-Terrestrial Physics",
       "doi": "10.1016/j.jastp.2025.106661",
-      "cited_by": 1,
+      "cited_by": 2,
       "keywords": [
         "Cosmic ray",
         "Multifractal system",
@@ -673,7 +673,7 @@
       "year": 2024,
       "journal": "Discover Water",
       "doi": "10.1007/s43832-024-00068-y",
-      "cited_by": 17,
+      "cited_by": 18,
       "keywords": [
         "Index (typography)",
         "Missing data",
@@ -785,7 +785,7 @@
       "year": 2023,
       "journal": "The Astronomical Journal",
       "doi": "10.3847/1538-3881/accff8",
-      "cited_by": 232,
+      "cited_by": 235,
       "keywords": [
         "Physics",
         "Dark energy",
@@ -1061,7 +1061,7 @@
       "year": 2021,
       "journal": "Revista UIS Ingenierías",
       "doi": "10.18273/revuin.v20n3-2021013",
-      "cited_by": 0,
+      "cited_by": 1,
       "keywords": [
         "Mean squared error",
         "Asphalt",
