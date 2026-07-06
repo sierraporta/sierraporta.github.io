@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29",
+  "generated_at": "2026-07-06",
   "author": {
     "name": "David Sierra-Porta",
     "scopus_id": "57191333650",
@@ -7,8 +7,8 @@
     "scopus_url": "https://www.scopus.com/authid/detail.uri?authorId=57191333650",
     "orcid_url": "https://orcid.org/0000-0003-3461-1347",
     "h_index": 11,
-    "citation_count": 521,
-    "document_count": 66,
+    "citation_count": 525,
+    "document_count": 69,
     "affiliation": "Universidad Tecnológica de Bolívar"
   },
   "publications_by_year": {
@@ -35,7 +35,7 @@
     "2023": 7,
     "2024": 12,
     "2025": 6,
-    "2026": 7
+    "2026": 10
   },
   "citation_trend": {
     "2015": 4,
@@ -43,12 +43,12 @@
     "2017": 9,
     "2018": 24,
     "2019": 13,
-    "2020": 45,
+    "2020": 46,
     "2021": 29,
     "2022": 50,
-    "2023": 335,
-    "2024": 77,
-    "2025": 7
+    "2023": 338,
+    "2024": 78,
+    "2025": 8
   },
   "fingerprint": [
     {
@@ -108,7 +108,7 @@
       "score": 22
     },
     {
-      "term": "learning",
+      "term": "artificial intelligence",
       "score": 22
     },
     {
@@ -116,7 +116,7 @@
       "score": 22
     },
     {
-      "term": "artificial intelligence",
+      "term": "learning",
       "score": 22
     },
     {
@@ -175,6 +175,52 @@
     }
   ],
   "publications": [
+    {
+      "title": "Magnitude-dependent quantum advantage in Forbush decrease detection: A quantum kernel SVM benchmark",
+      "year": 2026,
+      "journal": "Astronomy and Computing",
+      "doi": "10.1016/j.ascom.2026.101160",
+      "cited_by": 0,
+      "keywords": [
+        "Benchmark (surveying)",
+        "Kernel (algebra)",
+        "Quantum",
+        "Support vector machine",
+        "Quantum computer"
+      ],
+      "abstract": "",
+      "type": "Journal Article"
+    },
+    {
+      "title": "sierraporta/AFTER-Annotated-Forbush-decrease-Topological-Event-Recognition: method",
+      "year": 2026,
+      "journal": "Open MIND",
+      "doi": "10.5281/zenodo.21046984",
+      "cited_by": 0,
+      "keywords": [
+        "Identification (biology)",
+        "Process (computing)",
+        "Set (abstract data type)",
+        "Work (physics)"
+      ],
+      "abstract": "No description provided.",
+      "type": "Other"
+    },
+    {
+      "title": "sierraporta/AFTER-Annotated-Forbush-decrease-Topological-Event-Recognition: method",
+      "year": 2026,
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.21046985",
+      "cited_by": 0,
+      "keywords": [
+        "Identification (biology)",
+        "Process (computing)",
+        "Set (abstract data type)",
+        "Work (physics)"
+      ],
+      "abstract": "No description provided.",
+      "type": "Other"
+    },
     {
       "title": "A Nonlinear, Robust Station–Season Index for Quantifying Fine–Coarse Mixture Regimes in Particulate Matter",
       "year": 2026,
@@ -372,7 +418,7 @@
       "year": 2025,
       "journal": "PLoS ONE",
       "doi": "10.1371/journal.pone.0327716",
-      "cited_by": 2,
+      "cited_by": 3,
       "keywords": [
         "Geomagnetic storm",
         "Solar wind",
@@ -529,7 +575,7 @@
       "year": 2024,
       "journal": "Advances in Space Research",
       "doi": "10.1016/j.asr.2024.08.031",
-      "cited_by": 9,
+      "cited_by": 10,
       "keywords": [
         "Geomagnetic storm",
         "Meteorology",
@@ -805,7 +851,7 @@
       "year": 2023,
       "journal": "CLEAN - Soil Air Water",
       "doi": "10.1002/clen.202200222",
-      "cited_by": 14,
+      "cited_by": 15,
       "keywords": [
         "Particulates",
         "Environmental science",
@@ -876,7 +922,7 @@
       "year": 2023,
       "journal": "The Astrophysical Journal",
       "doi": "10.3847/1538-4357/aca5fa",
-      "cited_by": 73,
+      "cited_by": 75,
       "keywords": [
         "Physics",
         "Redshift",
@@ -1152,7 +1198,7 @@
       "year": 2020,
       "journal": "Environmental Processes",
       "doi": "10.1007/s40710-020-00426-7",
-      "cited_by": 10,
+      "cited_by": 11,
       "keywords": [
         "Index (typography)",
         "Water quality",
@@ -1600,7 +1646,7 @@
     {
       "title": "The Inverse Variational Problem and Logistic Self-Regulated Systems",
       "year": 2003,
-      "journal": "ArXiv.org",
+      "journal": "arXiv (Cornell University)",
       "doi": "10.48550/arxiv.physics/0312062",
       "cited_by": 0,
       "keywords": [
