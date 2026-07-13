@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-06",
+  "generated_at": "2026-07-13",
   "author": {
     "name": "David Sierra-Porta",
     "scopus_id": "57191333650",
     "orcid": "0000-0003-3461-1347",
     "scopus_url": "https://www.scopus.com/authid/detail.uri?authorId=57191333650",
     "orcid_url": "https://orcid.org/0000-0003-3461-1347",
-    "h_index": 11,
-    "citation_count": 525,
-    "document_count": 69,
+    "h_index": 12,
+    "citation_count": 535,
+    "document_count": 70,
     "affiliation": "Universidad Tecnológica de Bolívar"
   },
   "publications_by_year": {
@@ -35,7 +35,7 @@
     "2023": 7,
     "2024": 12,
     "2025": 6,
-    "2026": 10
+    "2026": 11
   },
   "citation_trend": {
     "2015": 4,
@@ -46,8 +46,8 @@
     "2020": 46,
     "2021": 29,
     "2022": 50,
-    "2023": 338,
-    "2024": 78,
+    "2023": 341,
+    "2024": 85,
     "2025": 8
   },
   "fingerprint": [
@@ -112,11 +112,11 @@
       "score": 22
     },
     {
-      "term": "machine",
+      "term": "learning",
       "score": 22
     },
     {
-      "term": "learning",
+      "term": "machine",
       "score": 22
     },
     {
@@ -136,15 +136,15 @@
       "score": 19
     },
     {
+      "term": "forbush",
+      "score": 16
+    },
+    {
       "term": "index",
       "score": 16
     },
     {
       "term": "index (typography)",
-      "score": 16
-    },
-    {
-      "term": "fractal",
       "score": 16
     }
   ],
@@ -153,18 +153,18 @@
       "id": 13,
       "name": "Climate Action",
       "score": 100,
-      "hits": 21
+      "hits": 22
     },
     {
       "id": 7,
       "name": "Affordable and Clean Energy",
-      "score": 29,
+      "score": 27,
       "hits": 6
     },
     {
       "id": 11,
       "name": "Sustainable Cities and Communities",
-      "score": 19,
+      "score": 18,
       "hits": 4
     },
     {
@@ -175,6 +175,25 @@
     }
   ],
   "publications": [
+    {
+      "title": "Morphological Fingerprints of Forbush Decreases and Their Relation to Geomagnetic Storm Severity",
+      "year": 2026,
+      "journal": "The Open Journal of Astrophysics",
+      "doi": "10.33232/001c.164441",
+      "cited_by": 0,
+      "keywords": [
+        "Event (particle physics)",
+        "Storm",
+        "Pattern recognition (psychology)",
+        "Univariate",
+        "Sensitivity (control systems)",
+        "Preprocessor",
+        "Longitude",
+        "Multivariate statistics"
+      ],
+      "abstract": "Forbush decreases (FDs) are transient depressions in the galactic cosmic-ray flux observed by global neutron-monitor networks and are commonly associated with interplanetary disturbances driven by coronal mass ejections and related shocks. Despite extensive observational work, quantitatively comparing FD morphology across events and linking it to storm severity remains challenging due to heterogen",
+      "type": "Journal Article"
+    },
     {
       "title": "Magnitude-dependent quantum advantage in Forbush decrease detection: A quantum kernel SVM benchmark",
       "year": 2026,
@@ -188,7 +207,7 @@
         "Support vector machine",
         "Quantum computer"
       ],
-      "abstract": "",
+      "abstract": "Contiene gráficos",
       "type": "Journal Article"
     },
     {
@@ -518,7 +537,7 @@
       "year": 2024,
       "journal": "Sustainable Cities and Society",
       "doi": "10.1016/j.scs.2024.106076",
-      "cited_by": 23,
+      "cited_by": 26,
       "keywords": [
         "Sustainability",
         "Index (typography)",
@@ -575,7 +594,7 @@
       "year": 2024,
       "journal": "Advances in Space Research",
       "doi": "10.1016/j.asr.2024.08.031",
-      "cited_by": 10,
+      "cited_by": 12,
       "keywords": [
         "Geomagnetic storm",
         "Meteorology",
@@ -627,7 +646,7 @@
       "year": 2024,
       "journal": "Astronomy and Computing",
       "doi": "10.1016/j.ascom.2024.100857",
-      "cited_by": 2,
+      "cited_by": 3,
       "keywords": [
         "Sunspot",
         "Boosting (machine learning)",
@@ -689,7 +708,7 @@
       "year": 2024,
       "journal": "Chaos Solitons & Fractals",
       "doi": "10.1016/j.chaos.2024.115089",
-      "cited_by": 6,
+      "cited_by": 7,
       "keywords": [
         "Space weather",
         "Geomagnetic storm",
@@ -831,7 +850,7 @@
       "year": 2023,
       "journal": "The Astronomical Journal",
       "doi": "10.3847/1538-3881/accff8",
-      "cited_by": 238,
+      "cited_by": 241,
       "keywords": [
         "Physics",
         "Dark energy",
