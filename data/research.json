@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13",
+  "generated_at": "2026-07-20",
   "author": {
     "name": "David Sierra-Porta",
     "scopus_id": "57191333650",
@@ -7,8 +7,8 @@
     "scopus_url": "https://www.scopus.com/authid/detail.uri?authorId=57191333650",
     "orcid_url": "https://orcid.org/0000-0003-3461-1347",
     "h_index": 12,
-    "citation_count": 535,
-    "document_count": 70,
+    "citation_count": 547,
+    "document_count": 75,
     "affiliation": "Universidad Tecnológica de Bolívar"
   },
   "publications_by_year": {
@@ -35,7 +35,7 @@
     "2023": 7,
     "2024": 12,
     "2025": 6,
-    "2026": 11
+    "2026": 16
   },
   "citation_trend": {
     "2015": 4,
@@ -45,10 +45,10 @@
     "2019": 13,
     "2020": 46,
     "2021": 29,
-    "2022": 50,
-    "2023": 341,
-    "2024": 85,
-    "2025": 8
+    "2022": 51,
+    "2023": 346,
+    "2024": 90,
+    "2025": 10
   },
   "fingerprint": [
     {
@@ -65,7 +65,7 @@
     },
     {
       "term": "cosmic ray",
-      "score": 35
+      "score": 38
     },
     {
       "term": "astrophysics",
@@ -84,16 +84,16 @@
       "score": 32
     },
     {
+      "term": "cosmic",
+      "score": 27
+    },
+    {
       "term": "mathematical analysis",
       "score": 27
     },
     {
       "term": "muon",
       "score": 27
-    },
-    {
-      "term": "cosmic",
-      "score": 24
     },
     {
       "term": "astronomy",
@@ -124,6 +124,14 @@
       "score": 22
     },
     {
+      "term": "colombia",
+      "score": 19
+    },
+    {
+      "term": "forbush",
+      "score": 19
+    },
+    {
       "term": "meteorology",
       "score": 19
     },
@@ -136,15 +144,7 @@
       "score": 19
     },
     {
-      "term": "forbush",
-      "score": 16
-    },
-    {
-      "term": "index",
-      "score": 16
-    },
-    {
-      "term": "index (typography)",
+      "term": "network",
       "score": 16
     }
   ],
@@ -153,28 +153,117 @@
       "id": 13,
       "name": "Climate Action",
       "score": 100,
-      "hits": 22
+      "hits": 23
     },
     {
       "id": 7,
       "name": "Affordable and Clean Energy",
-      "score": 27,
-      "hits": 6
+      "score": 30,
+      "hits": 7
     },
     {
       "id": 11,
       "name": "Sustainable Cities and Communities",
-      "score": 18,
+      "score": 17,
       "hits": 4
+    },
+    {
+      "id": 4,
+      "name": "Quality Education",
+      "score": 9,
+      "hits": 2
     },
     {
       "id": 1,
       "name": "No Poverty",
-      "score": 5,
+      "score": 4,
       "hits": 1
     }
   ],
   "publications": [
+    {
+      "title": "sierraporta/functional-dfa: Functional DFA",
+      "year": 2026,
+      "journal": "Open MIND",
+      "doi": "10.5281/zenodo.21398159",
+      "cited_by": 0,
+      "keywords": [
+        "Generalization",
+        "Measure (data warehouse)",
+        "Pattern recognition (psychology)",
+        "Variance (accounting)",
+        "Dispersion (optics)"
+      ],
+      "abstract": "A two-layer generalization of DFA/MFDFA in which the local fluctuation measure (classically, the variance of the detrending residuals) is a pluggable dispersion functional Φ, and the aggregation across windows is a pluggable outer layer (power means or the median). Classical DFA is the member FDFA(RMS, A₂); classical MFDFA is the slice {FDFA(RMS, A_q)}",
+      "type": "Other"
+    },
+    {
+      "title": "sierraporta/functional-dfa: Functional DFA",
+      "year": 2026,
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.21398158",
+      "cited_by": 0,
+      "keywords": [
+        "Generalization",
+        "Measure (data warehouse)",
+        "Pattern recognition (psychology)",
+        "Variance (accounting)",
+        "Dispersion (optics)"
+      ],
+      "abstract": "A two-layer generalization of DFA/MFDFA in which the local fluctuation measure (classically, the variance of the detrending residuals) is a pluggable dispersion functional Φ, and the aggregation across windows is a pluggable outer layer (power means or the median). Classical DFA is the member FDFA(RMS, A₂); classical MFDFA is the slice {FDFA(RMS, A_q)}",
+      "type": "Other"
+    },
+    {
+      "title": "RACiMo: Red Ambiental Ciudadana de Monitoreo: A Student-Centred Citizen Science Network for Environmental Monitoring, Data Literacy, and Climate Awareness in Colombia",
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "doi": "10.48550/arxiv.2607.14805",
+      "cited_by": 0,
+      "keywords": [
+        "Citizen science",
+        "Adaptation (eye)",
+        "Climate change",
+        "Environmental monitoring",
+        "Climate change adaptation",
+        "Environmental data"
+      ],
+      "abstract": "This paper traces the evolution of Red Ambiental Ciudadana de Monitoreo (RACiMo), a citizen-science and environmental-education initiative developed by Universidad Industrial de Santander in Colombia. RACiMo has evolved through successive editions from a school-based open-hardware programme into a regional environmental monitoring network that integrates meteorological and air-quality data, open-d",
+      "type": "Preprint"
+    },
+    {
+      "title": "RACiMo: Red Ambiental Ciudadana de Monitoreo: A Student-Centred Citizen Science Network for Environmental Monitoring, Data Literacy, and Climate Awareness in Colombia",
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "doi": "",
+      "cited_by": 0,
+      "keywords": [
+        "Citizen science",
+        "Adaptation (eye)",
+        "Climate change",
+        "Environmental monitoring",
+        "Climate change adaptation",
+        "Environmental data"
+      ],
+      "abstract": "This paper traces the evolution of Red Ambiental Ciudadana de Monitoreo (RACiMo), a citizen-science and environmental-education initiative developed by Universidad Industrial de Santander in Colombia. RACiMo has evolved through successive editions from a school-based open-hardware programme into a regional environmental monitoring network that integrates meteorological and air-quality data, open-d",
+      "type": "Preprint"
+    },
+    {
+      "title": "Heliospheric regimes governing Forbush decreases revealed by multiscale analysis of cosmic rays",
+      "year": 2026,
+      "journal": "Acta Astronautica",
+      "doi": "10.1016/j.actaastro.2026.07.024",
+      "cited_by": 0,
+      "keywords": [
+        "Forbush decrease",
+        "Cosmic ray",
+        "Space radiation",
+        "Solar wind",
+        "COSMIC cancer database",
+        "Heliosphere"
+      ],
+      "abstract": "",
+      "type": "Journal Article"
+    },
     {
       "title": "Morphological Fingerprints of Forbush Decreases and Their Relation to Geomagnetic Storm Severity",
       "year": 2026,
@@ -297,7 +386,7 @@
         "Scalability"
       ],
       "abstract": "Sunspot numbers constitute the longest and most widely used record of solar activity, with direct implications for heliophysical research and space-weather applications. Traditional sunspot counting relies on visual inspection and algorithmic feature-detection pipelines, which can be affected by observer-dependent choices, image quality, and methodological variability across implementations. Recen",
-      "type": "Preprint"
+      "type": "Journal Article"
     },
     {
       "title": "Derivative-Aligned Anticipation of Forbush Decreases from Entropy and Fractal Markers",
@@ -430,14 +519,14 @@
         "Relation (database)"
       ],
       "abstract": "This article presents a comprehensive dataset capturing the urban network structures and sociodemographic variables of 65 cities worldwide for the year 2023, based on the Urban Mobility Readiness Index (UMRi) developed by the Oliver Wyman Forum. The dataset includes key metrics such as graph entropy, node degree, clustering coefficient, graph diameter, GDP per capita, and population density, among",
-      "type": "Journal Article"
+      "type": "Other"
     },
     {
       "title": "Geomagnetic disturbances and grid vulnerability: Correlating storm intensity with power system failures",
       "year": 2025,
       "journal": "PLoS ONE",
       "doi": "10.1371/journal.pone.0327716",
-      "cited_by": 3,
+      "cited_by": 5,
       "keywords": [
         "Geomagnetic storm",
         "Solar wind",
@@ -508,7 +597,7 @@
       "year": 2024,
       "journal": "Journal of Atmospheric and Solar-Terrestrial Physics",
       "doi": "10.1016/j.jastp.2024.106407",
-      "cited_by": 5,
+      "cited_by": 6,
       "keywords": [
         "Multifractal system",
         "Detrended fluctuation analysis",
@@ -537,7 +626,7 @@
       "year": 2024,
       "journal": "Sustainable Cities and Society",
       "doi": "10.1016/j.scs.2024.106076",
-      "cited_by": 26,
+      "cited_by": 27,
       "keywords": [
         "Sustainability",
         "Index (typography)",
@@ -594,7 +683,7 @@
       "year": 2024,
       "journal": "Advances in Space Research",
       "doi": "10.1016/j.asr.2024.08.031",
-      "cited_by": 12,
+      "cited_by": 13,
       "keywords": [
         "Geomagnetic storm",
         "Meteorology",
@@ -684,7 +773,7 @@
         "Operating system"
       ],
       "abstract": "This paper introduces LUMA, an innovative open-source web application designed to facilitate the exploration and analysis of solar activity through comprehensive image datasets from the Solar and Heliospheric Observatory (SOHO). Leveraging modern web technologies, LUMA integrates images from SOHO's Extreme Ultraviolet Imaging Telescope (EIT) filters—EIT171, EIT195, EIT284, and EIT304—providing res",
-      "type": "Journal Article"
+      "type": "Other"
     },
     {
       "title": "Toward Solar Activity Understanding: Multifaceted Insights from SOHO Solar Images and Spectral Analysis for Machine Learning Applications",
@@ -701,7 +790,7 @@
         "Spectroscopy"
       ],
       "abstract": "This study leverages machine learning approaches, specifically Multilayer Perceptron (MLP) and Support Vector Regression (SVR), to predict sunspot numbers using datasets derived from Solar and Heliospheric Observatory (SOHO) images. The datasets, encompassing various spectral bands and topological features, capture the complex dynamics of solar activity. By incorporating these features into machin",
-      "type": "Journal Article"
+      "type": "Other"
     },
     {
       "title": "A multifractal approach to understanding Forbush Decrease events: Correlations with geomagnetic storms and space weather phenomena",
@@ -738,7 +827,7 @@
       "year": 2024,
       "journal": "Discover Water",
       "doi": "10.1007/s43832-024-00068-y",
-      "cited_by": 18,
+      "cited_by": 19,
       "keywords": [
         "Index (typography)",
         "Missing data",
@@ -762,7 +851,7 @@
       "year": 2024,
       "journal": "Chaos An Interdisciplinary Journal of Nonlinear Science",
       "doi": "10.1063/5.0167156",
-      "cited_by": 5,
+      "cited_by": 6,
       "keywords": [
         "Rigidity (electromagnetism)",
         "Cosmic ray",
@@ -805,7 +894,7 @@
         "Economics"
       ],
       "abstract": "",
-      "type": "Journal Article"
+      "type": "Preprint"
     },
     {
       "title": "Dataset for Sun dynamics from topological features",
@@ -826,7 +915,7 @@
         "Programming language"
       ],
       "abstract": "The present study presents an extensive dataset meticulously curated from solar images sourced from the Solar and Heliospheric Observatory (SOHO), encompassing a range of spectral bands. This collaborative effort spans multiple disciplines and culminates in a robust and automated methodology that traverses the entire spectrum from solar imaging to the computation of spectral parameters and relevan",
-      "type": "Journal Article"
+      "type": "Other"
     },
     {
       "title": "SunspotCalc: Una aplicación basada en Web y Python para calcular la rotación diferencial del sol y su fotosfera",
@@ -850,7 +939,7 @@
       "year": 2023,
       "journal": "The Astronomical Journal",
       "doi": "10.3847/1538-3881/accff8",
-      "cited_by": 241,
+      "cited_by": 245,
       "keywords": [
         "Physics",
         "Dark energy",
@@ -941,7 +1030,7 @@
       "year": 2023,
       "journal": "The Astrophysical Journal",
       "doi": "10.3847/1538-4357/aca5fa",
-      "cited_by": 75,
+      "cited_by": 76,
       "keywords": [
         "Physics",
         "Redshift",
@@ -958,7 +1047,7 @@
       "year": 2022,
       "journal": "Astrophysics and Space Science",
       "doi": "10.1007/s10509-022-04151-5",
-      "cited_by": 14,
+      "cited_by": 15,
       "keywords": [
         "Physics",
         "Multifractal system",
@@ -1098,7 +1187,7 @@
         "Ecology"
       ],
       "abstract": "",
-      "type": "Journal Article"
+      "type": "Preprint"
     },
     {
       "title": "Muography for the Colombian Volcanoes",
@@ -1119,7 +1208,7 @@
         "Geology"
       ],
       "abstract": "We describe the Muography Program to study the Colombian volcanoes. Mainly, we discuss the criteria adopted for designing, building, and commissioning MuTe: a hybrid Muon Telescope. MuTe implements a composite detection technique combining a hodoscope for particle tracking and a water Cherenkov detector for enhancing the muon-to-background-signal separation of extended air showers. Next, we discus",
-      "type": "Journal Article"
+      "type": "Other"
     },
     {
       "title": "Mejora eficiente para la estimación de la energía libre superficial del ligante asfáltico mediante herramientas de Machine Learning",
@@ -1378,7 +1467,7 @@
         "Optics"
       ],
       "abstract": "In this work, we describe the calibration and first measurements in the commissioning of MuTe, a hybrid Muon Telescope with two subdetectors --a scintillator hodoscope and a Water Cherenkov Detector (WCD)-- for imaging the inner structures of Colombian volcanoes. The hodoscope estimates the trajectories of particles impinging on the front and rear panel, while the WCD acts as a calorimeter for the",
-      "type": "Journal Article"
+      "type": "Other"
     },
     {
       "title": "Astroparticle projects at the Eastern Colombia region: facilities and instrumentation",
