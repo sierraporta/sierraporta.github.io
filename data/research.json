@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20",
+  "generated_at": "2026-07-27",
   "author": {
     "name": "David Sierra-Porta",
     "scopus_id": "57191333650",
@@ -7,8 +7,8 @@
     "scopus_url": "https://www.scopus.com/authid/detail.uri?authorId=57191333650",
     "orcid_url": "https://orcid.org/0000-0003-3461-1347",
     "h_index": 12,
-    "citation_count": 547,
-    "document_count": 75,
+    "citation_count": 550,
+    "document_count": 76,
     "affiliation": "Universidad Tecnológica de Bolívar"
   },
   "publications_by_year": {
@@ -35,7 +35,7 @@
     "2023": 7,
     "2024": 12,
     "2025": 6,
-    "2026": 16
+    "2026": 17
   },
   "citation_trend": {
     "2015": 4,
@@ -46,9 +46,9 @@
     "2020": 46,
     "2021": 29,
     "2022": 51,
-    "2023": 346,
+    "2023": 348,
     "2024": 90,
-    "2025": 10
+    "2025": 11
   },
   "fingerprint": [
     {
@@ -108,11 +108,11 @@
       "score": 22
     },
     {
-      "term": "artificial intelligence",
+      "term": "learning",
       "score": 22
     },
     {
-      "term": "learning",
+      "term": "artificial intelligence",
       "score": 22
     },
     {
@@ -328,6 +328,26 @@
       ],
       "abstract": "No description provided.",
       "type": "Other"
+    },
+    {
+      "title": "Cayley–Menger curvature: a geometric approach to discrete curvature on graphs via local simplex embedding",
+      "year": 2026,
+      "journal": "Journal of Complex Networks",
+      "doi": "10.1093/comnet/cnag028",
+      "cited_by": 0,
+      "keywords": [
+        "Curvature",
+        "Simplex",
+        "Measure (data warehouse)",
+        "Embedding",
+        "Compact space",
+        "Euclidean geometry",
+        "Cluster analysis",
+        "Graph",
+        "Geometric shape"
+      ],
+      "abstract": "Abstract We introduce a discrete curvature measure for graphs based on the Cayley–Menger determinant, which we term Cayley–Menger curvature ($ \\symbf{\\kappa_{\\textbf{CM}}} $). For each node, we construct local tetrahedra from its nearest neighbors under the effective resistance metric, compute the Cayley–Menger determinant to embed them in Euclidean space, and extract the circumradius as a proxy f",
+      "type": "Journal Article"
     },
     {
       "title": "A Nonlinear, Robust Station–Season Index for Quantifying Fine–Coarse Mixture Regimes in Particulate Matter",
@@ -552,7 +572,7 @@
       "year": 2025,
       "journal": "Computers in Biology and Medicine",
       "doi": "10.1016/j.compbiomed.2025.110599",
-      "cited_by": 1,
+      "cited_by": 2,
       "keywords": [
         "Machine learning",
         "Artificial intelligence",
@@ -939,7 +959,7 @@
       "year": 2023,
       "journal": "The Astronomical Journal",
       "doi": "10.3847/1538-3881/accff8",
-      "cited_by": 245,
+      "cited_by": 247,
       "keywords": [
         "Physics",
         "Dark energy",
