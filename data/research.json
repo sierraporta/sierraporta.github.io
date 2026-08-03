@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27",
+  "generated_at": "2026-08-03",
   "author": {
     "name": "David Sierra-Porta",
     "scopus_id": "57191333650",
@@ -7,8 +7,8 @@
     "scopus_url": "https://www.scopus.com/authid/detail.uri?authorId=57191333650",
     "orcid_url": "https://orcid.org/0000-0003-3461-1347",
     "h_index": 12,
-    "citation_count": 550,
-    "document_count": 76,
+    "citation_count": 551,
+    "document_count": 77,
     "affiliation": "Universidad Tecnológica de Bolívar"
   },
   "publications_by_year": {
@@ -35,7 +35,7 @@
     "2023": 7,
     "2024": 12,
     "2025": 6,
-    "2026": 17
+    "2026": 18
   },
   "citation_trend": {
     "2015": 4,
@@ -48,7 +48,7 @@
     "2022": 51,
     "2023": 348,
     "2024": 90,
-    "2025": 11
+    "2025": 12
   },
   "fingerprint": [
     {
@@ -108,15 +108,15 @@
       "score": 22
     },
     {
-      "term": "learning",
-      "score": 22
-    },
-    {
       "term": "artificial intelligence",
       "score": 22
     },
     {
       "term": "machine",
+      "score": 22
+    },
+    {
+      "term": "learning",
       "score": 22
     },
     {
@@ -153,13 +153,13 @@
       "id": 13,
       "name": "Climate Action",
       "score": 100,
-      "hits": 23
+      "hits": 24
     },
     {
       "id": 7,
       "name": "Affordable and Clean Energy",
-      "score": 30,
-      "hits": 7
+      "score": 33,
+      "hits": 8
     },
     {
       "id": 11,
@@ -170,7 +170,7 @@
     {
       "id": 4,
       "name": "Quality Education",
-      "score": 9,
+      "score": 8,
       "hits": 2
     },
     {
@@ -181,6 +181,16 @@
     }
   ],
   "publications": [
+    {
+      "title": "A Data-Driven Beacon of Hope",
+      "year": 2026,
+      "journal": "Ecology Economy and Society–the INSEE Journal",
+      "doi": "10.37773/ees.v9i2.1693",
+      "cited_by": 0,
+      "keywords": [],
+      "abstract": "",
+      "type": "Journal Article"
+    },
     {
       "title": "sierraporta/functional-dfa: Functional DFA",
       "year": 2026,
@@ -296,7 +306,7 @@
         "Support vector machine",
         "Quantum computer"
       ],
-      "abstract": "Contiene gráficos",
+      "abstract": "Forbush decreases (FDs)—transient reductions in galactic cosmic ray intensity driven by interplanetary coronal mass ejections—are key observables in space weather monitoring, yet their automated detection from multivariate solar wind and neutron monitor time series remains a challenging classification problem. Here we report a systematic benchmark of quantum kernel support vector machines (QKSVM) ",
       "type": "Journal Article"
     },
     {
@@ -572,7 +582,7 @@
       "year": 2025,
       "journal": "Computers in Biology and Medicine",
       "doi": "10.1016/j.compbiomed.2025.110599",
-      "cited_by": 2,
+      "cited_by": 3,
       "keywords": [
         "Machine learning",
         "Artificial intelligence",
@@ -1390,7 +1400,7 @@
         "Telescope",
         "Noise (video)"
       ],
-      "abstract": "We present a hybrid Muon Telescope, MuTe, designed and built for imaging active Colombian volcanoes. The MuTe has a resolution of tens of meters, low power consumption, robustness and transportability making it suitable for use in difficult access zones where active volcanoes usually are. The main feature of MuTe is the implementation of a hybrid detection technique combining two scintillation pan",
+      "abstract": "We present a hybrid Muon Telescope, MuTe, designed and built for imaging active Colombian volcanoes. The MuTe has a resolution of tens of meters, low power consumption, robustness and transportability making it suitable for using in difficult access zones where active volcanoes usually are. The main feature of MuTe is the implementation of a hybrid detection technique combining two scintillation p",
       "type": "Journal Article"
     },
     {
@@ -1688,7 +1698,7 @@
     {
       "title": "Duality invariance in massive theories",
       "year": 2015,
-      "journal": "Physical review. D. Particles, fields, gravitation, and cosmology/Physical review. D, Particles, fields, gravitation, and cosmology",
+      "journal": "Physical review. D. Particles, fields, gravitation, and cosmology/Physical review. D. Particles and fields",
       "doi": "10.1103/physrevd.91.064015",
       "cited_by": 4,
       "keywords": [
@@ -1768,7 +1778,7 @@
         "Stochastic differential equation",
         "Dynamical systems theory"
       ],
-      "abstract": "There is recent interest in finding a potential formulation for Stochastic Partial Differential Equations (SPDEs). The rationale behind this idea lies in obtaining all the dynamical information of the system under study from one single expression. In this Letter we formally provide a general Lagrangian formalism for SPDEs using the Hojman et al. method. We show that it is possible to write the cor",
+      "abstract": "Recently there has been interest in finding a potential formulation for stochastic partial differential equations (SPDEs). The rationale behind this idea lies in obtaining all the dynamical information of the system under study from one single expression. In this letter we formally provide a general Lagrangian formalism for SPDEs using the Hojman et al method. We show that it is possible to write ",
       "type": "Journal Article"
     },
     {
