@@ -36,7 +36,35 @@ Como culminación del proceso formativo, al final del curso los estudiantes desa
 
 ---
 
-## Programación del curso por cortes — Introducción a la Ciencia de Datos - **Periodo 202520/202610**
+## Programación del curso por cortes — Introducción a la Ciencia de Datos - **Periodo 202520/202610/202620**
+
+### **Primera clase · Primera entrada · Primer reto: del dato a la pregunta**
+- **Objetivo.** Realizar el primer recorrido completo por el ecosistema de Ciencia de Datos utilizando Python: partir de una pregunta sencilla, cargar datos, explorarlos, realizar algunas operaciones con **NumPy y Pandas**, construir visualizaciones con **Matplotlib** y terminar con una pequeña conclusión basada en los datos.
+- **Idea central.** La Ciencia de Datos no empieza con Python; empieza con una pregunta. En este primer reto aprenderemos a transformar una tabla de datos en información y, finalmente, en una pequeña historia basada en evidencia.
+- **Datos.**
+  - Dataset principal: [`colombia_cities_air_quality_demo.csv`](https://github.com/sierraporta/Introduction-a-la-Ciencia-de-Datos-Notas-de-Curso/blob/main/Notebooks/Clase_01_Introduccion_Ciencia_de_Datos.ipynb) — datos sintéticos preparados para fines educativos sobre PM2.5, temperatura, población y área verde de algunas ciudades colombianas.
+  - Dataset secundario: [`colombia_cities_social_demo.csv`](https://github.com/sierraporta/Introduction-a-la-Ciencia-de-Datos-Notas-de-Curso/blob/main/Notebooks/colombia_cities_social_demo.csv) — datos sintéticos sobre algunas variables sociales de las mismas ciudades.
+  - Notebook de trabajo: [`Clase_01_Introduccion_Ciencia_de_Datos.ipynb`](https://github.com/sierraporta/Introduction-a-la-Ciencia-de-Datos-Notas-de-Curso/blob/main/Notebooks/Clase_01_Introduccion_Ciencia_de_Datos.ipynb)
+- **Ruta de trabajo.**
+  `Pregunta → Datos → Exploración → Análisis → Visualización → Evidencia → Conclusión`
+- **Herramientas.**
+  - **Python** — lenguaje de programación.
+  - **NumPy** — cálculo numérico y arreglos.
+  - **Pandas** — manipulación y exploración de datos tabulares.
+  - **Matplotlib** — visualización de datos.
+- **Primer reto.** A partir del dataset de ciudades colombianas, explorar los niveles de PM2.5 y responder preguntas como:
+  - ¿Cuál ciudad presenta el mayor nivel de PM2.5?
+  - ¿Cuál presenta el menor?
+  - ¿Cuál es el promedio?
+  - ¿Qué ciudades están por encima del promedio?
+  - ¿Existe alguna relación visual entre temperatura y PM2.5?
+  - ¿Qué gráfica comunica mejor alguno de estos resultados?
+- **Mini-proyecto.** Cada estudiante deberá producir una pequeña exploración de los datos que contenga **un resultado, una evidencia gráfica y una conclusión de 2–3 frases**.
+- **Requisito importante.** Los datos utilizados en esta primera experiencia son **sintéticos y educativos**. El objetivo no es producir conclusiones científicas sobre la calidad del aire de las ciudades, sino aprender el flujo básico de trabajo de un científico de datos.
+- **Entregable.** El notebook `Clase_01_Introduccion_Ciencia_de_Datos.ipynb`, completado con los ejercicios y el mini-proyecto final.
+- **Evaluación sugerida (100 pts).** 25 exploración correcta de los datos · 25 uso adecuado de Pandas/NumPy · 20 visualización · 20 interpretación y conclusión · 10 limpieza y organización del notebook.
+> **Primer dato. Primera pregunta. Primera gráfica. Primera conclusión.**  
+> **Este es nuestro primer paso en Ciencia de Datos.**
 
 ### **Corte 1 · Mini-dashboard (HTML + CSS) con World Happiness Report**
 - **Objetivo.** Construir una página web estática (un solo `index.html` con `<style>` embebido) que muestre la evolución de la felicidad de **Colombia** por año, sus variables asociadas y comparaciones con países mejor y peor posicionados.
