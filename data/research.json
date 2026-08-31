@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25",
+  "generated_at": "2026-08-31",
   "author": {
     "name": "David Sierra-Porta",
     "scopus_id": "57191333650",
@@ -7,7 +7,7 @@
     "scopus_url": "https://www.scopus.com/authid/detail.uri?authorId=57191333650",
     "orcid_url": "https://orcid.org/0000-0003-3461-1347",
     "h_index": 12,
-    "citation_count": 642,
+    "citation_count": 644,
     "document_count": 77,
     "affiliation": "Universidad Tecnológica de Bolívar"
   },
@@ -46,9 +46,9 @@
     "2020": 46,
     "2021": 29,
     "2022": 52,
-    "2023": 357,
+    "2023": 358,
     "2024": 95,
-    "2025": 12
+    "2025": 13
   },
   "fingerprint": [
     {
@@ -108,15 +108,15 @@
       "score": 22
     },
     {
-      "term": "artificial intelligence",
-      "score": 22
-    },
-    {
       "term": "machine",
       "score": 22
     },
     {
       "term": "learning",
+      "score": 22
+    },
+    {
+      "term": "artificial intelligence",
       "score": 22
     },
     {
@@ -582,7 +582,7 @@
       "year": 2025,
       "journal": "Computers in Biology and Medicine",
       "doi": "10.1016/j.compbiomed.2025.110599",
-      "cited_by": 3,
+      "cited_by": 4,
       "keywords": [
         "Machine learning",
         "Artificial intelligence",
@@ -969,7 +969,7 @@
       "year": 2023,
       "journal": "The Astronomical Journal",
       "doi": "10.3847/1538-3881/accff8",
-      "cited_by": 253,
+      "cited_by": 254,
       "keywords": [
         "Physics",
         "Dark energy",
