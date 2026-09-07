@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31",
+  "generated_at": "2026-09-07",
   "author": {
     "name": "David Sierra-Porta",
     "scopus_id": "57191333650",
@@ -7,7 +7,7 @@
     "scopus_url": "https://www.scopus.com/authid/detail.uri?authorId=57191333650",
     "orcid_url": "https://orcid.org/0000-0003-3461-1347",
     "h_index": 12,
-    "citation_count": 644,
+    "citation_count": 646,
     "document_count": 77,
     "affiliation": "Universidad Tecnológica de Bolívar"
   },
@@ -46,8 +46,8 @@
     "2020": 46,
     "2021": 29,
     "2022": 52,
-    "2023": 358,
-    "2024": 95,
+    "2023": 359,
+    "2024": 96,
     "2025": 13
   },
   "fingerprint": [
@@ -108,11 +108,11 @@
       "score": 22
     },
     {
-      "term": "machine",
+      "term": "learning",
       "score": 22
     },
     {
-      "term": "learning",
+      "term": "machine",
       "score": 22
     },
     {
@@ -194,7 +194,7 @@
     {
       "title": "sierraporta/functional-dfa: Functional DFA",
       "year": 2026,
-      "journal": "Open MIND",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
       "doi": "10.5281/zenodo.21398159",
       "cited_by": 0,
       "keywords": [
@@ -312,7 +312,7 @@
     {
       "title": "sierraporta/AFTER-Annotated-Forbush-decrease-Topological-Event-Recognition: method",
       "year": 2026,
-      "journal": "Open MIND",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
       "doi": "10.5281/zenodo.21046984",
       "cited_by": 0,
       "keywords": [
@@ -656,7 +656,7 @@
       "year": 2024,
       "journal": "Sustainable Cities and Society",
       "doi": "10.1016/j.scs.2024.106076",
-      "cited_by": 30,
+      "cited_by": 31,
       "keywords": [
         "Sustainability",
         "Index (typography)",
@@ -969,7 +969,7 @@
       "year": 2023,
       "journal": "The Astronomical Journal",
       "doi": "10.3847/1538-3881/accff8",
-      "cited_by": 254,
+      "cited_by": 255,
       "keywords": [
         "Physics",
         "Dark energy",
