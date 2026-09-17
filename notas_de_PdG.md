@@ -55,3 +55,12 @@ En la segunda etapa se desarrolla y evalúa el proyecto mediante:
 
 El trabajo se construye de manera incremental, registrando las decisiones metodológicas, resultados y dificultades encontradas durante el desarrollo. El proyecto final debe permitir comprender no solo **qué se hizo y qué se obtuvo, sino por qué se tomó cada decisión y cuáles son los límites de los resultados**.
 
+
+## Algunos materiales...
+
+| No | Tema central | Recurso |
+|---:|---|---
+| 1 | Naturaleza, Alcance y Estructura Conceptual del Trabajo de Grado en Ciencia de Datos | [ml_intro_ibm_unified.pdf](https://github.com/sierraporta/Intro-Machine-Learning-UnderGraduated/blob/main/Presentations/ml_intro_ibm_unified.pdf) |
+| 2 | Guía Metodológica Avanzada para la Formulación Inicial: Planteamiento, Hipótesis, Preguntas, Objetivos y Antecedentes | [ml_intro_ibm_unified.pdf](https://github.com/sierraporta/Intro-Machine-Learning-UnderGraduated/blob/main/Presentations/ml_intro_ibm_unified.pdf) |
+| 3 | Estrategia Metodológica para la Formulación del Problema: Metodología MGA, Árbol de Problemas y Árbol de Objetivos | [ml_intro_ibm_unified.pdf](https://github.com/sierraporta/Intro-Machine-Learning-UnderGraduated/blob/main/Presentations/ml_intro_ibm_unified.pdf) |
+
