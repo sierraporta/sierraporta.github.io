@@ -60,7 +60,7 @@ El trabajo se construye de manera incremental, registrando las decisiones metodo
 
 | No | Tema central | Recurso |
 |---:|---|---
-| 1 | Naturaleza, Alcance y Estructura Conceptual del Trabajo de Grado en Ciencia de Datos | [Naturaleza_y_Estructura_Trabajo_Grado_Ciencia_de_Datos.pdf](https://github.com/sierraporta/Proyecto-de-Grado-I-II/blob/main/lectures/Naturaleza_y_Estructura_Trabajo_Grado_Ciencia_de_Datos.pdf) |
-| 2 | Guía Metodológica Avanzada para la Formulación Inicial: Planteamiento, Hipótesis, Preguntas, Objetivos y Antecedentes | [Guia_Formulacion_Inicial_Proyecto_Grado.pdf](https://github.com/sierraporta/Proyecto-de-Grado-I-II/blob/main/lectures/Guia_Formulacion_Inicial_Proyecto_Grado.pdf) |
-| 3 | Estrategia Metodológica para la Formulación del Problema: Metodología MGA, Árbol de Problemas y Árbol de Objetivos | [Estrategia_Metodologica_MGA_Arbol_Problemas_Objetivos.pdf](https://github.com/sierraporta/Proyecto-de-Grado-I-II/blob/main/lectures/Estrategia_Metodologica_MGA_Arbol_Problemas_Objetivos.pdf) |
+| 1 | Naturaleza, Alcance y Estructura Conceptual del Trabajo de Grado en Ciencia de Datos | [Naturaleza y Estructura Trabajo Grado Ciencia de Datos.pdf](https://github.com/sierraporta/Proyecto-de-Grado-I-II/blob/main/lectures/Naturaleza_y_Estructura_Trabajo_Grado_Ciencia_de_Datos.pdf) |
+| 2 | Guía Metodológica Avanzada para la Formulación Inicial: Planteamiento, Hipótesis, Preguntas, Objetivos y Antecedentes | [Guia Formulacion Inicial Proyecto Grado.pdf](https://github.com/sierraporta/Proyecto-de-Grado-I-II/blob/main/lectures/Guia_Formulacion_Inicial_Proyecto_Grado.pdf) |
+| 3 | Estrategia Metodológica para la Formulación del Problema: Metodología MGA, Árbol de Problemas y Árbol de Objetivos | [Estrategia Metodologica MGA Arbol Problemas Objetivos.pdf](https://github.com/sierraporta/Proyecto-de-Grado-I-II/blob/main/lectures/Estrategia_Metodologica_MGA_Arbol_Problemas_Objetivos.pdf) |
 
