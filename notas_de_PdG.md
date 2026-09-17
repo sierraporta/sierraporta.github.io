@@ -1,7 +1,7 @@
 # Curso de **Proyecto de Grado I y II**
 
 <img class="float-left float--sm"
-  src="/Figures/proyecto_grado.png"
+  src="/Figures/proyecto_grado.jpeg"
   alt="Proyecto de Grado I y II"
   width="420" height="280" decoding="async">
 
