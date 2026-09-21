@@ -104,6 +104,8 @@ Como culminación del proceso formativo, al final del curso los estudiantes desa
 | Notebook para transformar datos | Un notebook inicial que nos ayudará a dejar un dataset listo para PowerBI | [Notebook, Transformar datos... (powerbi_education_gender_prep.ipynb)](https://github.com/sierraporta/Introduction-a-la-Ciencia-de-Datos-Notas-de-Curso/blob/main/Notebooks/powerbi_education_gender_prep.ipynb) |
 | Conjunto de Datos: Excel transformado (Para PowerBI) | Datos exportados del notebook anterior | [gender_gap_education_2020_2024_powerbi.csv](https://github.com/sierraporta/Introduction-a-la-Ciencia-de-Datos-Notas-de-Curso/blob/main/Datas/gender-gap-education-levels/gender_gap_education_2020_2024_powerbi.csv) |
 
+---
+
 #### **Actividad mini Proyecto 202620:**
 - **Historia principal:**
 Many countries have decoupled economic growth from CO₂ emissions, even if we take offshored production into account. It is possible to reduce emissions while growing the economy. But this decoupling needs to happen faster. By Hannah Ritchie. December 1, 2021. [Hannah Ritchie - Decoupled economic growth from CO₂](https://ourworldindata.org/co2-gdp-decoupling)
