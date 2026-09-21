@@ -107,9 +107,15 @@ Como culminación del proceso formativo, al final del curso los estudiantes desa
 ---
 
 #### **Actividad mini Proyecto 202620:**
-| Historia principal | Datas (para que todos estemos de acuerdo) | La idea detrás... |
-| --- | --- | --- |
-| Many countries have decoupled economic growth from CO₂ emissions, even if we take offshored production into account. It is possible to reduce emissions while growing the economy. But this decoupling needs to happen faster. By Hannah Ritchie. December 1, 2021. [Hannah Ritchie - Decoupled economic growth from CO₂](https://ourworldindata.org/co2-gdp-decoupling) | ✅ CO₂ emissions per capita: [https://ourworldindata.org/grapher/co-emissions-per-capita](https://ourworldindata.org/grapher/co-emissions-per-capita). ✅ Primary energy use per person: [https://ourworldindata.org/grapher/energy-mix-per_capita](https://ourworldindata.org/grapher/energy-mix?tab=line&country=IND%7EUSA%7ECAN%7ECHN%7EFRA%7EGBR&source=total&metric=per_capita) ✅ Gross domestic product (GDP): [https://ourworldindata.org/grapher/gdp-worldbank](https://ourworldindata.org/grapher/gdp-worldbank) | _Seamos honestos y seamos críticos, como estamos en comparación con otros países?: Miremos la historia de Hannah Ritchie y discutamos sobre el caso de Colombia en comparación con LA al menos. Hagamos Ciencia de Datos para extraer conclusiones.... A la final.... Un pequeño video de conclusiones y análisis..._ |
+- **Historia principal:** 
+  - Many countries have decoupled economic growth from CO₂ emissions, even if we take offshored production into account. It is possible to reduce emissions while growing the economy. But this decoupling needs to happen faster. By Hannah Ritchie. December 1, 2021. [Hannah Ritchie - Decoupled economic growth from CO₂](https://ourworldindata.org/co2-gdp-decoupling)
+- **Datas (para que todos estemos de acuerdo)**
+  - Manejaremos principalmente tres dataset curados de Our World in Data, espectaculares, los mismos que usa Hannah Ritchie en su nota:   
+    - ✅ CO₂ emissions per capita: [https://ourworldindata.org/grapher/co-emissions-per-capita](https://ourworldindata.org/grapher/co-emissions-per-capita).
+    - ✅ Primary energy use per person: [https://ourworldindata.org/grapher/energy-mix-per_capita](https://ourworldindata.org/grapher/energy-mix?tab=line&country=IND%7EUSA%7ECAN%7ECHN%7EFRA%7EGBR&source=total&metric=per_capita)
+    - ✅ Gross domestic product (GDP): [https://ourworldindata.org/grapher/gdp-worldbank](https://ourworldindata.org/grapher/gdp-worldbank)
+- **La idea detrás...**
+  - _Seamos honestos y seamos críticos, como estamos en comparación con otros países?: Miremos la historia de Hannah Ritchie y discutamos sobre el caso de Colombia en comparación con LA al menos. Hagamos Ciencia de Datos para extraer conclusiones.... A la final.... Un pequeño video de conclusiones y análisis..._ |
 
 ---
 
