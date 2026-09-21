@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14",
+  "generated_at": "2026-09-21",
   "author": {
     "name": "David Sierra-Porta",
     "scopus_id": "57191333650",
@@ -7,8 +7,8 @@
     "scopus_url": "https://www.scopus.com/authid/detail.uri?authorId=57191333650",
     "orcid_url": "https://orcid.org/0000-0003-3461-1347",
     "h_index": 12,
-    "citation_count": 649,
-    "document_count": 79,
+    "citation_count": 652,
+    "document_count": 80,
     "affiliation": "Universidad Tecnológica de Bolívar"
   },
   "publications_by_year": {
@@ -35,7 +35,7 @@
     "2023": 6,
     "2024": 12,
     "2025": 6,
-    "2026": 20
+    "2026": 21
   },
   "citation_trend": {
     "2015": 4,
@@ -46,8 +46,8 @@
     "2020": 46,
     "2021": 29,
     "2022": 52,
-    "2023": 361,
-    "2024": 96,
+    "2023": 363,
+    "2024": 97,
     "2025": 13,
     "2026": 1
   },
@@ -109,15 +109,15 @@
       "score": 22
     },
     {
-      "term": "learning",
-      "score": 22
-    },
-    {
       "term": "machine",
       "score": 22
     },
     {
       "term": "artificial intelligence",
+      "score": 22
+    },
+    {
+      "term": "learning",
       "score": 22
     },
     {
@@ -183,6 +183,38 @@
   ],
   "publications": [
     {
+      "title": "sierraporta/functional-dfa: functional-dfa v2.0.0",
+      "year": 2026,
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.21398158",
+      "cited_by": 0,
+      "keywords": [
+        "Generalization",
+        "Measure (data warehouse)",
+        "Pattern recognition (psychology)",
+        "Variance (accounting)",
+        "Dispersion (optics)"
+      ],
+      "abstract": "Version 2.0.0 This version includes updates and new files in the repository. Key changes: File updates: Existing files have been modified to improve their content/performance. New files: New resources have been added to the repository. Note: This release automatically triggers the update and assignment of a new DOI on Zenodo.",
+      "type": "Other"
+    },
+    {
+      "title": "sierraporta/functional-dfa: functional-dfa v2.0.0",
+      "year": 2026,
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.22769472",
+      "cited_by": 0,
+      "keywords": [
+        "Key (lock)",
+        "Table (database)",
+        "Troubleshooting",
+        "Matching (statistics)",
+        "Information system"
+      ],
+      "abstract": "Version 2.0.0 This version includes updates and new files in the repository. Key changes: File updates: Existing files have been modified to improve their content/performance. New files: New resources have been added to the repository. Note: This release automatically triggers the update and assignment of a new DOI on Zenodo.",
+      "type": "Other"
+    },
+    {
       "title": "Onset timing of geomagnetically induced currents during the 2024 storms",
       "year": 2026,
       "journal": "Zenodo (CERN European Organization for Nuclear Research)",
@@ -231,22 +263,6 @@
       "year": 2026,
       "journal": "Zenodo (CERN European Organization for Nuclear Research)",
       "doi": "10.5281/zenodo.21398159",
-      "cited_by": 0,
-      "keywords": [
-        "Generalization",
-        "Measure (data warehouse)",
-        "Pattern recognition (psychology)",
-        "Variance (accounting)",
-        "Dispersion (optics)"
-      ],
-      "abstract": "A two-layer generalization of DFA/MFDFA in which the local fluctuation measure (classically, the variance of the detrending residuals) is a pluggable dispersion functional Φ, and the aggregation across windows is a pluggable outer layer (power means or the median). Classical DFA is the member FDFA(RMS, A₂); classical MFDFA is the slice {FDFA(RMS, A_q)}",
-      "type": "Other"
-    },
-    {
-      "title": "sierraporta/functional-dfa: Functional DFA",
-      "year": 2026,
-      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
-      "doi": "10.5281/zenodo.21398158",
       "cited_by": 0,
       "keywords": [
         "Generalization",
@@ -892,7 +908,7 @@
       "year": 2024,
       "journal": "Discover Water",
       "doi": "10.1007/s43832-024-00068-y",
-      "cited_by": 20,
+      "cited_by": 21,
       "keywords": [
         "Index (typography)",
         "Missing data",
@@ -1004,7 +1020,7 @@
       "year": 2023,
       "journal": "The Astronomical Journal",
       "doi": "10.3847/1538-3881/accff8",
-      "cited_by": 257,
+      "cited_by": 259,
       "keywords": [
         "Physics",
         "Dark energy",
