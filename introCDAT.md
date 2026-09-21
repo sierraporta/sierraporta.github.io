@@ -104,6 +104,16 @@ Como culminación del proceso formativo, al final del curso los estudiantes desa
 | Notebook para transformar datos | Un notebook inicial que nos ayudará a dejar un dataset listo para PowerBI | [Notebook, Transformar datos... (powerbi_education_gender_prep.ipynb)](https://github.com/sierraporta/Introduction-a-la-Ciencia-de-Datos-Notas-de-Curso/blob/main/Notebooks/powerbi_education_gender_prep.ipynb) |
 | Conjunto de Datos: Excel transformado (Para PowerBI) | Datos exportados del notebook anterior | [gender_gap_education_2020_2024_powerbi.csv](https://github.com/sierraporta/Introduction-a-la-Ciencia-de-Datos-Notas-de-Curso/blob/main/Datas/gender-gap-education-levels/gender_gap_education_2020_2024_powerbi.csv) |
 
+#### Actividad mini Proyecto 202620:
+- **Historia principal:**
+Many countries have decoupled economic growth from CO₂ emissions, even if we take offshored production into account. It is possible to reduce emissions while growing the economy. But this decoupling needs to happen faster. By Hannah Ritchie. December 1, 2021. [Hannah Ritchie - Decoupled economic growth from CO₂](https://ourworldindata.org/co2-gdp-decoupling)
+- **Datas (para que todos estemos de acuerdo):**
+  - CO₂ emissions per capita: https://ourworldindata.org/grapher/co-emissions-per-capita
+  - Primary energy use per person: https://ourworldindata.org/grapher/energy-mix?tab=line&country=IND%7EUSA%7ECAN%7ECHN%7EFRA%7EGBR&source=total&metric=per_capita
+  - Gross domestic product (GDP): https://ourworldindata.org/grapher/gdp-worldbank
+- **La idea:**
+Seamos honestos y seamos críticos, como estamos en comparación con otros países?: Miremos la historia de Hannah Ritchie y discutamos sobre el caso de Colombia en comparación con LA al menos. Hagamos Ciencia de Datos para extraer conclusiones.... A la final.... Un pequeño video de conclusiones y análisis...
+
 ---
 
 #### **Actividad final de corte: Dashboard de Importaciones de Colombia en Power BI**
