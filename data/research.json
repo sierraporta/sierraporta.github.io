@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-21",
+  "generated_at": "2026-09-28",
   "author": {
     "name": "David Sierra-Porta",
     "scopus_id": "57191333650",
     "orcid": "0000-0003-3461-1347",
     "scopus_url": "https://www.scopus.com/authid/detail.uri?authorId=57191333650",
     "orcid_url": "https://orcid.org/0000-0003-3461-1347",
-    "h_index": 12,
-    "citation_count": 652,
-    "document_count": 80,
+    "h_index": 1,
+    "citation_count": 5,
+    "document_count": 90,
     "affiliation": "Universidad Tecnológica de Bolívar"
   },
   "publications_by_year": {
@@ -26,29 +26,29 @@
     "2014": 0,
     "2015": 1,
     "2016": 1,
-    "2017": 5,
-    "2018": 3,
+    "2017": 6,
+    "2018": 4,
     "2019": 4,
     "2020": 5,
     "2021": 4,
-    "2022": 8,
-    "2023": 6,
+    "2022": 12,
+    "2023": 7,
     "2024": 12,
     "2025": 6,
-    "2026": 21
+    "2026": 24
   },
   "citation_trend": {
     "2015": 4,
     "2016": 1,
-    "2017": 9,
-    "2018": 24,
+    "2017": 13,
+    "2018": 32,
     "2019": 13,
     "2020": 46,
     "2021": 29,
-    "2022": 52,
-    "2023": 363,
-    "2024": 97,
-    "2025": 13,
+    "2022": 54,
+    "2023": 369,
+    "2024": 100,
+    "2025": 14,
     "2026": 1
   },
   "fingerprint": [
@@ -58,82 +58,86 @@
     },
     {
       "term": "mathematics",
-      "score": 73
+      "score": 69
     },
     {
       "term": "computer science",
-      "score": 65
+      "score": 62
     },
     {
       "term": "cosmic ray",
-      "score": 38
+      "score": 43
     },
     {
       "term": "astrophysics",
-      "score": 35
-    },
-    {
-      "term": "statistics",
-      "score": 35
+      "score": 38
     },
     {
       "term": "geology",
-      "score": 32
+      "score": 36
     },
     {
       "term": "nuclear physics",
-      "score": 32
+      "score": 36
+    },
+    {
+      "term": "statistics",
+      "score": 31
     },
     {
       "term": "cosmic",
-      "score": 27
-    },
-    {
-      "term": "mathematical analysis",
-      "score": 27
+      "score": 29
     },
     {
       "term": "muon",
-      "score": 27
+      "score": 29
     },
     {
       "term": "astronomy",
-      "score": 24
+      "score": 26
     },
     {
-      "term": "solar",
-      "score": 22
+      "term": "mathematical analysis",
+      "score": 26
     },
     {
       "term": "environmental science",
-      "score": 22
-    },
-    {
-      "term": "machine",
-      "score": 22
-    },
-    {
-      "term": "artificial intelligence",
-      "score": 22
-    },
-    {
-      "term": "learning",
-      "score": 22
-    },
-    {
-      "term": "statistical physics",
-      "score": 22
-    },
-    {
-      "term": "colombia",
-      "score": 19
+      "score": 24
     },
     {
       "term": "forbush",
+      "score": 21
+    },
+    {
+      "term": "solar",
+      "score": 21
+    },
+    {
+      "term": "statistical physics",
+      "score": 21
+    },
+    {
+      "term": "fractal",
       "score": 19
     },
     {
       "term": "meteorology",
+      "score": 19
+    },
+    {
+      "term": "machine",
+      "score": 19
+    },
+    {
+      "term": "learning",
+      "score": 19
+    },
+    {
+      "term": "artificial intelligence",
+      "score": 19
+    },
+    {
+      "term": "optics",
       "score": 19
     },
     {
@@ -143,10 +147,6 @@
     {
       "term": "telescope",
       "score": 19
-    },
-    {
-      "term": "storm",
-      "score": 16
     }
   ],
   "sdgs": [
@@ -154,30 +154,30 @@
       "id": 13,
       "name": "Climate Action",
       "score": 100,
-      "hits": 24
+      "hits": 30
     },
     {
       "id": 7,
       "name": "Affordable and Clean Energy",
-      "score": 42,
-      "hits": 10
+      "score": 40,
+      "hits": 12
     },
     {
       "id": 11,
       "name": "Sustainable Cities and Communities",
-      "score": 17,
+      "score": 13,
       "hits": 4
     },
     {
       "id": 4,
       "name": "Quality Education",
-      "score": 8,
-      "hits": 2
+      "score": 3,
+      "hits": 1
     },
     {
       "id": 1,
       "name": "No Poverty",
-      "score": 4,
+      "score": 3,
       "hits": 1
     }
   ],
@@ -249,6 +249,22 @@
       "type": "Other"
     },
     {
+      "title": "Onset-centered complexity signatures of GOES flare class in Konus-WIND G1–G3 time series",
+      "year": 2026,
+      "journal": "Advances in Space Research",
+      "doi": "10.1016/j.asr.2026.07.121",
+      "cited_by": 0,
+      "keywords": [
+        "Series (stratigraphy)",
+        "Flare",
+        "Class (philosophy)",
+        "Solar flare",
+        "Signature (topology)"
+      ],
+      "abstract": "Contiene gráficos",
+      "type": "Journal Article"
+    },
+    {
       "title": "A Data-Driven Beacon of Hope",
       "year": 2026,
       "journal": "Ecology Economy and Society–the INSEE Journal",
@@ -292,23 +308,6 @@
       "type": "Preprint"
     },
     {
-      "title": "RACiMo: Red Ambiental Ciudadana de Monitoreo: A Student-Centred Citizen Science Network for Environmental Monitoring, Data Literacy, and Climate Awareness in Colombia",
-      "year": 2026,
-      "journal": "arXiv (Cornell University)",
-      "doi": "",
-      "cited_by": 0,
-      "keywords": [
-        "Citizen science",
-        "Adaptation (eye)",
-        "Climate change",
-        "Environmental monitoring",
-        "Climate change adaptation",
-        "Environmental data"
-      ],
-      "abstract": "This paper traces the evolution of Red Ambiental Ciudadana de Monitoreo (RACiMo), a citizen-science and environmental-education initiative developed by Universidad Industrial de Santander in Colombia. RACiMo has evolved through successive editions from a school-based open-hardware programme into a regional environmental monitoring network that integrates meteorological and air-quality data, open-d",
-      "type": "Preprint"
-    },
-    {
       "title": "Heliospheric regimes governing Forbush decreases revealed by multiscale analysis of cosmic rays",
       "year": 2026,
       "journal": "Acta Astronautica",
@@ -324,6 +323,23 @@
       ],
       "abstract": "",
       "type": "Journal Article"
+    },
+    {
+      "title": "Rigidity spectra and onset geometry of the two largest Forbush decreases of solar cycle 25 from visibility-graph curvature",
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "doi": "10.48550/arxiv.2607.13236",
+      "cited_by": 0,
+      "keywords": [
+        "Curvature",
+        "Amplitude",
+        "Autocorrelation",
+        "Cutoff",
+        "Rigidity (electromagnetism)",
+        "Spectral line"
+      ],
+      "abstract": "We apply a geometric network diagnostic -- the nodal Forman-Ricci (FR) curvature of natural visibility graphs (NVG) -- to the two largest Forbush decreases (FDs) of solar cycle 25: the Gannon storm of 2024 May 10-11 and the 2025 June 1 event. Using 30-min NMDB records from six NM64 stations spanning cutoff rigidities $R_c \\simeq 0$-$7\\,$GV, we show that nodal FR curvature exhibits a sharp, coheren",
+      "type": "Preprint"
     },
     {
       "title": "Morphological Fingerprints of Forbush Decreases and Their Relation to Geomagnetic Storm Severity",
@@ -411,6 +427,43 @@
       "type": "Journal Article"
     },
     {
+      "title": "Tourism resilience from networks: diversity and hierarchy",
+      "year": 2026,
+      "journal": "Repositorio UTB",
+      "doi": "10.1093/comnet/cnag021manuscripthasbeenaccep",
+      "cited_by": 0,
+      "keywords": [
+        "Tourism",
+        "Hierarchy",
+        "Resilience (materials science)",
+        "Diversity (politics)",
+        "Vulnerability (computing)",
+        "Work (physics)"
+      ],
+      "abstract": "Contiene gráficos",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Tourism resilience from networks: diversity and hierarchy",
+      "year": 2026,
+      "journal": "Journal of Complex Networks",
+      "doi": "10.1093/comnet/cnag021",
+      "cited_by": 1,
+      "keywords": [
+        "Resilience (materials science)",
+        "Hierarchy",
+        "Tourism",
+        "Diversification (marketing strategy)",
+        "Destinations",
+        "Entropy (arrow of time)",
+        "Diversity (politics)",
+        "Set (abstract data type)",
+        "Representativeness heuristic"
+      ],
+      "abstract": "Abstract We propose an interpretable, network-based measure of tourism resilience that maps destinations on a two-dimensional plane combining pre-shock market diversity and shock-period hierarchisation. Using monthly inbound international arrivals of non-resident foreigners to Colombian cities, we compute (i) pre-shock Shannon entropy of origins (2018–2019) and (ii) the maximum absolute residual f",
+      "type": "Journal Article"
+    },
+    {
       "title": "A Nonlinear, Robust Station–Season Index for Quantifying Fine–Coarse Mixture Regimes in Particulate Matter",
       "year": 2026,
       "journal": "CLEAN - Soil Air Water",
@@ -470,6 +523,25 @@
       "type": "Journal Article"
     },
     {
+      "title": "Morphological Fingerprints of Forbush Decreases and Their Relation to Geomagnetic Storm Severity",
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "doi": "10.48550/arxiv.2602.16128",
+      "cited_by": 0,
+      "keywords": [
+        "Event (particle physics)",
+        "Sensitivity (control systems)",
+        "Univariate",
+        "Pattern recognition (psychology)",
+        "Earth's magnetic field",
+        "Set (abstract data type)",
+        "Storm",
+        "Binary number"
+      ],
+      "abstract": "Forbush decreases (FDs) are transient depressions in the galactic cosmic-ray flux observed by global neutron-monitor networks and are commonly associated with interplanetary disturbances driven by coronal mass ejections and related shocks. Despite extensive observational work, quantitatively comparing FD morphology across events and linking it to storm severity remains challenging due to heterogen",
+      "type": "Preprint"
+    },
+    {
       "title": "Derivative-Aligned Anticipation of Forbush Decreases from Entropy and Fractal Markers",
       "year": 2026,
       "journal": "The Open Journal of Astrophysics",
@@ -525,26 +597,6 @@
         "Distribution (mathematics)"
       ],
       "abstract": "In this article, we examine how income distribution and energy use shaped per-capita CO2 emissions between 1965 and 2022 at three spatial scales—world, northern hemisphere, and southern hemisphere. After re-scaling all the variables to the unit interval, we first estimate separate ordinary least squares regressions and then re-estimate the three equations jointly with Zellner’s seemingly unrelated",
-      "type": "Journal Article"
-    },
-    {
-      "title": "Tourism resilience from networks: diversity and hierarchy",
-      "year": 2026,
-      "journal": "Journal of Complex Networks",
-      "doi": "10.1093/comnet/cnag021",
-      "cited_by": 1,
-      "keywords": [
-        "Resilience (materials science)",
-        "Hierarchy",
-        "Tourism",
-        "Diversification (marketing strategy)",
-        "Destinations",
-        "Entropy (arrow of time)",
-        "Diversity (politics)",
-        "Set (abstract data type)",
-        "Representativeness heuristic"
-      ],
-      "abstract": "Abstract We propose an interpretable, network-based measure of tourism resilience that maps destinations on a two-dimensional plane combining pre-shock market diversity and shock-period hierarchisation. Using monthly inbound international arrivals of non-resident foreigners to Colombian cities, we compute (i) pre-shock Shannon entropy of origins (2018–2019) and (ii) the maximum absolute residual f",
       "type": "Journal Article"
     },
     {
@@ -655,7 +707,7 @@
       "year": 2025,
       "journal": "Journal of Atmospheric and Solar-Terrestrial Physics",
       "doi": "10.1016/j.jastp.2025.106418",
-      "cited_by": 0,
+      "cited_by": 1,
       "keywords": [
         "Term (time)",
         "Curvature",
@@ -707,7 +759,7 @@
       "year": 2024,
       "journal": "Sustainable Cities and Society",
       "doi": "10.1016/j.scs.2024.106076",
-      "cited_by": 31,
+      "cited_by": 32,
       "keywords": [
         "Sustainability",
         "Index (typography)",
@@ -908,7 +960,7 @@
       "year": 2024,
       "journal": "Discover Water",
       "doi": "10.1007/s43832-024-00068-y",
-      "cited_by": 21,
+      "cited_by": 22,
       "keywords": [
         "Index (typography)",
         "Missing data",
@@ -932,7 +984,7 @@
       "year": 2024,
       "journal": "Chaos An Interdisciplinary Journal of Nonlinear Science",
       "doi": "10.1063/5.0167156",
-      "cited_by": 6,
+      "cited_by": 7,
       "keywords": [
         "Rigidity (electromagnetism)",
         "Cosmic ray",
@@ -999,6 +1051,20 @@
       "type": "Other"
     },
     {
+      "title": "AS DS",
+      "year": 2023,
+      "journal": "Repositorio UTB",
+      "doi": "",
+      "cited_by": 0,
+      "keywords": [
+        "Context (archaeology)",
+        "Work (physics)",
+        "Product (mathematics)"
+      ],
+      "abstract": "El valor de los datos y de los profesionales con experiencia en datos esta creciendo exponencialmente. Los expertos prevén que el mercado mundial de big data crecerá hasta los 103.000 millones de dólares en 2027, duplicando con creces las estimaciones realizadas en 2018. Ese crecimiento expansivo seguirá aumentando la demanda de profesionales capacitados que puedan hacer un uso significativo de en",
+      "type": "Other"
+    },
+    {
       "title": "SunspotCalc: Una aplicación basada en Web y Python para calcular la rotación diferencial del sol y su fotosfera",
       "year": 2023,
       "journal": "Revista Mexicana de Física E",
@@ -1020,7 +1086,7 @@
       "year": 2023,
       "journal": "The Astronomical Journal",
       "doi": "10.3847/1538-3881/accff8",
-      "cited_by": 259,
+      "cited_by": 262,
       "keywords": [
         "Physics",
         "Dark energy",
@@ -1093,7 +1159,7 @@
       "year": 2023,
       "journal": "The Astrophysical Journal",
       "doi": "10.3847/1538-4357/aca5fa",
-      "cited_by": 79,
+      "cited_by": 82,
       "keywords": [
         "Physics",
         "Redshift",
@@ -1192,11 +1258,40 @@
       "type": "Journal Article"
     },
     {
+      "title": "On the fractal properties of Cosmic Rays and Sun Dynamics Cross-Correlations",
+      "year": 2022,
+      "journal": "Research Square",
+      "doi": "10.21203/rs.3.rs-1984245/v1",
+      "cited_by": 0,
+      "keywords": [
+        "Multifractal system",
+        "Physics",
+        "Cosmic ray",
+        "Interplanetary spaceflight",
+        "Astrophysics",
+        "Interplanetary magnetic field",
+        "Forbush decrease",
+        "Detrended fluctuation analysis",
+        "Sunspot",
+        "Fractal",
+        "Scaling",
+        "Magnetic field",
+        "Nuclear physics",
+        "Solar wind",
+        "Plasma",
+        "Mathematics",
+        "Coronal mass ejection",
+        "Geometry"
+      ],
+      "abstract": "Abstract We investigate the cosmic rays and ten physical parameters of heliosphere behavior considering the scaling features of their temporal evolution. Our analysis start with the cosmic rays measurements by a neutron monitor station located in Moscow, as well sunspot, Ap index, Na/Np, Alfven mach number, DST index, Kp index, Plasma beta β, Proton temperature, F10.7 index and Field magnitude B (",
+      "type": "Preprint"
+    },
+    {
       "title": "DESI Bright Galaxy Survey: Final Target Selection, Design, and Validation",
       "year": 2022,
       "journal": "arXiv (Cornell University)",
       "doi": "10.48550/arxiv.2208.08512",
-      "cited_by": 20,
+      "cited_by": 19,
       "keywords": [
         "Galaxy",
         "Selection (genetic algorithm)",
@@ -1247,6 +1342,71 @@
       ],
       "abstract": "We present the Colombo-Argentinian Muography Program for studying inland Latin American volcanoes. It describes the implementation of a simulation framework covering various factors with different spatial and time scales: the geomagnetic effects at a particular geographic point, the development of extensive air showers in the atmosphere, the propagation through the scanned structure, and the detec",
       "type": "Journal Article"
+    },
+    {
+      "title": "Muography in Colombia: simulation framework, instrumentation and data analysis",
+      "year": 2022,
+      "journal": "arXiv (Cornell University)",
+      "doi": "10.48550/arxiv.2201.11160",
+      "cited_by": 1,
+      "keywords": [
+        "Hodoscope",
+        "Detector",
+        "Physics",
+        "Muon",
+        "Instrumentation (computer programming)",
+        "Remote sensing",
+        "Computer science",
+        "Optics",
+        "Particle physics",
+        "Geology"
+      ],
+      "abstract": "We present the Colombo-Argentinian Muography Program for studying inland Latin-American volcanoes. It describes the implementation of a simulation framework covering various factors with different spatial and time scales: the geomagnetic effects at a particular geographic point, the development of extensive air showers in the atmosphere, the propagation through the scanned structure and the detect",
+      "type": "Preprint"
+    },
+    {
+      "title": "Linking Cosmic Ray Intensities to Cutoff Rigidity Through Multifractal Detrented Fluctuation Analysis",
+      "year": 2022,
+      "journal": "SSRN Electronic Journal",
+      "doi": "10.2139/ssrn.4143311",
+      "cited_by": 2,
+      "keywords": [
+        "Cutoff",
+        "Rigidity (electromagnetism)",
+        "Multifractal system",
+        "Cosmic ray",
+        "Astrophysics",
+        "COSMIC cancer database",
+        "Physics",
+        "Astronomy",
+        "Statistical physics",
+        "Mathematics",
+        "Quantum mechanics",
+        "Fractal",
+        "Mathematical analysis"
+      ],
+      "abstract": "",
+      "type": "Preprint"
+    },
+    {
+      "title": "A Empirical Relation between Pm10 , Pm2.5 Pollution Concentration and Urban Tree Density in Urban Areas",
+      "year": 2022,
+      "journal": "SSRN Electronic Journal",
+      "doi": "10.2139/ssrn.4057197",
+      "cited_by": 0,
+      "keywords": [
+        "Environmental science",
+        "Relation (database)",
+        "Pollution",
+        "Geography",
+        "Air pollution",
+        "Computer science",
+        "Chemistry",
+        "Data mining",
+        "Ecology"
+      ],
+      "abstract": "",
+      "type": "Preprint"
     },
     {
       "title": "A Empirical Relation between PM10 , PM2.5 Pollution Concentration and Urban Tree Density in Urban Areas",
@@ -1383,6 +1543,25 @@
       "type": "Journal Article"
     },
     {
+      "title": "Design and construction of MuTe: a hybrid Muon Telescope to study Colombian volcanoes",
+      "year": 2020,
+      "journal": "Journal of Instrumentation",
+      "doi": "10.1088/1748-0221/15/09/p09006",
+      "cited_by": 18,
+      "keywords": [
+        "Cherenkov radiation",
+        "Detector",
+        "Scintillation",
+        "Robustness (evolution)",
+        "Tracking (education)",
+        "Muon",
+        "Telescope",
+        "Noise (video)"
+      ],
+      "abstract": "Design and construction of MuTe: a hybrid Muon Telescope to study Colombian volcanoes, Peña-Rodríguez, J., Pisco-Guabave, J., Sierra-Porta, D., Suárez-Durán, M., Arenas-Flórez, M., Pérez-Archila, L.M., Sanabria-Gómez, J.D., Asorey, H., Núñez, L.A.",
+      "type": "Journal Article"
+    },
+    {
       "title": "Hydrogeochemical Evaluation of Water Quality Suitable for Human Consumption and Comparative Interpretation for Water Quality Index Studies",
       "year": 2020,
       "journal": "Environmental Processes",
@@ -1434,25 +1613,6 @@
       ],
       "abstract": "Data analyzed in this model was obtained from the experiment of a master's degree work concern of use of digital technologies for the development of algebraic thinking. The tests is carried out with two groups of 8th grade in an educational institution program of the Atlántico Department - Colombia.",
       "type": "Other"
-    },
-    {
-      "title": "Design and construction of MuTe: a hybrid Muon Telescope to study Colombian volcanoes",
-      "year": 2020,
-      "journal": "Journal of Instrumentation",
-      "doi": "10.1088/1748-0221/15/09/p09006",
-      "cited_by": 18,
-      "keywords": [
-        "Cherenkov radiation",
-        "Detector",
-        "Scintillation",
-        "Robustness (evolution)",
-        "Tracking (education)",
-        "Muon",
-        "Telescope",
-        "Noise (video)"
-      ],
-      "abstract": "Design and construction of MuTe: a hybrid Muon Telescope to study Colombian volcanoes, Peña-Rodríguez, J., Pisco-Guabave, J., Sierra-Porta, D., Suárez-Durán, M., Arenas-Flórez, M., Pérez-Archila, L.M., Sanabria-Gómez, J.D., Asorey, H., Núñez, L.A.",
-      "type": "Journal Article"
     },
     {
       "title": "Calibration and first measurements of MuTe: a hybrid Muon Telescope for geological structures",
@@ -1549,6 +1709,38 @@
       ],
       "abstract": "In this work, we describe the calibration and first measurements in the commissioning of MuTe, a hybrid Muon Telescope with two subdetectors --a scintillator hodoscope and a Water Cherenkov Detector (WCD)-- for imaging the inner structures of Colombian volcanoes. The hodoscope estimates the trajectories of particles impinging on the front and rear panel, while the WCD acts as a calorimeter for the",
       "type": "Other"
+    },
+    {
+      "title": "Hardware-level calibration of the Chitaga Water Cherenkov Detector in the GUANE array for space weather study",
+      "year": 2018,
+      "journal": "Scientia et technica",
+      "doi": "10.22517/23447214.17511",
+      "cited_by": 8,
+      "keywords": [
+        "Cherenkov radiation",
+        "Space weather",
+        "Cosmic ray",
+        "Dynode",
+        "Detector",
+        "Calibration",
+        "Physics",
+        "Flux (metallurgy)",
+        "Environmental science",
+        "Meteorology",
+        "Space research",
+        "Remote sensing",
+        "Nuclear physics",
+        "Neutron",
+        "Nuclear engineering",
+        "Photomultiplier",
+        "Optics",
+        "Astronomy",
+        "Engineering",
+        "Geology",
+        "Materials science"
+      ],
+      "abstract": "Water Cherenkov Detectors (WCDs) play an essential role in space weather and cosmic rays studies around the world. In this article, we present a general methodology to calibrate a WCD based finding its optimum operation point and counting the delay time of the transmission cables. The dynode charge histogram of the WCD and CORSIKA simulations validate this methodology. Finally, to illustrate the c",
+      "type": "Journal Article"
     },
     {
       "title": "Astroparticle projects at the Eastern Colombia region: facilities and instrumentation",
@@ -1696,6 +1888,27 @@
         "Seismology"
       ],
       "abstract": "By using a very detailed simulation scheme, we have calculated the cosmic ray background flux at 13 active Colombian volcanoes and developed a methodology to identify the most convenient places for a muon telescope to study their inner structure. \r\nOur simulation scheme considers three critical factors with different spatial and time scales: the geomagnetic effects, the development of extensive ai",
+      "type": "Preprint"
+    },
+    {
+      "title": "Muon Tomography sites for Colombian volcanoes",
+      "year": 2017,
+      "journal": "arXiv (Cornell University)",
+      "doi": "10.48550/arxiv.1705.09884",
+      "cited_by": 4,
+      "keywords": [
+        "Muon",
+        "Physics",
+        "Volcano",
+        "Flux (metallurgy)",
+        "Telescope",
+        "Cosmic ray",
+        "Nuclear physics",
+        "Geology",
+        "Astrophysics",
+        "Seismology"
+      ],
+      "abstract": "By using a very detailed simulation scheme, we have calculated the cosmic ray background flux at 13 active Colombian volcanoes and developed a methodology to identify the most convenient places for a muon telescope to study their inner structure. Our simulation scheme considers three critical factors with different spatial and time scales: the geomagnetic effects, the development of extensive air ",
       "type": "Preprint"
     },
     {
