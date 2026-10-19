@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-12",
+  "generated_at": "2026-10-19",
   "author": {
     "name": "David Sierra-Porta",
     "scopus_id": "57191333650",
     "orcid": "0000-0003-3461-1347",
     "scopus_url": "https://www.scopus.com/authid/detail.uri?authorId=57191333650",
     "orcid_url": "https://orcid.org/0000-0003-3461-1347",
-    "h_index": 13,
-    "citation_count": 673,
+    "h_index": 12,
+    "citation_count": 664,
     "document_count": 84,
     "affiliation": "Universidad Tecnológica de Bolívar"
   },
@@ -38,13 +38,13 @@
     "2015": 4,
     "2016": 1,
     "2017": 12,
-    "2018": 32,
+    "2018": 35,
     "2019": 13,
-    "2020": 46,
+    "2020": 52,
     "2021": 28,
     "2022": 52,
-    "2023": 368,
-    "2024": 103,
+    "2023": 369,
+    "2024": 104,
     "2025": 13,
     "2026": 1
   },
@@ -86,11 +86,11 @@
       "score": 62
     },
     {
-      "term": "machine",
+      "term": "learning",
       "score": 62
     },
     {
-      "term": "learning",
+      "term": "machine",
       "score": 62
     },
     {
@@ -738,7 +738,7 @@
       "year": 2024,
       "journal": "Sustainable Cities and Society",
       "doi": "10.1016/j.scs.2024.106076",
-      "cited_by": 34,
+      "cited_by": 35,
       "keywords": [
         "urban mobility",
         "urban network structure",
@@ -1012,7 +1012,7 @@
       "year": 2023,
       "journal": "The Astronomical Journal",
       "doi": "10.3847/1538-3881/accff8",
-      "cited_by": 258,
+      "cited_by": 259,
       "keywords": [
         "DESI",
         "survey design",
@@ -1411,7 +1411,7 @@
       "year": 2020,
       "journal": "Journal of Instrumentation",
       "doi": "10.1088/1748-0221/15/09/p09006",
-      "cited_by": 18,
+      "cited_by": 24,
       "keywords": [
         "muon detection",
         "volcano monitoring",
@@ -1551,7 +1551,7 @@
       "year": 2018,
       "journal": "Astrophysics and Space Science",
       "doi": "10.1007/s10509-018-3360-8",
-      "cited_by": 15,
+      "cited_by": 18,
       "keywords": [
         "cosmic ray intensity",
         "solar activity",
