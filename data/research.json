@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19",
+  "generated_at": "2026-10-26",
   "author": {
     "name": "David Sierra-Porta",
     "scopus_id": "57191333650",
@@ -7,7 +7,7 @@
     "scopus_url": "https://www.scopus.com/authid/detail.uri?authorId=57191333650",
     "orcid_url": "https://orcid.org/0000-0003-3461-1347",
     "h_index": 12,
-    "citation_count": 664,
+    "citation_count": 665,
     "document_count": 84,
     "affiliation": "Universidad Tecnológica de Bolívar"
   },
@@ -44,7 +44,7 @@
     "2021": 28,
     "2022": 52,
     "2023": 369,
-    "2024": 104,
+    "2024": 105,
     "2025": 13,
     "2026": 1
   },
@@ -86,11 +86,11 @@
       "score": 62
     },
     {
-      "term": "learning",
+      "term": "machine",
       "score": 62
     },
     {
-      "term": "machine",
+      "term": "learning",
       "score": 62
     },
     {
@@ -306,7 +306,7 @@
         "multiscale analysis",
         "cosmic ray modulation"
       ],
-      "abstract": "We investigate the dynamical structure of galactic cosmic ray intensity using multiscale analysis applied to daily records from 16 neutron monitor stations over 2010–2025. The objective is to determine whether large Forbush decreases are associated with identifiable statistical states of heliospheric modulation. We identify a statistically distinct heliospheric regime—characterised by elevated lon",
+      "abstract": "",
       "type": "Journal Article"
     },
     {
@@ -894,7 +894,7 @@
       "year": 2024,
       "journal": "Discover Water",
       "doi": "10.1007/s43832-024-00068-y",
-      "cited_by": 22,
+      "cited_by": 23,
       "keywords": [
         "water quality index",
         "missing data imputation",
