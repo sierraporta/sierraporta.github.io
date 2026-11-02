@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-26",
+  "generated_at": "2026-11-02",
   "author": {
     "name": "David Sierra-Porta",
     "scopus_id": "57191333650",
     "orcid": "0000-0003-3461-1347",
     "scopus_url": "https://www.scopus.com/authid/detail.uri?authorId=57191333650",
     "orcid_url": "https://orcid.org/0000-0003-3461-1347",
-    "h_index": 12,
-    "citation_count": 665,
-    "document_count": 84,
+    "h_index": 11,
+    "citation_count": 677,
+    "document_count": 81,
     "affiliation": "Universidad Tecnológica de Bolívar"
   },
   "publications_by_year": {
@@ -25,10 +25,10 @@
     "2016": 1,
     "2017": 6,
     "2018": 4,
-    "2019": 3,
+    "2019": 2,
     "2020": 4,
     "2021": 4,
-    "2022": 11,
+    "2022": 9,
     "2023": 7,
     "2024": 12,
     "2025": 7,
@@ -38,15 +38,15 @@
     "2015": 4,
     "2016": 1,
     "2017": 12,
-    "2018": 35,
-    "2019": 13,
+    "2018": 34,
+    "2019": 12,
     "2020": 52,
     "2021": 28,
-    "2022": 52,
-    "2023": 369,
+    "2022": 35,
+    "2023": 398,
     "2024": 105,
     "2025": 13,
-    "2026": 1
+    "2026": 2
   },
   "fingerprint": [
     {
@@ -62,15 +62,11 @@
       "score": 77
     },
     {
-      "term": "muography",
-      "score": 77
-    },
-    {
       "term": "solar cycle",
       "score": 69
     },
     {
-      "term": "extensive air showers",
+      "term": "muography",
       "score": 69
     },
     {
@@ -94,7 +90,7 @@
       "score": 62
     },
     {
-      "term": "muon",
+      "term": "extensive air showers",
       "score": 62
     },
     {
@@ -122,6 +118,10 @@
       "score": 54
     },
     {
+      "term": "muon",
+      "score": 54
+    },
+    {
       "term": "geomagnetic storms",
       "score": 46
     },
@@ -138,11 +138,11 @@
       "score": 46
     },
     {
-      "term": "water cherenkov detector",
-      "score": 46
+      "term": "multifractal detrended fluctuation analysis",
+      "score": 38
     },
     {
-      "term": "multifractal detrended fluctuation analysis",
+      "term": "series",
       "score": 38
     }
   ],
@@ -189,7 +189,7 @@
         "multifractal detrended fluctuation analysis",
         "multifractality"
       ],
-      "abstract": "",
+      "abstract": "Multifractal detrended fluctuation analysis (MFDFA) hard-wires the variance as the local measure of fluctuation of the detrending residuals, a choice inherited from second-order Gaussian time series analysis rather than imposed by the scaling theory. Here the variance is replaced by a general dispersion functional Φ , which produces a family of algorithms, functional DFA (FDFA), with a two-layer s",
       "type": "Journal Article"
     },
     {
@@ -310,7 +310,7 @@
       "type": "Journal Article"
     },
     {
-      "title": "Rigidity spectra and onset geometry of the two largest Forbush decreases of solar cycle 25 from visibility-graph curvature",
+      "title": "What visibility-graph curvature measures in Forbush decreases: a calibration on the two largest events of solar cycle 25",
       "year": 2026,
       "journal": "arXiv (Cornell University)",
       "doi": "10.48550/arxiv.2607.13236",
@@ -325,7 +325,7 @@
         "spectral index",
         "horizontal visibility graph"
       ],
-      "abstract": "We apply a geometric network diagnostic -- the nodal Forman-Ricci (FR) curvature of natural visibility graphs (NVG) -- to the two largest Forbush decreases (FDs) of solar cycle 25: the Gannon storm of 2024 May 10-11 and the 2025 June 1 event. Using 30-min NMDB records from six NM64 stations spanning cutoff rigidities $R_c \\simeq 0$-$7\\,$GV, we show that nodal FR curvature exhibits a sharp, coheren",
+      "abstract": "Discrete curvatures of visibility graphs are increasingly used as descriptors of geophysical time series, but their response to a transient has rarely been calibrated against the simplest properties of that transient. We carry out this calibration for the nodal Forman--Ricci curvature $\\mathcal{F}$ of natural visibility graphs applied to neutron-monitor records of the Gannon storm (2024 May 10--11",
       "type": "Preprint"
     },
     {
@@ -379,7 +379,7 @@
         "solar energetic particles",
         "geomagnetic storms"
       ],
-      "abstract": "No description provided.",
+      "abstract": "",
       "type": "Other"
     },
     {
@@ -505,7 +505,7 @@
       "year": 2026,
       "journal": "The Open Journal of Astrophysics",
       "doi": "10.33232/001c.157585",
-      "cited_by": 0,
+      "cited_by": 1,
       "keywords": [
         "Forbush decreases",
         "solar energetic particle events",
@@ -832,7 +832,7 @@
     {
       "title": "LUMA: Empowering Solar Research Through Open-Source Web Observatories and Image Analysis Tools",
       "year": 2024,
-      "journal": "",
+      "journal": "National Meeting on Optics and Andean and Caribbean Conference on Optics and its Applications (ENO-CANCOA)",
       "doi": "10.1109/eno-cancoa61307.2024.10751134",
       "cited_by": 1,
       "keywords": [
@@ -851,7 +851,7 @@
     {
       "title": "Toward Solar Activity Understanding: Multifaceted Insights from SOHO Solar Images and Spectral Analysis for Machine Learning Applications",
       "year": 2024,
-      "journal": "",
+      "journal": "National Meeting on Optics and Andean and Caribbean Conference on Optics and its Applications (ENO-CANCOA)",
       "doi": "10.1109/eno-cancoa61307.2024.10751088",
       "cited_by": 0,
       "keywords": [
@@ -1012,7 +1012,7 @@
       "year": 2023,
       "journal": "The Astronomical Journal",
       "doi": "10.3847/1538-3881/accff8",
-      "cited_by": 259,
+      "cited_by": 282,
       "keywords": [
         "DESI",
         "survey design",
@@ -1070,7 +1070,7 @@
       "year": 2023,
       "journal": "The Astrophysical Journal",
       "doi": "10.3847/1538-4357/aca5fa",
-      "cited_by": 85,
+      "cited_by": 91,
       "keywords": [
         "DESI survey",
         "luminous red galaxies",
@@ -1187,42 +1187,6 @@
         "neutron monitor"
       ],
       "abstract": "Abstract We investigate the cosmic rays and ten physical parameters of heliosphere behavior considering the scaling features of their temporal evolution. Our analysis start with the cosmic rays measurements by a neutron monitor station located in Moscow, as well sunspot, Ap index, Na/Np, Alfven mach number, DST index, Kp index, Plasma beta β, Proton temperature, F10.7 index and Field magnitude B (",
-      "type": "Preprint"
-    },
-    {
-      "title": "DESI Bright Galaxy Survey: Final Target Selection, Design, and Validation",
-      "year": 2022,
-      "journal": "arXiv (Cornell University)",
-      "doi": "10.48550/arxiv.2208.08512",
-      "cited_by": 17,
-      "keywords": [
-        "DESI",
-        "survey design",
-        "stellar contamination",
-        "legacy survey",
-        "quasar sample",
-        "baryon acoustic oscillations",
-        "redshift-space distortions"
-      ],
-      "abstract": "Over the next five years, the Dark Energy Spectroscopic Instrument (DESI) will use 10 spectrographs with 5000 fibers on the 4m Mayall Telescope at Kitt Peak National Observatory to conduct the first Stage-IV dark energy galaxy survey. At $z < 0.6$, the DESI Bright Galaxy Survey (BGS) will produce the most detailed map of the Universe during the dark energy dominated epoch with redshifts of >10 mil",
-      "type": "Preprint"
-    },
-    {
-      "title": "The DESI Survey Validation: Results from Visual Inspection of Bright Galaxies, Luminous Red Galaxies, and Emission Line Galaxies",
-      "year": 2022,
-      "journal": "arXiv (Cornell University)",
-      "doi": "10.3847/1538-4357/aca5fa",
-      "cited_by": 0,
-      "keywords": [
-        "DESI survey",
-        "luminous red galaxies",
-        "emission-line galaxies",
-        "bright galaxies",
-        "target selection",
-        "redshift accuracy",
-        "Lyman-alpha emitters"
-      ],
-      "abstract": "The Dark Energy Spectroscopic Instrument (DESI) Survey has obtained a set of spectroscopic measurements of galaxies to validate the final survey design and target selections. To assist in these tasks, we visually inspect (VI) DESI spectra of approximately 2,500 bright galaxies, 3,500 luminous red galaxies (LRGs), and 10,000 emission line galaxies (ELGs), to obtain robust redshift identifications. ",
       "type": "Preprint"
     },
     {
@@ -1456,24 +1420,6 @@
       "type": "Other"
     },
     {
-      "title": "Calibration and first measurements of MuTe: a hybrid Muon Telescope for geological structures",
-      "year": 2019,
-      "journal": "arXiv (Cornell University)",
-      "doi": "10.48550/arxiv.1909.09732",
-      "cited_by": 1,
-      "keywords": [
-        "MUTE",
-        "muography",
-        "scintillator hodoscope",
-        "water Cherenkov detector",
-        "particle identification",
-        "time-of-flight",
-        "extensive air showers"
-      ],
-      "abstract": "In this work, we describe the calibration and first measurements in the commissioning of MuTe, a hybrid Muon Telescope with two subdetectors --a scintillator hodoscope and a Water Cherenkov Detector (WCD)-- for imaging the inner structures of Colombian volcanoes. The hodoscope estimates the trajectories of particles impinging on the front and rear panel, while the WCD acts as a calorimeter for the",
-      "type": "Preprint"
-    },
-    {
       "title": "Analytic Approximations to Liénard Nonlinear Oscillators with Modified Energy Balance Method",
       "year": 2019,
       "journal": "Journal of Vibration Engineering & Technologies",
@@ -1551,7 +1497,7 @@
       "year": 2018,
       "journal": "Astrophysics and Space Science",
       "doi": "10.1007/s10509-018-3360-8",
-      "cited_by": 18,
+      "cited_by": 17,
       "keywords": [
         "cosmic ray intensity",
         "solar activity",
