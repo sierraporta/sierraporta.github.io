@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02",
+  "generated_at": "2026-11-09",
   "author": {
     "name": "David Sierra-Porta",
     "scopus_id": "57191333650",
@@ -7,8 +7,8 @@
     "scopus_url": "https://www.scopus.com/authid/detail.uri?authorId=57191333650",
     "orcid_url": "https://orcid.org/0000-0003-3461-1347",
     "h_index": 11,
-    "citation_count": 677,
-    "document_count": 81,
+    "citation_count": 825,
+    "document_count": 73,
     "affiliation": "Universidad Tecnológica de Bolívar"
   },
   "publications_by_year": {
@@ -23,30 +23,30 @@
     "2014": 0,
     "2015": 1,
     "2016": 1,
-    "2017": 6,
+    "2017": 3,
     "2018": 4,
     "2019": 2,
     "2020": 4,
-    "2021": 4,
-    "2022": 9,
+    "2021": 3,
+    "2022": 6,
     "2023": 7,
     "2024": 12,
     "2025": 7,
-    "2026": 21
+    "2026": 20
   },
   "citation_trend": {
     "2015": 4,
     "2016": 1,
-    "2017": 12,
-    "2018": 34,
-    "2019": 12,
-    "2020": 52,
-    "2021": 28,
-    "2022": 35,
-    "2023": 398,
-    "2024": 105,
-    "2025": 13,
-    "2026": 2
+    "2017": 4,
+    "2018": 32,
+    "2019": 15,
+    "2020": 67,
+    "2021": 32,
+    "2022": 40,
+    "2023": 507,
+    "2024": 120,
+    "2025": 15,
+    "2026": 3
   },
   "fingerprint": [
     {
@@ -54,96 +54,96 @@
       "score": 100
     },
     {
-      "term": "solar activity",
-      "score": 92
+      "term": "solar",
+      "score": 91
     },
     {
-      "term": "solar",
-      "score": 77
+      "term": "solar activity",
+      "score": 91
     },
     {
       "term": "solar cycle",
-      "score": 69
-    },
-    {
-      "term": "muography",
-      "score": 69
-    },
-    {
-      "term": "ray",
-      "score": 62
-    },
-    {
-      "term": "forbush decreases",
-      "score": 62
-    },
-    {
-      "term": "cosmic ray intensity",
-      "score": 62
-    },
-    {
-      "term": "machine",
-      "score": 62
-    },
-    {
-      "term": "learning",
-      "score": 62
-    },
-    {
-      "term": "extensive air showers",
-      "score": 62
-    },
-    {
-      "term": "time",
-      "score": 54
-    },
-    {
-      "term": "colombia",
-      "score": 54
-    },
-    {
-      "term": "forbush",
-      "score": 54
-    },
-    {
-      "term": "space weather forecasting",
-      "score": 54
+      "score": 82
     },
     {
       "term": "space weather",
-      "score": 54
+      "score": 82
     },
     {
-      "term": "volcanoes",
-      "score": 54
+      "term": "forbush decreases",
+      "score": 73
     },
     {
-      "term": "muon",
-      "score": 54
+      "term": "time",
+      "score": 64
+    },
+    {
+      "term": "ray",
+      "score": 64
     },
     {
       "term": "geomagnetic storms",
-      "score": 46
+      "score": 64
     },
     {
-      "term": "cosmic rays",
-      "score": 46
+      "term": "forbush",
+      "score": 64
+    },
+    {
+      "term": "cosmic ray intensity",
+      "score": 64
+    },
+    {
+      "term": "machine",
+      "score": 64
+    },
+    {
+      "term": "learning",
+      "score": 64
+    },
+    {
+      "term": "interplanetary magnetic field",
+      "score": 55
+    },
+    {
+      "term": "space weather forecasting",
+      "score": 55
     },
     {
       "term": "index",
-      "score": 46
+      "score": 55
     },
     {
       "term": "urban",
-      "score": 46
+      "score": 55
     },
     {
-      "term": "multifractal detrended fluctuation analysis",
-      "score": 38
+      "term": "muography",
+      "score": 55
+    },
+    {
+      "term": "sunspot number",
+      "score": 45
     },
     {
       "term": "series",
-      "score": 38
+      "score": 45
+    },
+    {
+      "term": "network",
+      "score": 45
+    },
+    {
+      "term": "colombia",
+      "score": 45
+    },
+    {
+      "term": "neutron monitor data",
+      "score": 45
+    },
+    {
+      "term": "solar wind",
+      "score": 45
     }
   ],
   "sdgs": [
@@ -151,30 +151,30 @@
       "id": 13,
       "name": "Climate Action",
       "score": 100,
-      "hits": 32
+      "hits": 27
     },
     {
       "id": 7,
       "name": "Affordable and Clean Energy",
       "score": 41,
-      "hits": 13
+      "hits": 11
     },
     {
       "id": 4,
       "name": "Quality Education",
-      "score": 12,
+      "score": 15,
       "hits": 4
     },
     {
       "id": 11,
       "name": "Sustainable Cities and Communities",
-      "score": 12,
+      "score": 15,
       "hits": 4
     },
     {
       "id": 1,
       "name": "No Poverty",
-      "score": 3,
+      "score": 4,
       "hits": 1
     }
   ],
@@ -187,7 +187,12 @@
       "cited_by": 0,
       "keywords": [
         "multifractal detrended fluctuation analysis",
-        "multifractality"
+        "heavy-tailed noise",
+        "scaling exponents",
+        "self-similarity",
+        "sunspot number",
+        "interplanetary magnetic field",
+        "Dst index"
       ],
       "abstract": "Multifractal detrended fluctuation analysis (MFDFA) hard-wires the variance as the local measure of fluctuation of the detrending residuals, a choice inherited from second-order Gaussian time series analysis rather than imposed by the scaling theory. Here the variance is replaced by a general dispersion functional Φ , which produces a family of algorithms, functional DFA (FDFA), with a two-layer s",
       "type": "Journal Article"
@@ -236,9 +241,16 @@
       "cited_by": 0,
       "keywords": [
         "solar flares",
+        "flare classification",
+        "Konus-Wind",
+        "high-energy gamma-ray emission",
         "flare onset",
-        "gamma-ray emission",
-        "time series analysis"
+        "complexity measures",
+        "Higuchi fractal dimension",
+        "permutation entropy",
+        "statistical complexity",
+        "Lempel-Ziv complexity",
+        "flare light curves"
       ],
       "abstract": "The high-energy emission from solar flares demonstrates highly variable and often complex light curves, whose temporal structure may contain information beyond standard amplitude-based summaries. Using the Konus-WIND solar flare observations, we carried out an investigation into the statistical association between the onset-centered changes in geometric and complexity-based descriptors and GOES fl",
       "type": "Journal Article"
@@ -260,7 +272,10 @@
       "doi": "10.5281/zenodo.21398158",
       "cited_by": 0,
       "keywords": [
-        "functional data analysis"
+        "detrended fluctuation analysis",
+        "power means",
+        "median aggregation",
+        "fractal analysis"
       ],
       "abstract": "A two-layer generalization of DFA/MFDFA in which the local fluctuation measure (classically, the variance of the detrending residuals) is a pluggable dispersion functional Φ, and the aggregation across windows is a pluggable outer layer (power means or the median). Classical DFA is the member FDFA(RMS, A₂); classical MFDFA is the slice {FDFA(RMS, A_q)}",
       "type": "Other"
@@ -299,12 +314,14 @@
       "cited_by": 0,
       "keywords": [
         "Forbush decreases",
-        "cosmic rays",
-        "heliosphere",
-        "solar wind",
-        "solar activity",
-        "multiscale analysis",
-        "cosmic ray modulation"
+        "galactic cosmic ray intensity",
+        "solar modulation",
+        "long-range correlations",
+        "multifractal detrended fluctuation analysis",
+        "natural time analysis",
+        "solar cycle",
+        "solar minimum",
+        "neutron monitor stations"
       ],
       "abstract": "",
       "type": "Journal Article"
@@ -316,14 +333,13 @@
       "doi": "10.48550/arxiv.2607.13236",
       "cited_by": 0,
       "keywords": [
-        "Forbush decreases",
-        "solar cycle 25",
-        "Forman-Ricci curvature",
         "visibility graph",
-        "geomagnetic cutoff rigidity",
+        "Forman-Ricci curvature",
+        "Forbush decreases",
         "solar energetic particle events",
-        "spectral index",
-        "horizontal visibility graph"
+        "neutron monitor data",
+        "solar cycle 25",
+        "geomagnetic storms"
       ],
       "abstract": "Discrete curvatures of visibility graphs are increasingly used as descriptors of geophysical time series, but their response to a transient has rarely been calibrated against the simplest properties of that transient. We carry out this calibration for the nodal Forman--Ricci curvature $\\mathcal{F}$ of natural visibility graphs applied to neutron-monitor records of the Gannon storm (2024 May 10--11",
       "type": "Preprint"
@@ -377,7 +393,8 @@
       "keywords": [
         "Forbush decreases",
         "solar energetic particles",
-        "geomagnetic storms"
+        "geomagnetic storms",
+        "topological data analysis"
       ],
       "abstract": "",
       "type": "Other"
@@ -405,21 +422,6 @@
         "Erdős-Rényi random graphs"
       ],
       "abstract": "Abstract We introduce a discrete curvature measure for graphs based on the Cayley–Menger determinant, which we term Cayley–Menger curvature ($ \\symbf{\\kappa_{\\textbf{CM}}} $). For each node, we construct local tetrahedra from its nearest neighbors under the effective resistance metric, compute the Cayley–Menger determinant to embed them in Euclidean space, and extract the circumradius as a proxy f",
-      "type": "Journal Article"
-    },
-    {
-      "title": "Tourism resilience from networks: diversity and hierarchy",
-      "year": 2026,
-      "journal": "Repositorio UTB",
-      "doi": "10.1093/comnet/cnag021manuscripthasbeenaccep",
-      "cited_by": 0,
-      "keywords": [
-        "tourism resilience",
-        "tourism networks",
-        "network diversity",
-        "network hierarchy"
-      ],
-      "abstract": "Contiene gráficos",
       "type": "Journal Article"
     },
     {
@@ -505,7 +507,7 @@
       "year": 2026,
       "journal": "The Open Journal of Astrophysics",
       "doi": "10.33232/001c.157585",
-      "cited_by": 1,
+      "cited_by": 2,
       "keywords": [
         "Forbush decreases",
         "solar energetic particle events",
@@ -610,7 +612,7 @@
       "year": 2025,
       "journal": "Advances in Space Research",
       "doi": "10.1016/j.asr.2025.09.072",
-      "cited_by": 2,
+      "cited_by": 3,
       "keywords": [
         "solar cycle",
         "solar wind",
@@ -658,7 +660,7 @@
       "year": 2025,
       "journal": "PLoS ONE",
       "doi": "10.1371/journal.pone.0327716",
-      "cited_by": 5,
+      "cited_by": 6,
       "keywords": [
         "geomagnetic storms",
         "power system failures",
@@ -738,7 +740,7 @@
       "year": 2024,
       "journal": "Sustainable Cities and Society",
       "doi": "10.1016/j.scs.2024.106076",
-      "cited_by": 35,
+      "cited_by": 41,
       "keywords": [
         "urban mobility",
         "urban network structure",
@@ -765,8 +767,13 @@
       "keywords": [
         "cosmic ray intensity",
         "solar activity",
+        "Pearson correlation",
         "cross correlation function",
         "time delay",
+        "solar cycle",
+        "nonlinear correlation",
+        "dynamic time warping",
+        "space weather",
         "solar-terrestrial relations"
       ],
       "abstract": "This study revisits the cross-correlation between cosmic ray intensity (CRI) and solar activity (SA) by comparing traditional Pearson correlation with Chatterjee’s correlation coefficient. Traditional analyses using Pearson correlation are useful for identifying linear relationships and time lags. However, they may not fully capture more complex interactions in the data. Chatterjee’s correlation c",
@@ -777,13 +784,20 @@
       "year": 2024,
       "journal": "Advances in Space Research",
       "doi": "10.1016/j.asr.2024.08.031",
-      "cited_by": 14,
+      "cited_by": 18,
       "keywords": [
         "geomagnetic storms",
-        "solar cycle",
+        "geomagnetic storm prediction",
         "Dst index",
-        "space weather forecasting",
-        "machine learning models"
+        "interplanetary magnetic field",
+        "solar wind",
+        "proton temperature",
+        "solar wind speed",
+        "proton density",
+        "solar cycle",
+        "space weather",
+        "random forest",
+        "gradient boosting"
       ],
       "abstract": "This study aims to improve the understanding of geomagnetic storms by utilizing machine learning models and analyzing several heliophysical variables, such as the interplanetary magnetic field, proton density, solar wind speed, and proton temperature. Rather than relying on traditional correlation-based methods, we employ advanced machine learning techniques to examine the complex relationships be",
       "type": "Journal Article"
@@ -793,7 +807,7 @@
       "year": 2024,
       "journal": "International Journal of Remote Sensing",
       "doi": "10.1080/01431161.2024.2373338",
-      "cited_by": 6,
+      "cited_by": 7,
       "keywords": [
         "low-cost air quality sensors",
         "sensor calibration",
@@ -813,7 +827,7 @@
       "year": 2024,
       "journal": "Astronomy and Computing",
       "doi": "10.1016/j.ascom.2024.100857",
-      "cited_by": 3,
+      "cited_by": 4,
       "keywords": [
         "sunspot number prediction",
         "topological properties",
@@ -879,11 +893,11 @@
         "multifractal analysis",
         "detrended fluctuation analysis",
         "multifractal spectrum",
+        "Kp index",
         "coronal mass ejections",
         "solar wind",
         "space weather",
-        "Kp index",
-        "solar cycle",
+        "solar cycle variation",
         "cosmic ray modulation"
       ],
       "abstract": "The Forbush decrease phenomenon has significant impacts on several environmental conditions, including interference in radio communications, satellite navigation systems , and the health of astronauts in space, among others. It is characterized by a temporary and noticeable reduction in the observed flux of galactic cosmic rays recorded at the Earth’s surface. This decrease occurs due to the modul",
@@ -894,7 +908,7 @@
       "year": 2024,
       "journal": "Discover Water",
       "doi": "10.1007/s43832-024-00068-y",
-      "cited_by": 23,
+      "cited_by": 25,
       "keywords": [
         "water quality index",
         "missing data imputation",
@@ -916,7 +930,7 @@
       "year": 2024,
       "journal": "Chaos An Interdisciplinary Journal of Nonlinear Science",
       "doi": "10.1063/5.0167156",
-      "cited_by": 7,
+      "cited_by": 8,
       "keywords": [
         "cosmic ray intensity",
         "fractality",
@@ -955,7 +969,7 @@
       "year": 2023,
       "journal": "Data in Brief",
       "doi": "10.1016/j.dib.2023.109728",
-      "cited_by": 2,
+      "cited_by": 3,
       "keywords": [
         "solar activity",
         "solar images",
@@ -1012,7 +1026,7 @@
       "year": 2023,
       "journal": "The Astronomical Journal",
       "doi": "10.3847/1538-3881/accff8",
-      "cited_by": 282,
+      "cited_by": 362,
       "keywords": [
         "DESI",
         "survey design",
@@ -1031,7 +1045,7 @@
       "year": 2023,
       "journal": "CLEAN - Soil Air Water",
       "doi": "10.1002/clen.202200222",
-      "cited_by": 15,
+      "cited_by": 17,
       "keywords": [
         "PM10",
         "PM2.5",
@@ -1070,7 +1084,7 @@
       "year": 2023,
       "journal": "The Astrophysical Journal",
       "doi": "10.3847/1538-4357/aca5fa",
-      "cited_by": 91,
+      "cited_by": 117,
       "keywords": [
         "DESI survey",
         "luminous red galaxies",
@@ -1089,7 +1103,7 @@
       "year": 2022,
       "journal": "Astrophysics and Space Science",
       "doi": "10.1007/s10509-022-04151-5",
-      "cited_by": 17,
+      "cited_by": 18,
       "keywords": [
         "cosmic rays",
         "solar activity",
@@ -1113,7 +1127,7 @@
       "year": 2022,
       "journal": "The Astrophysical Journal",
       "doi": "10.3847/1538-4357/ac92ea",
-      "cited_by": 2,
+      "cited_by": 3,
       "keywords": [
         "Milky Way kinematics",
         "Local Group",
@@ -1128,30 +1142,11 @@
       "type": "Journal Article"
     },
     {
-      "title": "On the Convergence of the Milky Way and M31 Kinematics from Cosmological Simulations",
-      "year": 2022,
-      "journal": "arXiv (Cornell University)",
-      "doi": "10.48550/arxiv.2209.09369",
-      "cited_by": 0,
-      "keywords": [
-        "Local Group",
-        "Milky Way kinematics",
-        "Local Group mass",
-        "simulation box size",
-        "N-body simulations",
-        "tangential velocity",
-        "radial velocity",
-        "simulation convergence"
-      ],
-      "abstract": "The kinematics of the Milky Way (MW) and M31, the dominant galaxies in the Local Group (LG), can be used to estimate the LG total mass. New results on the M31 proper motion have recently been used to improve that estimate. Those results are based on kinematic priors that are sometimes guided and evaluated using cosmological N-body simulations. However, the kinematic properties of simulated LG anal",
-      "type": "Preprint"
-    },
-    {
       "title": "Linking cosmic ray intensities to cutoff rigidity through multifractal detrented fluctuation analysis",
       "year": 2022,
       "journal": "Physica A Statistical Mechanics and its Applications",
       "doi": "10.1016/j.physa.2022.128159",
-      "cited_by": 13,
+      "cited_by": 14,
       "keywords": [
         "cosmic ray intensity",
         "cutoff rigidity",
@@ -1167,34 +1162,11 @@
       "type": "Journal Article"
     },
     {
-      "title": "On the fractal properties of Cosmic Rays and Sun Dynamics Cross-Correlations",
-      "year": 2022,
-      "journal": "Research Square",
-      "doi": "10.21203/rs.3.rs-1984245/v1",
-      "cited_by": 0,
-      "keywords": [
-        "cosmic rays",
-        "heliosphere",
-        "solar activity",
-        "multifractal detrended fluctuation analysis",
-        "multifractal detrended cross-correlation analysis",
-        "long-range correlations",
-        "multifractal spectrum",
-        "self-similarity",
-        "solar cycle",
-        "interplanetary magnetic field",
-        "solar wind parameters",
-        "neutron monitor"
-      ],
-      "abstract": "Abstract We investigate the cosmic rays and ten physical parameters of heliosphere behavior considering the scaling features of their temporal evolution. Our analysis start with the cosmic rays measurements by a neutron monitor station located in Moscow, as well sunspot, Ap index, Na/Np, Alfven mach number, DST index, Kp index, Plasma beta β, Proton temperature, F10.7 index and Field magnitude B (",
-      "type": "Preprint"
-    },
-    {
       "title": "Muography in Colombia: Simulation Framework, Instrumentation, and Data Analysis",
       "year": 2022,
       "journal": "Journal of advanced instrumentation in science.",
       "doi": "10.31526/jais.2022.271",
-      "cited_by": 1,
+      "cited_by": 5,
       "keywords": [
         "muography",
         "MUTE",
@@ -1209,25 +1181,6 @@
       ],
       "abstract": "We present the Colombo-Argentinian Muography Program for studying inland Latin American volcanoes. It describes the implementation of a simulation framework covering various factors with different spatial and time scales: the geomagnetic effects at a particular geographic point, the development of extensive air showers in the atmosphere, the propagation through the scanned structure, and the detec",
       "type": "Journal Article"
-    },
-    {
-      "title": "Linking Cosmic Ray Intensities to Cutoff Rigidity Through Multifractal Detrented Fluctuation Analysis",
-      "year": 2022,
-      "journal": "SSRN Electronic Journal",
-      "doi": "10.2139/ssrn.4143311",
-      "cited_by": 2,
-      "keywords": [
-        "cosmic ray intensity",
-        "cutoff rigidity",
-        "multifractal detrended fluctuation analysis",
-        "neutron monitor data",
-        "Hurst exponent",
-        "multifractality",
-        "latitude dependence",
-        "cosmic ray intensity variations"
-      ],
-      "abstract": "",
-      "type": "Preprint"
     },
     {
       "title": "A Empirical Relation between Pm10 , Pm2.5 Pollution Concentration and Urban Tree Density in Urban Areas",
@@ -1278,7 +1231,7 @@
       "year": 2021,
       "journal": "International Cosmic Ray Conference",
       "doi": "10.22323/1.395.0280",
-      "cited_by": 2,
+      "cited_by": 3,
       "keywords": [
         "muography",
         "MUTE",
@@ -1320,7 +1273,7 @@
       "year": 2021,
       "journal": "Journal of South American Earth Sciences",
       "doi": "10.1016/j.jsames.2021.103248",
-      "cited_by": 24,
+      "cited_by": 28,
       "keywords": [
         "muography",
         "muon radiography",
@@ -1334,29 +1287,11 @@
       "type": "Journal Article"
     },
     {
-      "title": "Efficient improvement for the estimation of the surface free energy of asphalt binder using Machine Learning tools",
-      "year": 2021,
-      "journal": "DOAJ (DOAJ: Directory of Open Access Journals)",
-      "doi": "",
-      "cited_by": 1,
-      "keywords": [
-        "surface energy",
-        "asphalt binder",
-        "random forest",
-        "machine learning prediction",
-        "asphalt mix design",
-        "fracture resistance",
-        "adhesion"
-      ],
-      "abstract": "The Surface Free Energy (SFE) of a material is defined as the energy needed to create a new surface unit under vacuum conditions. This property is directly related to the resistance to fracture and recovery of a material and with the ability to create strong adhesion with other materials. This value can be used as a complementary parameter for the selection and optimal combination of materials for",
-      "type": "Journal Article"
-    },
-    {
       "title": "Muon Tomography sites for Colombian volcanoes",
       "year": 2020,
       "journal": "Annals of Geophysics",
       "doi": "10.4401/ag-8353",
-      "cited_by": 17,
+      "cited_by": 30,
       "keywords": [
         "muon tomography",
         "muography",
@@ -1375,7 +1310,7 @@
       "year": 2020,
       "journal": "Journal of Instrumentation",
       "doi": "10.1088/1748-0221/15/09/p09006",
-      "cited_by": 24,
+      "cited_by": 26,
       "keywords": [
         "muon detection",
         "volcano monitoring",
@@ -1439,7 +1374,7 @@
       "year": 2019,
       "journal": "International Cosmic Ray Conference",
       "doi": "10.22323/1.358.0381",
-      "cited_by": 7,
+      "cited_by": 10,
       "keywords": [
         "MUTE",
         "muography",
@@ -1458,7 +1393,7 @@
       "year": 2018,
       "journal": "Scientia et technica",
       "doi": "10.22517/23447214.17511",
-      "cited_by": 8,
+      "cited_by": 7,
       "keywords": [
         "water Cherenkov detector",
         "space weather",
@@ -1475,7 +1410,7 @@
       "year": 2018,
       "journal": "Scientia et technica",
       "doi": "10.22517/23447214.17561",
-      "cited_by": 7,
+      "cited_by": 8,
       "keywords": [
         "astroparticle physics",
         "cosmic rays",
@@ -1497,7 +1432,7 @@
       "year": 2018,
       "journal": "Astrophysics and Space Science",
       "doi": "10.1007/s10509-018-3360-8",
-      "cited_by": 17,
+      "cited_by": 15,
       "keywords": [
         "cosmic ray intensity",
         "solar activity",
@@ -1570,66 +1505,6 @@
       "type": "Other"
     },
     {
-      "title": "Data: Muon Tomography sites for Colombia volcanoes for generate muon flux trought volcanic structures (arXiv:1705.09884v1)",
-      "year": 2017,
-      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
-      "doi": "10.5281/zenodo.807741",
-      "cited_by": 0,
-      "keywords": [
-        "muon tomography",
-        "muography",
-        "volcanic edifice",
-        "muon flux",
-        "cosmic ray muons",
-        "extensive air showers",
-        "CORSIKA",
-        "muon transport",
-        "volcano monitoring",
-        "muon energy loss"
-      ],
-      "abstract": "Data: Muon Tomography sites for Colombia volcanoes (arXiv:1705.09884v1)\\nThe MuTe Collaboration\\nData for generating figure 6\\nMuon Tomography sites for Colombia volcanoes (arXiv:1705.09884v1)\\n\\nThe files in this record contain data from Extensive Atmospheric Shower simulations made by CORSIKA and Magnetocosmic codes, in a muography of Machin Volcano (Colombia) [https://volcano.si.edu/volcano.cfm",
-      "type": "Other"
-    },
-    {
-      "title": "Muon Tomography sites for Colombia volcanoes",
-      "year": 2017,
-      "journal": "arXiv (Cornell University)",
-      "doi": "",
-      "cited_by": 5,
-      "keywords": [
-        "muon tomography",
-        "muography",
-        "volcano internal structure",
-        "extensive air showers",
-        "geomagnetic effects",
-        "muon energy loss",
-        "pair production",
-        "Cerro Negro",
-        "topography"
-      ],
-      "abstract": "By using a very detailed simulation scheme, we have calculated the cosmic ray background flux at 13 active Colombian volcanoes and developed a methodology to identify the most convenient places for a muon telescope to study their inner structure. \r\nOur simulation scheme considers three critical factors with different spatial and time scales: the geomagnetic effects, the development of extensive ai",
-      "type": "Preprint"
-    },
-    {
-      "title": "Muon Tomography sites for Colombian volcanoes",
-      "year": 2017,
-      "journal": "arXiv (Cornell University)",
-      "doi": "10.48550/arxiv.1705.09884",
-      "cited_by": 3,
-      "keywords": [
-        "muon tomography",
-        "muography",
-        "volcano internal structure",
-        "extensive air showers",
-        "muon energy loss",
-        "pair production",
-        "Cerro Negro",
-        "geomagnetic effects"
-      ],
-      "abstract": "By using a very detailed simulation scheme, we have calculated the cosmic ray background flux at 13 active Colombian volcanoes and developed a methodology to identify the most convenient places for a muon telescope to study their inner structure. Our simulation scheme considers three critical factors with different spatial and time scales: the geomagnetic effects, the development of extensive air ",
-      "type": "Preprint"
-    },
-    {
       "title": "On the polynomial solution of the first Painlevé equation",
       "year": 2017,
       "journal": "International Journal of Applied Mathematical Research",
@@ -1700,15 +1575,22 @@
     {
       "title": "Verhulst's Lagrangean and self-regulated systems",
       "year": 2006,
-      "journal": "Revista Mexicana de Física",
+      "journal": "Redalyc (Universidad Autónoma del Estado de México)",
       "doi": "",
       "cited_by": 0,
       "keywords": [
+        "variational formulation",
+        "Lagrangian",
+        "Hamiltonian",
+        "logistic equation",
         "population dynamics",
-        "structural engineering",
-        "nonlinear dynamics"
+        "energy function",
+        "equilibrium",
+        "symmetries of differential equations",
+        "hysteresis",
+        "radioactive decay"
       ],
-      "abstract": "Resumen en: Many examples of systems presenting self-limiting behaviour exist in nature: population dynamics, structure engineering, Townsend?s electron breakdown, n...",
+      "abstract": "\"Many examples of systems presenting self-limiting behaviour exist in nature: population dynamics, structure engineering, Townsend¿s electron breakdown, nuclear decay in radioactive equilibrium, histeresis process, meteorological models, etcetera. Each case is treated, generally with a different theory, sometimes a phenomenological one. In this work, we call your attention to the advantages the us",
       "type": "Journal Article"
     },
     {
