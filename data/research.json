@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-16",
+  "generated_at": "2026-11-23",
   "author": {
     "name": "David Sierra-Porta",
     "scopus_id": "57191333650",
     "orcid": "0000-0003-3461-1347",
     "scopus_url": "https://www.scopus.com/authid/detail.uri?authorId=57191333650",
     "orcid_url": "https://orcid.org/0000-0003-3461-1347",
-    "h_index": 11,
-    "citation_count": 856,
+    "h_index": 12,
+    "citation_count": 981,
     "document_count": 73,
     "affiliation": "Universidad Tecnológica de Bolívar"
   },
@@ -35,18 +35,19 @@
     "2026": 20
   },
   "citation_trend": {
+    "2006": 3,
     "2015": 4,
-    "2016": 1,
-    "2017": 4,
-    "2018": 32,
-    "2019": 15,
-    "2020": 67,
-    "2021": 31,
-    "2022": 40,
-    "2023": 534,
-    "2024": 126,
-    "2025": 15,
-    "2026": 4
+    "2016": 3,
+    "2017": 6,
+    "2018": 33,
+    "2019": 17,
+    "2020": 73,
+    "2021": 33,
+    "2022": 42,
+    "2023": 624,
+    "2024": 141,
+    "2025": 17,
+    "2026": 5
   },
   "fingerprint": [
     {
@@ -58,6 +59,10 @@
       "score": 91
     },
     {
+      "term": "space weather",
+      "score": 91
+    },
+    {
       "term": "solar activity",
       "score": 91
     },
@@ -66,23 +71,19 @@
       "score": 82
     },
     {
-      "term": "space weather",
-      "score": 82
+      "term": "geomagnetic storms",
+      "score": 73
     },
     {
       "term": "forbush decreases",
       "score": 73
     },
     {
-      "term": "ray",
-      "score": 64
-    },
-    {
       "term": "time",
       "score": 64
     },
     {
-      "term": "geomagnetic storms",
+      "term": "ray",
       "score": 64
     },
     {
@@ -94,19 +95,15 @@
       "score": 64
     },
     {
-      "term": "learning",
-      "score": 64
-    },
-    {
       "term": "machine",
       "score": 64
     },
     {
-      "term": "interplanetary magnetic field",
-      "score": 55
+      "term": "learning",
+      "score": 64
     },
     {
-      "term": "space weather forecasting",
+      "term": "interplanetary magnetic field",
       "score": 55
     },
     {
@@ -115,6 +112,10 @@
     },
     {
       "term": "urban",
+      "score": 55
+    },
+    {
+      "term": "water cherenkov detector",
       "score": 55
     },
     {
@@ -142,7 +143,7 @@
       "score": 45
     },
     {
-      "term": "solar wind",
+      "term": "space weather forecasting",
       "score": 45
     }
   ],
@@ -272,18 +273,15 @@
       "type": "Journal Article"
     },
     {
-      "title": "sierraporta/functional-dfa: Functional DFA",
+      "title": "sierraporta/functional-dfa: functional-dfa v2.0.0",
       "year": 2026,
       "journal": "Zenodo (CERN European Organization for Nuclear Research)",
       "doi": "10.5281/zenodo.21398158",
       "cited_by": 0,
       "keywords": [
-        "detrended fluctuation analysis",
-        "power means",
-        "median aggregation",
-        "fractal analysis"
+        "functional data analysis"
       ],
-      "abstract": "A two-layer generalization of DFA/MFDFA in which the local fluctuation measure (classically, the variance of the detrending residuals) is a pluggable dispersion functional Φ, and the aggregation across windows is a pluggable outer layer (power means or the median). Classical DFA is the member FDFA(RMS, A₂); classical MFDFA is the slice {FDFA(RMS, A_q)}",
+      "abstract": "Version 2.0.0 This version includes updates and new files in the repository. Key changes: File updates: Existing files have been modified to improve their content/performance. New files: New resources have been added to the repository. Note: This release automatically triggers the update and assignment of a new DOI on Zenodo.",
       "type": "Other"
     },
     {
@@ -317,7 +315,7 @@
       "year": 2026,
       "journal": "Acta Astronautica",
       "doi": "10.1016/j.actaastro.2026.07.024",
-      "cited_by": 0,
+      "cited_by": 1,
       "keywords": [
         "Forbush decreases",
         "galactic cosmic ray intensity",
@@ -427,7 +425,7 @@
         "hyperbolic random graphs",
         "Erdős-Rényi random graphs"
       ],
-      "abstract": "Abstract We introduce a discrete curvature measure for graphs based on the Cayley–Menger determinant, which we term Cayley–Menger curvature ($ \\symbf{\\kappa_{\\textbf{CM}}} $). For each node, we construct local tetrahedra from its nearest neighbors under the effective resistance metric, compute the Cayley–Menger determinant to embed them in Euclidean space, and extract the circumradius as a proxy f",
+      "abstract": "We introduce a discrete curvature measure for graphs based on the Cayley–Menger determinant, which we term Cayley–Menger curvature ($ \\symbf{\\kappa_{\\textbf{CM}}} $). For each node, we construct local tetrahedra from its nearest neighbors under the effective resistance metric, compute the Cayley–Menger determinant to embed them in Euclidean space, and extract the circumradius as a proxy for local ",
       "type": "Journal Article"
     },
     {
@@ -445,7 +443,7 @@
         "Katz centrality",
         "Colombian cities"
       ],
-      "abstract": "Abstract We propose an interpretable, network-based measure of tourism resilience that maps destinations on a two-dimensional plane combining pre-shock market diversity and shock-period hierarchisation. Using monthly inbound international arrivals of non-resident foreigners to Colombian cities, we compute (i) pre-shock Shannon entropy of origins (2018–2019) and (ii) the maximum absolute residual f",
+      "abstract": "We propose an interpretable, network-based measure of tourism resilience that maps destinations on a two-dimensional plane combining pre-shock market diversity and shock-period hierarchisation. Using monthly inbound international arrivals of non-resident foreigners to Colombian cities, we compute (i) pre-shock Shannon entropy of origins (2018–2019) and (ii) the maximum absolute residual from a mon",
       "type": "Journal Article"
     },
     {
@@ -459,9 +457,10 @@
         "fine fraction",
         "robust statistics",
         "seasonal variation",
-        "land use"
+        "land use",
+        "air pollution exposure"
       ],
-      "abstract": "ABSTRACT The objective of this study is to develop and evaluate an interpretable, robust station–season index that characterizes fine–coarse particulate‐matter mixture regimes using routinely available regulatory monitoring data. Using EPA AQS daily and observations (2022–2024), we computed the daily fine fraction and coarse mass . Each station–season–year was summarized by robust statistics: the ",
+      "abstract": "The objective of this study is to develop and evaluate an interpretable, robust station–season index that characterizes fine–coarse particulate‐matter mixture regimes using routinely available regulatory monitoring data. Using EPA AQS daily and observations (2022–2024), we computed the daily fine fraction and coarse mass . Each station–season–year was summarized by robust statistics: the median fi",
       "type": "Journal Article"
     },
     {
@@ -637,12 +636,13 @@
         "Hurst exponent",
         "permutation entropy",
         "Shannon entropy",
-        "geomagnetic activity",
         "solar wind-magnetosphere coupling",
-        "space weather forecasting",
+        "geomagnetic storms",
+        "solar cycle phases",
+        "space weather",
         "OMNI data"
       ],
-      "abstract": "Traditional solar-cycle studies emphasize amplitude- and duration-based indicators, overlooking the intrinsic complexity of heliospheric fluctuations. Entropy- and fractal-based descriptors offer complementary insight, but a cycle-resolved assessment across multiple observables has been missing. Using daily OMNI-2 data (1964–2025), we segment each solar cycle (20–25) into ascending and descending ",
+      "abstract": "Background Traditional solar-cycle studies emphasize amplitude- and duration-based indicators, overlooking the intrinsic complexity of heliospheric fluctuations. Entropy- and fractal-based descriptors offer complementary insight, but a cycle-resolved assessment across multiple observables has been missing. Methods Using daily OMNI-2 data (1964–2025), we segment each solar cycle (20–25) into ascend",
       "type": "Journal Article"
     },
     {
@@ -674,7 +674,7 @@
       "year": 2025,
       "journal": "PLoS ONE",
       "doi": "10.1371/journal.pone.0327716",
-      "cited_by": 6,
+      "cited_by": 8,
       "keywords": [
         "geomagnetic storms",
         "power system failures",
@@ -754,7 +754,7 @@
       "year": 2024,
       "journal": "Sustainable Cities and Society",
       "doi": "10.1016/j.scs.2024.106076",
-      "cited_by": 43,
+      "cited_by": 44,
       "keywords": [
         "urban mobility",
         "urban network structure",
@@ -777,7 +777,7 @@
       "year": 2024,
       "journal": "Advances in Space Research",
       "doi": "10.1016/j.asr.2024.10.065",
-      "cited_by": 3,
+      "cited_by": 4,
       "keywords": [
         "cosmic ray intensity",
         "solar activity",
@@ -798,7 +798,7 @@
       "year": 2024,
       "journal": "Advances in Space Research",
       "doi": "10.1016/j.asr.2024.08.031",
-      "cited_by": 19,
+      "cited_by": 22,
       "keywords": [
         "geomagnetic storms",
         "geomagnetic storm prediction",
@@ -821,7 +821,7 @@
       "year": 2024,
       "journal": "International Journal of Remote Sensing",
       "doi": "10.1080/01431161.2024.2373338",
-      "cited_by": 7,
+      "cited_by": 11,
       "keywords": [
         "low-cost air quality sensors",
         "sensor calibration",
@@ -841,7 +841,7 @@
       "year": 2024,
       "journal": "Astronomy and Computing",
       "doi": "10.1016/j.ascom.2024.100857",
-      "cited_by": 4,
+      "cited_by": 6,
       "keywords": [
         "sunspot number prediction",
         "topological properties",
@@ -922,7 +922,7 @@
       "year": 2024,
       "journal": "Discover Water",
       "doi": "10.1007/s43832-024-00068-y",
-      "cited_by": 27,
+      "cited_by": 31,
       "keywords": [
         "water quality index",
         "missing data imputation",
@@ -931,12 +931,13 @@
         "machine learning imputation",
         "Bayesian ridge regression",
         "gradient boosting",
-        "support vector machine",
+        "support vector regression",
         "Theil-Sen regression",
+        "ridge regression",
         "Kling-Gupta efficiency",
         "water quality parameters"
       ],
-      "abstract": "Abstract Despite the regulations and controls implemented worldwide by governments and institutions to ensure the availability and quality of water resources, many water sources remain susceptible to contamination. This contamination poses significant risks to human health and can lead to substantial economic losses. One of the challenges in this context is the presence of missing or incomplete da",
+      "abstract": "Despite the regulations and controls implemented worldwide by governments and institutions to ensure the availability and quality of water resources, many water sources remain susceptible to contamination. This contamination poses significant risks to human health and can lead to substantial economic losses. One of the challenges in this context is the presence of missing or incomplete data, which",
       "type": "Journal Article"
     },
     {
@@ -1040,7 +1041,7 @@
       "year": 2023,
       "journal": "The Astronomical Journal",
       "doi": "10.3847/1538-3881/accff8",
-      "cited_by": 381,
+      "cited_by": 456,
       "keywords": [
         "DESI",
         "survey design",
@@ -1051,7 +1052,7 @@
         "galaxy populations",
         "survey validation"
       ],
-      "abstract": "Abstract Over the next 5 yr, the Dark Energy Spectroscopic Instrument (DESI) will use 10 spectrographs with 5000 fibers on the 4 m Mayall Telescope at Kitt Peak National Observatory to conduct the first Stage IV dark energy galaxy survey. At z < 0.6, the DESI Bright Galaxy Survey (BGS) will produce the most detailed map of the universe during the dark-energy-dominated epoch with redshifts of >10 m",
+      "abstract": "Over the next 5 yr, the Dark Energy Spectroscopic Instrument (DESI) will use 10 spectrographs with 5000 fibers on the 4 m Mayall Telescope at Kitt Peak National Observatory to conduct the first Stage IV dark energy galaxy survey. At z < 0.6, the DESI Bright Galaxy Survey (BGS) will produce the most detailed map of the universe during the dark-energy-dominated epoch with redshifts of >10 million ga",
       "type": "Journal Article"
     },
     {
@@ -1059,7 +1060,7 @@
       "year": 2023,
       "journal": "CLEAN - Soil Air Water",
       "doi": "10.1002/clen.202200222",
-      "cited_by": 18,
+      "cited_by": 19,
       "keywords": [
         "PM10",
         "PM2.5",
@@ -1070,7 +1071,7 @@
         "satellite imagery",
         "urban air pollution"
       ],
-      "abstract": "Abstract Particulate matter, PM10 and PM2.5, represents common air pollutants in cities and constitute a considerable threat to public health impacting daily activity of people living in city. In large cities, the main sources of PM10 and PM2.5 are diesel engine exhaust, brake dust, and particulate matter from vehicle tires. These particles can be deposited, filtered, and considerably reduced if t",
+      "abstract": "Particulate matter, PM10 and PM2.5, represents common air pollutants in cities and constitute a considerable threat to public health impacting daily activity of people living in city. In large cities, the main sources of PM10 and PM2.5 are diesel engine exhaust, brake dust, and particulate matter from vehicle tires. These particles can be deposited, filtered, and considerably reduced if there is a",
       "type": "Journal Article"
     },
     {
@@ -1078,7 +1079,7 @@
       "year": 2023,
       "journal": "Advances in Space Research",
       "doi": "10.1016/j.asr.2023.02.044",
-      "cited_by": 8,
+      "cited_by": 9,
       "keywords": [
         "cosmic ray intensity",
         "solar activity",
@@ -1098,7 +1099,7 @@
       "year": 2023,
       "journal": "The Astrophysical Journal",
       "doi": "10.3847/1538-4357/aca5fa",
-      "cited_by": 124,
+      "cited_by": 137,
       "keywords": [
         "DESI survey",
         "luminous red galaxies",
@@ -1109,7 +1110,7 @@
         "redshift accuracy",
         "Lyman-alpha emitters"
       ],
-      "abstract": "Abstract The Dark Energy Spectroscopic Instrument (DESI) Survey has obtained a set of spectroscopic measurements of galaxies to validate the final survey design and target selections. To assist in these tasks, we visually inspect DESI spectra of approximately 2500 bright galaxies, 3500 luminous red galaxies (LRGs), and 10,000 emission-line galaxies (ELGs) to obtain robust redshift identifications.",
+      "abstract": "The Dark Energy Spectroscopic Instrument (DESI) Survey has obtained a set of spectroscopic measurements of galaxies to validate the final survey design and target selections. To assist in these tasks, we visually inspect DESI spectra of approximately 2500 bright galaxies, 3500 luminous red galaxies (LRGs), and 10,000 emission-line galaxies (ELGs) to obtain robust redshift identifications. We then ",
       "type": "Journal Article"
     },
     {
@@ -1117,7 +1118,7 @@
       "year": 2022,
       "journal": "Astrophysics and Space Science",
       "doi": "10.1007/s10509-022-04151-5",
-      "cited_by": 18,
+      "cited_by": 20,
       "keywords": [
         "cosmic rays",
         "solar activity",
@@ -1133,7 +1134,7 @@
         "solar wind parameters",
         "neutron monitor"
       ],
-      "abstract": "Abstract We investigate the cosmic rays and ten physical parameters of heliosphere behavior considering the scaling features of their temporal evolution. Our analysis start with the cosmic rays measurements by a neutron monitor station located in Moscow, as well sunspot, Ap index, Na/Np, Alfven mach number, DST index, Kp index, Plasma beta ( $\\beta $ β ), Proton temperature, $F_{10.7}$ F 10.7 inde",
+      "abstract": "We investigate the cosmic rays and ten physical parameters of heliosphere behavior considering the scaling features of their temporal evolution. Our analysis start with the cosmic rays measurements by a neutron monitor station located in Moscow, as well sunspot, Ap index, Na/Np, Alfven mach number, DST index, Kp index, Plasma beta ( $\\beta $ β ), Proton temperature, $F_{10.7}$ F 10.7 index and Fie",
       "type": "Journal Article"
     },
     {
@@ -1152,7 +1153,7 @@
         "radial velocity",
         "simulation convergence"
       ],
-      "abstract": "Abstract The kinematics of the Milky Way (MW) and M31, the dominant galaxies in the Local Group (LG), can be used to estimate the LG total mass. New results on the M31 proper motion have recently been used to improve that estimate. Those results are based on kinematic priors that are sometimes guided and evaluated using cosmological N-body simulations. However, the kinematic properties of simulate",
+      "abstract": "The kinematics of the Milky Way (MW) and M31, the dominant galaxies in the Local Group (LG), can be used to estimate the LG total mass. New results on the M31 proper motion have recently been used to improve that estimate. Those results are based on kinematic priors that are sometimes guided and evaluated using cosmological N-body simulations. However, the kinematic properties of simulated LG anal",
       "type": "Journal Article"
     },
     {
@@ -1245,7 +1246,7 @@
       "year": 2021,
       "journal": "International Cosmic Ray Conference",
       "doi": "10.22323/1.395.0280",
-      "cited_by": 3,
+      "cited_by": 4,
       "keywords": [
         "muography",
         "MUTE",
@@ -1287,7 +1288,7 @@
       "year": 2021,
       "journal": "Journal of South American Earth Sciences",
       "doi": "10.1016/j.jsames.2021.103248",
-      "cited_by": 27,
+      "cited_by": 28,
       "keywords": [
         "muography",
         "muon radiography",
@@ -1305,7 +1306,7 @@
       "year": 2020,
       "journal": "Annals of Geophysics",
       "doi": "10.4401/ag-8353",
-      "cited_by": 30,
+      "cited_by": 32,
       "keywords": [
         "muon tomography",
         "muography",
@@ -1324,12 +1325,18 @@
       "year": 2020,
       "journal": "Journal of Instrumentation",
       "doi": "10.1088/1748-0221/15/09/p09006",
-      "cited_by": 26,
+      "cited_by": 30,
       "keywords": [
-        "muon detection",
+        "MUTE",
+        "muon tomography",
         "volcano monitoring",
-        "muon radiography",
-        "instrument design and construction"
+        "water Cherenkov detector",
+        "particle tracking",
+        "background suppression",
+        "particle identification",
+        "front-end electronics",
+        "low power consumption",
+        "mechanical robustness"
       ],
       "abstract": "We present a hybrid Muon Telescope, MuTe, designed and built for imaging active Colombian volcanoes. The MuTe has a resolution of tens of meters, low power consumption, robustness and transportability making it suitable for using in difficult access zones where active volcanoes usually are. The main feature of MuTe is the implementation of a hybrid detection technique combining two scintillation p",
       "type": "Journal Article"
@@ -1388,7 +1395,7 @@
       "year": 2019,
       "journal": "International Cosmic Ray Conference",
       "doi": "10.22323/1.358.0381",
-      "cited_by": 10,
+      "cited_by": 12,
       "keywords": [
         "MUTE",
         "muography",
@@ -1446,7 +1453,7 @@
       "year": 2018,
       "journal": "Astrophysics and Space Science",
       "doi": "10.1007/s10509-018-3360-8",
-      "cited_by": 15,
+      "cited_by": 16,
       "keywords": [
         "cosmic ray intensity",
         "solar activity",
@@ -1484,7 +1491,7 @@
       "year": 2017,
       "journal": "Revista Mexicana de Física",
       "doi": "10.31349/revmexfis.63.4.333",
-      "cited_by": 1,
+      "cited_by": 2,
       "keywords": [
         "Thomas-Fermi equation",
         "variational methods",
@@ -1523,7 +1530,7 @@
       "year": 2017,
       "journal": "International Journal of Applied Mathematical Research",
       "doi": "10.14419/ijamr.v6i1.6559",
-      "cited_by": 3,
+      "cited_by": 4,
       "keywords": [
         "first Painlevé equation",
         "polynomial solutions",
@@ -1539,7 +1546,7 @@
       "year": 2016,
       "journal": "Revista Mexicana de Física",
       "doi": "10.31349/revmexfis.62.6.538",
-      "cited_by": 1,
+      "cited_by": 3,
       "keywords": [
         "Thomas-Fermi approximation",
         "variational methods",
@@ -1591,7 +1598,7 @@
       "year": 2006,
       "journal": "Revista Mexicana de Física",
       "doi": "",
-      "cited_by": 0,
+      "cited_by": 1,
       "keywords": [
         "variational formulation",
         "Lagrangian",
@@ -1612,7 +1619,7 @@
       "year": 2006,
       "journal": "Journal of Physics A Mathematical and General",
       "doi": "10.1088/0305-4470/39/4/l03",
-      "cited_by": 0,
+      "cited_by": 2,
       "keywords": [
         "stochastic partial differential equations",
         "potential formulation",
